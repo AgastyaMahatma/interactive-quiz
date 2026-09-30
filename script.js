@@ -61,16 +61,12 @@ async function init() {
     `Files are read on your computer only.`;
 }
 
-// Works when the page is served (e.g. python -m http.server): reads the folder's file listing.
 async function scanFolder() {
   try {
-    const res = await fetch(encodeURIComponent(BANK_FOLDER) + "/");
+    const res = await fetch(encodeURIComponent(BANK_FOLDER) + "/index.json");
     if (!res.ok) return [];
-    const doc = new DOMParser().parseFromString(await res.text(), "text/html");
-    const names = [...doc.querySelectorAll("a")]
-      .map((a) => decodeURIComponent((a.getAttribute("href") || "").split("/").pop()))
-      .filter(isJson);
-    return [...new Set(names)].map((file) => ({
+    const files = await res.json();
+    return files.filter(isJson).map((file) => ({
       name: baseName(file),
       load: async () => {
         const r = await fetch(encodeURIComponent(BANK_FOLDER) + "/" + encodeURIComponent(file));
