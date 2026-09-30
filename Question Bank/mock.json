@@ -1,0 +1,1155 @@
+{
+  "title": "100 Soal Biologi - Silabus PSC 2026",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "A. Klasifikasi Makhluk Hidup (Sistem Kingdom)",
+      "questions": [
+        {
+          "question": "Sistem klasifikasi makhluk hidup ke dalam lima kingdom (Monera, Protista, Fungi, Plantae, dan Animalia) dikemukakan oleh ....",
+          "options": [
+            "R. H. Whittaker",
+            "Carolus Linnaeus",
+            "Charles Darwin",
+            "Gregor Mendel"
+          ],
+          "answer": 0,
+          "explanation": "Sistem lima kingdom diusulkan oleh Robert H. Whittaker pada tahun 1969. Linnaeus dikenal dengan tata nama binomial, Darwin dengan teori evolusi, dan Mendel dengan hukum pewarisan sifat."
+        },
+        {
+          "question": "Organisme bersel satu yang tidak memiliki membran inti (prokariot), seperti bakteri, dikelompokkan ke dalam kingdom ....",
+          "options": [
+            "Protista",
+            "Fungi",
+            "Plantae",
+            "Monera"
+          ],
+          "answer": 3,
+          "explanation": "Monera beranggotakan organisme prokariotik, yaitu sel yang materi genetiknya tidak dibungkus membran inti. Protista, Fungi, Plantae, dan Animalia tersusun atas sel eukariotik."
+        },
+        {
+          "question": "Jamur dimasukkan ke dalam kingdom Fungi, bukan Plantae, karena jamur bersifat ....",
+          "options": [
+            "autotrof karena memiliki klorofil",
+            "heterotrof dan dinding selnya tersusun dari kitin",
+            "autotrof dan dinding selnya tersusun dari selulosa",
+            "heterotrof dan tidak memiliki dinding sel"
+          ],
+          "answer": 1,
+          "explanation": "Jamur tidak memiliki klorofil sehingga tidak dapat berfotosintesis dan hidup secara heterotrof (saprofit, parasit, atau mutualis). Dinding selnya tersusun dari kitin, bukan selulosa seperti pada tumbuhan."
+        },
+        {
+          "question": "Urutan takson dari tingkat yang paling rendah ke tingkat yang paling tinggi adalah ....",
+          "options": [
+            "spesies - genus - famili - ordo - kelas - filum - kingdom",
+            "spesies - famili - genus - ordo - kelas - filum - kingdom",
+            "genus - spesies - famili - kelas - ordo - filum - kingdom",
+            "spesies - genus - famili - kelas - ordo - filum - kingdom"
+          ],
+          "answer": 0,
+          "explanation": "Hierarki takson dari yang terendah: spesies, genus, famili, ordo, kelas, filum (divisi pada tumbuhan), kingdom. Pilihan lain menukar posisi genus-famili, genus-spesies, atau kelas-ordo. Tips: Semakin tinggi tingkat takson, semakin banyak anggotanya dan semakin umum kesamaan sifat yang dimiliki."
+        },
+        {
+          "question": "Penulisan nama ilmiah singa yang benar menurut aturan tata nama binomial (dalam cetakan, nama ilmiah ditulis miring) adalah ....",
+          "options": [
+            "Panthera leo",
+            "panthera Leo",
+            "Panthera Leo",
+            "PANTHERA LEO"
+          ],
+          "answer": 0,
+          "explanation": "Aturan binomial Linnaeus: kata pertama adalah nama genus dan diawali huruf kapital, kata kedua adalah epitet spesifik dan seluruhnya huruf kecil. Keduanya dicetak miring atau digarisbawahi jika ditulis tangan."
+        },
+        {
+          "question": "Seorang siswa mengamati organisme air tawar bersel satu yang memiliki inti sel sejati, klorofil, dan bergerak menggunakan sebuah flagel. Organisme tersebut paling tepat dimasukkan ke dalam kingdom ....",
+          "options": [
+            "Monera",
+            "Fungi",
+            "Plantae",
+            "Protista"
+          ],
+          "answer": 3,
+          "explanation": "Memiliki inti sel sejati berarti bukan Monera. Bersel tunggal berarti bukan Plantae (multiseluler), dan berklorofil berarti bukan Fungi. Organisme seperti Euglena termasuk Protista mirip tumbuhan."
+        },
+        {
+          "question": "Pada sistem tiga domain yang diusulkan Carl Woese, organisme prokariot dipisahkan menjadi dua domain, yaitu ....",
+          "options": [
+            "Archaea dan Eukarya",
+            "Bacteria dan Eukarya",
+            "Monera dan Protista",
+            "Archaea dan Bacteria"
+          ],
+          "answer": 3,
+          "explanation": "Berdasarkan perbandingan urutan rRNA, Woese membagi makhluk hidup menjadi Bacteria, Archaea, dan Eukarya. Dua domain pertama adalah prokariot, sedangkan Eukarya mencakup Protista, Fungi, Plantae, dan Animalia."
+        },
+        {
+          "question": "Ciri yang membedakan sel hewan (Animalia) dari sel tumbuhan dan sel jamur adalah ....",
+          "options": [
+            "tubuhnya multiseluler",
+            "selnya tidak memiliki dinding sel",
+            "cara hidupnya heterotrof",
+            "selnya memiliki membran inti"
+          ],
+          "answer": 1,
+          "explanation": "Multiseluler juga dimiliki tumbuhan dan banyak jamur, heterotrof juga dimiliki jamur, dan membran inti dimiliki semua eukariot. Hanya sel hewan yang tidak memiliki dinding sel (tumbuhan: selulosa, jamur: kitin)."
+        },
+        {
+          "question": "Perhatikan nama ilmiah empat hewan berikut: P. Felis catus, Q. Felis silvestris, R. Panthera leo, S. Canis lupus. Pasangan hewan yang memiliki hubungan kekerabatan paling dekat adalah ....",
+          "options": [
+            "P dan R",
+            "P dan Q",
+            "Q dan S",
+            "R dan S"
+          ],
+          "answer": 1,
+          "explanation": "P dan Q berada dalam satu genus (Felis), yaitu takson bersama yang paling rendah. P dan R berbeda genus tetapi masih satu famili (Felidae). S berada pada famili Canidae, hanya berbagi ordo (Carnivora) dengan kucing. Semakin rendah takson yang dimiliki bersama, semakin dekat kekerabatannya. Tips: Bandingkan tingkat takson terendah yang sama. Nama genus yang sama pada nama ilmiah langsung menunjukkan kekerabatan dekat."
+        },
+        {
+          "question": "Virus tidak dimasukkan ke dalam salah satu dari lima kingdom karena ....",
+          "options": [
+            "tidak tersusun atas sel dan hanya dapat memperbanyak diri di dalam sel inang",
+            "ukurannya terlalu kecil untuk diamati",
+            "tidak memiliki materi genetik",
+            "hanya memiliki satu sel tanpa membran inti"
+          ],
+          "answer": 0,
+          "explanation": "Virus bersifat aselular (bukan sel), terdiri atas materi genetik (DNA atau RNA) yang dibungkus kapsid, dan baru dapat bereproduksi setelah menginfeksi sel inang. Sistem kingdom hanya mengelompokkan organisme yang tersusun atas sel."
+        }
+      ]
+    },
+    {
+      "title": "B. Interaksi Makhluk Hidup",
+      "questions": [
+        {
+          "question": "Sekelompok ikan mas sejenis yang hidup di sebuah kolam pada waktu yang sama disebut ....",
+          "options": [
+            "komunitas",
+            "ekosistem",
+            "biosfer",
+            "populasi"
+          ],
+          "answer": 3,
+          "explanation": "Populasi adalah kumpulan individu sejenis (satu spesies) yang menempati tempat dan waktu yang sama. Komunitas terdiri atas beberapa populasi berbeda jenis."
+        },
+        {
+          "question": "Semua populasi makhluk hidup yang berbeda jenis dan saling berinteraksi di suatu sawah disebut ....",
+          "options": [
+            "populasi",
+            "komunitas",
+            "spesies",
+            "biosfer"
+          ],
+          "answer": 1,
+          "explanation": "Komunitas adalah kumpulan berbagai populasi yang hidup dan berinteraksi di suatu daerah. Jika komunitas berinteraksi dengan lingkungan abiotiknya, terbentuklah ekosistem."
+        },
+        {
+          "question": "Berikut ini yang BUKAN termasuk komponen abiotik suatu ekosistem adalah ....",
+          "options": [
+            "suhu udara",
+            "bakteri pengurai",
+            "kelembapan",
+            "cahaya matahari"
+          ],
+          "answer": 1,
+          "explanation": "Komponen abiotik adalah benda tak hidup: suhu, kelembapan, cahaya, air, tanah, dan udara. Bakteri pengurai adalah makhluk hidup sehingga termasuk komponen biotik."
+        },
+        {
+          "question": "Sebuah kolam beserta ikan, teratai, plankton, air, batu, dan cahaya matahari di dalamnya merupakan contoh ....",
+          "options": [
+            "komunitas",
+            "populasi",
+            "ekosistem",
+            "biosfer"
+          ],
+          "answer": 2,
+          "explanation": "Ekosistem adalah hubungan timbal balik antara komunitas (komponen biotik) dan lingkungan abiotiknya. Biosfer adalah seluruh bagian Bumi yang dihuni makhluk hidup, sehingga cakupannya jauh lebih luas."
+        },
+        {
+          "question": "Pada rantai makanan padi - tikus - ular - elang, jika populasi ular menurun drastis karena diburu manusia, dampak yang paling mungkin terjadi dalam jangka pendek adalah ....",
+          "options": [
+            "populasi padi meningkat",
+            "populasi elang meningkat",
+            "populasi tikus menurun",
+            "populasi tikus meningkat"
+          ],
+          "answer": 3,
+          "explanation": "Ular adalah pemangsa tikus. Berkurangnya pemangsa membuat populasi tikus naik, sehingga padi yang dimakan tikus justru berkurang. Elang kehilangan salah satu sumber makanan sehingga cenderung menurun."
+        },
+        {
+          "question": "Anggrek menempel pada batang pohon mangga untuk mendapatkan tempat hidup dan cahaya, sedangkan pohon mangga tidak diuntungkan maupun dirugikan. Hubungan tersebut disebut ....",
+          "options": [
+            "mutualisme",
+            "parasitisme",
+            "kompetisi",
+            "komensalisme"
+          ],
+          "answer": 3,
+          "explanation": "Pada komensalisme satu pihak untung dan pihak lain tidak terpengaruh. Anggrek epifit tidak menyerap zat makanan dari inangnya, sehingga bukan parasitisme."
+        },
+        {
+          "question": "Pasangan organisme dan jenis hubungan yang tepat di bawah ini adalah ....",
+          "options": [
+            "benalu dan pohon inang - komensalisme",
+            "burung jalak dan kerbau - mutualisme",
+            "ikan remora dan hiu - parasitisme",
+            "kutu dan anjing - mutualisme"
+          ],
+          "answer": 1,
+          "explanation": "Jalak mendapat makanan berupa kutu di tubuh kerbau dan kerbau terbebas dari kutu, sehingga keduanya diuntungkan (mutualisme). Benalu merugikan inangnya (parasitisme), remora dan hiu umumnya komensalisme, kutu merugikan anjing (parasitisme)."
+        },
+        {
+          "question": "Energi yang tersimpan pada produsen dalam suatu rantai makanan sebesar 10.000 kJ. Jika energi yang berpindah ke tingkat trofik berikutnya sebesar 10%, energi yang diterima konsumen tingkat III adalah ....",
+          "options": [
+            "1.000 kJ",
+            "100 kJ",
+            "1 kJ",
+            "10 kJ"
+          ],
+          "answer": 3,
+          "explanation": "Produsen 10.000 kJ, konsumen I menerima 1.000 kJ, konsumen II menerima 100 kJ, dan konsumen III menerima 10 kJ. Setiap perpindahan tingkat trofik mengalami kehilangan sekitar 90% energi sebagai panas dan untuk aktivitas hidup. Tips: Konsumen tingkat III berada pada tingkat trofik ke-4, jadi 10% dikalikan sebanyak tiga kali."
+        },
+        {
+          "question": "Di suatu padang rumput: rumput dimakan belalang dan tikus; belalang dimakan katak; tikus dimakan ular dan elang; katak dimakan ular; ular dimakan elang. Jumlah rantai makanan yang berakhir pada elang adalah ....",
+          "options": [
+            "2",
+            "4",
+            "5",
+            "3"
+          ],
+          "answer": 3,
+          "explanation": "Rantai yang berakhir pada elang: (1) rumput - belalang - katak - ular - elang; (2) rumput - tikus - ular - elang; (3) rumput - tikus - elang. Belalang hanya dimakan katak dan katak hanya dimakan ular, sehingga tidak ada rantai lain. Tips: Telusuri dari produsen, catat setiap percabangan, lalu hitung jalur yang bermuara pada organisme yang ditanyakan."
+        },
+        {
+          "question": "Dalam daur nitrogen, bakteri yang mengubah nitrit (NO₂⁻) menjadi nitrat (NO₃⁻) adalah ....",
+          "options": [
+            "Nitrobacter",
+            "Nitrosomonas",
+            "Rhizobium",
+            "Pseudomonas denitrificans"
+          ],
+          "answer": 0,
+          "explanation": "Nitrifikasi berlangsung dua tahap: Nitrosomonas mengubah amonia menjadi nitrit, lalu Nitrobacter mengubah nitrit menjadi nitrat. Rhizobium memfiksasi N₂ pada bintil akar kacang-kacangan, sedangkan Pseudomonas denitrificans melakukan denitrifikasi (nitrat menjadi gas N₂)."
+        },
+        {
+          "question": "Kuda betina dikawinkan dengan keledai jantan dan menghasilkan bagal yang hampir selalu mandul. Fakta ini menunjukkan bahwa kuda dan keledai ....",
+          "options": [
+            "merupakan satu spesies karena dapat kawin dan menghasilkan keturunan",
+            "merupakan satu spesies karena hidup di habitat yang sama",
+            "merupakan spesies yang berbeda karena keturunannya tidak fertil",
+            "merupakan satu populasi karena saling berinteraksi"
+          ],
+          "answer": 2,
+          "explanation": "Menurut konsep spesies biologis, anggota satu spesies dapat kawin dan menghasilkan keturunan yang subur. Kuda dan keledai dapat kawin, tetapi bagalnya mandul, sehingga keduanya dianggap spesies berbeda. Populasi hanya mencakup individu dari satu spesies. Tips: Kemampuan kawin saja tidak cukup menentukan spesies. Yang diuji adalah apakah keturunannya fertil."
+        },
+        {
+          "question": "Sebuah danau seluas 2 hektare dihuni 240 ekor ikan nila. Kepadatan populasi ikan nila di danau tersebut adalah ....",
+          "options": [
+            "120 ekor/ha",
+            "60 ekor/ha",
+            "240 ekor/ha",
+            "480 ekor/ha"
+          ],
+          "answer": 0,
+          "explanation": "Kepadatan populasi = jumlah individu : luas wilayah = 240 : 2 = 120 ekor per hektare."
+        }
+      ]
+    },
+    {
+      "title": "C. Pemanasan Global (Efek Rumah Kaca)",
+      "questions": [
+        {
+          "question": "Berikut ini yang termasuk gas rumah kaca adalah ....",
+          "options": [
+            "karbon dioksida (CO₂)",
+            "oksigen (O₂)",
+            "nitrogen (N₂)",
+            "helium (He)"
+          ],
+          "answer": 0,
+          "explanation": "Gas rumah kaca utama adalah uap air, karbon dioksida, metana (CH₄), dinitrogen oksida (N₂O), dan CFC. Oksigen, nitrogen, dan helium tidak menyerap radiasi inframerah secara berarti."
+        },
+        {
+          "question": "Aktivitas manusia yang paling besar menyumbang peningkatan kadar karbon dioksida di atmosfer adalah ....",
+          "options": [
+            "penanaman pohon di lahan kritis",
+            "penggunaan panel surya",
+            "pembakaran bahan bakar fosil dan penebangan hutan",
+            "pengolahan sampah organik menjadi kompos"
+          ],
+          "answer": 2,
+          "explanation": "Pembakaran batu bara, minyak bumi, dan gas alam melepaskan CO₂ yang tersimpan jutaan tahun, sedangkan penebangan hutan mengurangi tumbuhan penyerap CO₂. Tiga pilihan lain justru mengurangi emisi atau menyerap karbon."
+        },
+        {
+          "question": "Pernyataan yang benar tentang efek rumah kaca adalah ....",
+          "options": [
+            "efek rumah kaca hanya terjadi akibat aktivitas manusia",
+            "efek rumah kaca alami diperlukan agar suhu Bumi cukup hangat untuk kehidupan",
+            "gas rumah kaca memantulkan seluruh cahaya matahari kembali ke angkasa",
+            "efek rumah kaca menyebabkan lubang pada lapisan ozon"
+          ],
+          "answer": 1,
+          "explanation": "Tanpa efek rumah kaca alami, suhu rata-rata Bumi sekitar -18 derajat Celsius. Masalah muncul ketika aktivitas manusia memperbanyak gas rumah kaca sehingga efeknya berlebihan (efek rumah kaca yang ditingkatkan). Kerusakan ozon adalah masalah yang berbeda."
+        },
+        {
+          "question": "Dampak yang paling langsung berkaitan dengan pemanasan global adalah ....",
+          "options": [
+            "meningkatnya frekuensi gempa tektonik",
+            "meningkatnya radiasi ultraviolet akibat penipisan ozon",
+            "bertambahnya jumlah gunung api aktif",
+            "naiknya permukaan air laut akibat mencairnya es di kutub"
+          ],
+          "answer": 3,
+          "explanation": "Suhu yang naik mencairkan es kutub dan gletser serta memuaikan air laut, sehingga permukaan laut naik. Gempa tektonik dan gunung api disebabkan proses dalam Bumi, sedangkan radiasi UV berkaitan dengan penipisan ozon."
+        },
+        {
+          "question": "Metana (CH₄) dari peternakan dan sawah dianggap berbahaya bagi iklim walaupun konsentrasinya di atmosfer jauh lebih rendah daripada CO₂. Alasan yang paling tepat adalah ....",
+          "options": [
+            "metana bersifat racun bagi tumbuhan",
+            "per molekul, metana menahan radiasi inframerah jauh lebih efektif daripada CO₂",
+            "metana merusak lapisan ozon secara langsung",
+            "metana tidak terurai di atmosfer sama sekali"
+          ],
+          "answer": 1,
+          "explanation": "Potensi pemanasan global metana per molekul lebih dari 25 kali CO₂ dalam skala 100 tahun, meskipun metana lebih cepat terurai di atmosfer. Karena itu jumlah yang sedikit pun berpengaruh nyata."
+        },
+        {
+          "question": "Pernyataan yang benar tentang perbedaan efek rumah kaca dan penipisan lapisan ozon adalah ....",
+          "options": [
+            "penipisan ozon meningkatkan penahanan radiasi inframerah, sedangkan efek rumah kaca meningkatkan radiasi UV",
+            "penipisan ozon meningkatkan radiasi UV yang sampai ke permukaan Bumi, sedangkan efek rumah kaca berkaitan dengan penahanan radiasi inframerah",
+            "keduanya disebabkan oleh gas yang sama dan memiliki dampak yang sama",
+            "penipisan ozon menyebabkan Bumi lebih hangat, sedangkan efek rumah kaca menyebabkan Bumi lebih dingin"
+          ],
+          "answer": 1,
+          "explanation": "Ozon di stratosfer menyerap sinar UV sehingga penipisannya (akibat CFC dan senyawa sejenis) meningkatkan UV-B di permukaan Bumi. Efek rumah kaca terjadi di troposfer ketika gas tertentu menyerap dan memancarkan kembali radiasi inframerah dari permukaan Bumi. Beberapa zat, seperti CFC, berperan dalam keduanya, tetapi mekanismenya berbeda. Tips: Pisahkan dua masalah: UV (ozon) versus panas inframerah (gas rumah kaca)."
+        }
+      ]
+    },
+    {
+      "title": "D. Sistem Organisasi Kehidupan (Struktur dan Fungsi Sel)",
+      "questions": [
+        {
+          "question": "Organel sel yang berfungsi sebagai tempat respirasi sel untuk menghasilkan energi (ATP) adalah ....",
+          "options": [
+            "ribosom",
+            "badan Golgi",
+            "mitokondria",
+            "lisosom"
+          ],
+          "answer": 2,
+          "explanation": "Mitokondria disebut pembangkit energi sel karena di dalamnya berlangsung respirasi aerob yang menghasilkan ATP. Ribosom berperan dalam sintesis protein, badan Golgi dalam pengemasan dan sekresi, lisosom dalam pencernaan intrasel."
+        },
+        {
+          "question": "Bagian sel yang mengendalikan seluruh aktivitas sel dan mengandung materi genetik adalah ....",
+          "options": [
+            "sitoplasma",
+            "membran sel",
+            "inti sel (nukleus)",
+            "vakuola"
+          ],
+          "answer": 2,
+          "explanation": "Inti sel mengandung DNA yang menyimpan informasi genetik dan mengatur sintesis protein serta pembelahan sel."
+        },
+        {
+          "question": "Struktur yang dimiliki sel tumbuhan tetapi tidak dimiliki sel hewan adalah ....",
+          "options": [
+            "dinding sel dari selulosa",
+            "membran sel",
+            "ribosom",
+            "mitokondria"
+          ],
+          "answer": 0,
+          "explanation": "Sel tumbuhan memiliki dinding sel selulosa di luar membran sel, juga kloroplas dan vakuola besar. Membran sel, ribosom, dan mitokondria dimiliki oleh sel hewan maupun sel tumbuhan."
+        },
+        {
+          "question": "Urutan tingkat organisasi kehidupan dari yang paling sederhana ke yang paling kompleks adalah ....",
+          "options": [
+            "jaringan - sel - organ - sistem organ - organisme",
+            "sel - jaringan - organ - sistem organ - organisme",
+            "sel - organ - jaringan - sistem organ - organisme",
+            "sel - jaringan - sistem organ - organ - organisme"
+          ],
+          "answer": 1,
+          "explanation": "Sel membentuk jaringan, beberapa jaringan membentuk organ, beberapa organ bekerja sama sebagai sistem organ, dan seluruh sistem organ membentuk organisme."
+        },
+        {
+          "question": "Sel kelenjar pankreas yang menghasilkan banyak enzim pencernaan (protein) akan memiliki organel yang berkembang baik berupa ....",
+          "options": [
+            "kloroplas dan sentriol",
+            "retikulum endoplasma kasar dan badan Golgi",
+            "vakuola besar dan dinding sel",
+            "retikulum endoplasma halus dan peroksisom"
+          ],
+          "answer": 1,
+          "explanation": "Protein disintesis oleh ribosom pada retikulum endoplasma kasar, lalu dimodifikasi, dikemas, dan disekresikan melalui badan Golgi. Sel yang aktif mensekresi protein memerlukan kedua organel ini dalam jumlah banyak."
+        },
+        {
+          "question": "Sel darah merah manusia dimasukkan ke dalam larutan garam NaCl yang sangat pekat (hipertonik). Yang akan terjadi pada sel tersebut adalah ....",
+          "options": [
+            "membengkak lalu pecah karena air masuk ke sel",
+            "tidak berubah karena membran tidak dapat dilalui air",
+            "mengkerut karena air keluar dari sel",
+            "membesar karena garam masuk dan menarik air"
+          ],
+          "answer": 2,
+          "explanation": "Air berpindah secara osmosis dari larutan yang lebih encer (di dalam sel) ke larutan yang lebih pekat (di luar sel). Sel kehilangan air sehingga mengkerut (krenasi). Sel pecah (hemolisis) terjadi pada larutan hipotonik."
+        },
+        {
+          "question": "Pembelahan mitosis pada tubuh manusia berfungsi untuk ....",
+          "options": [
+            "pertumbuhan dan penggantian sel tubuh yang rusak",
+            "membentuk sel sperma dan sel telur",
+            "mengurangi jumlah kromosom menjadi separuh",
+            "menambah variasi genetik keturunan"
+          ],
+          "answer": 0,
+          "explanation": "Mitosis terjadi pada sel tubuh (somatik) dan menghasilkan dua sel anak identik dengan induknya, sehingga berperan dalam pertumbuhan dan regenerasi. Pembentukan gamet dan pengurangan kromosom terjadi pada meiosis."
+        },
+        {
+          "question": "Satu spermatosit primer manusia (2n = 46) menjalani meiosis. Jumlah sel anak yang terbentuk dan jumlah kromosom pada masing-masing sel anak adalah ....",
+          "options": [
+            "2 sel, masing-masing 46 kromosom",
+            "4 sel, masing-masing 46 kromosom",
+            "4 sel, masing-masing 23 kromosom",
+            "2 sel, masing-masing 23 kromosom"
+          ],
+          "answer": 2,
+          "explanation": "Meiosis terdiri atas dua kali pembelahan. Satu spermatosit primer menjadi 2 spermatosit sekunder pada meiosis I, lalu menjadi 4 spermatid pada meiosis II. Jumlah kromosom berkurang dari 46 (diploid) menjadi 23 (haploid)."
+        },
+        {
+          "question": "Sebuah sel hewan memiliki jumlah kromosom diploid 2n = 8. Pada fase metafase meiosis II, jumlah kromosom dan jumlah kromatid dalam satu sel adalah ....",
+          "options": [
+            "8 kromosom dan 16 kromatid",
+            "4 kromosom dan 8 kromatid",
+            "4 kromosom dan 4 kromatid",
+            "8 kromosom dan 8 kromatid"
+          ],
+          "answer": 1,
+          "explanation": "Meiosis I memisahkan kromosom homolog sehingga tiap sel menjadi haploid (n = 4 kromosom), tetapi tiap kromosom masih terdiri atas dua kromatid. Pada metafase II terdapat 4 kromosom x 2 kromatid = 8 kromatid. Kromatid baru berpisah pada anafase II. Tips: Hitung kromosom dari jumlah sentromer, dan kromatid dari jumlah untaian DNA pada tiap kromosom."
+        },
+        {
+          "question": "Sel otot jantung memiliki mitokondria jauh lebih banyak daripada sel kulit. Alasan yang tepat adalah ....",
+          "options": [
+            "sel otot jantung berkontraksi terus-menerus sehingga membutuhkan banyak ATP",
+            "sel otot jantung harus melakukan fotosintesis",
+            "sel otot jantung menyimpan cadangan makanan berupa amilum",
+            "sel otot jantung membelah lebih cepat daripada sel kulit"
+          ],
+          "answer": 0,
+          "explanation": "Mitokondria menghasilkan ATP. Jantung berdenyut tanpa henti sehingga kebutuhan energinya sangat tinggi. Jumlah organel mencerminkan fungsi sel."
+        }
+      ]
+    },
+    {
+      "title": "E. Struktur Bumi",
+      "questions": [
+        {
+          "question": "Lapisan Bumi yang paling luar dan menjadi tempat hidup makhluk hidup di daratan adalah ....",
+          "options": [
+            "mantel",
+            "kerak Bumi",
+            "inti luar",
+            "inti dalam"
+          ],
+          "answer": 1,
+          "explanation": "Kerak Bumi adalah lapisan terluar yang tipis dan padat, tempat kita hidup. Di bawahnya berturut-turut terdapat mantel, inti luar, dan inti dalam."
+        },
+        {
+          "question": "Lapisan penyusun Bumi yang berwujud cair adalah ....",
+          "options": [
+            "kerak Bumi",
+            "inti luar",
+            "inti dalam",
+            "litosfer"
+          ],
+          "answer": 1,
+          "explanation": "Inti luar tersusun atas besi dan nikel cair. Inti dalam padat karena tekanan yang sangat besar, sedangkan kerak dan litosfer padat."
+        },
+        {
+          "question": "Urutan lapisan penyusun Bumi dari luar ke dalam adalah ....",
+          "options": [
+            "kerak - inti luar - mantel - inti dalam",
+            "mantel - kerak - inti luar - inti dalam",
+            "kerak - mantel - inti dalam - inti luar",
+            "kerak - mantel - inti luar - inti dalam"
+          ],
+          "answer": 3,
+          "explanation": "Dari permukaan menuju pusat Bumi: kerak, mantel, inti luar (cair), dan inti dalam (padat)."
+        },
+        {
+          "question": "Lempeng litosfer yang kaku dapat bergerak perlahan di permukaan Bumi karena berada di atas lapisan yang bersifat plastis, yaitu ....",
+          "options": [
+            "inti dalam",
+            "mesosfer",
+            "kerak samudra",
+            "astenosfer"
+          ],
+          "answer": 3,
+          "explanation": "Litosfer (kerak dan bagian atas mantel) bersifat kaku dan terpecah menjadi lempeng. Di bawahnya terdapat astenosfer pada mantel atas yang panas dan plastis sehingga lempeng dapat bergeser. Mesosfer adalah lapisan atmosfer, bukan lapisan Bumi padat."
+        },
+        {
+          "question": "Dibandingkan kerak samudra, kerak benua memiliki ciri ....",
+          "options": [
+            "lebih tipis dan lebih padat",
+            "lebih tebal dan kurang padat",
+            "lebih tebal dan lebih padat",
+            "lebih tipis dan kurang padat"
+          ],
+          "answer": 1,
+          "explanation": "Kerak benua tebalnya sekitar 30-70 km dan tersusun atas batuan yang lebih ringan (kaya granit). Kerak samudra tebalnya sekitar 5-10 km dan tersusun atas basal yang lebih padat. Karena lebih padat, kerak samudra menunjam ke bawah kerak benua saat bertumbukan. Tips: Ingat: benua = tebal tapi ringan (mengapung lebih tinggi), samudra = tipis tapi berat."
+        }
+      ]
+    },
+    {
+      "title": "F. Sistem Organ pada Manusia",
+      "questions": [
+        {
+          "question": "Enzim ptialin (amilase ludah) yang terdapat di rongga mulut berfungsi mengubah ....",
+          "options": [
+            "protein menjadi pepton",
+            "lemak menjadi asam lemak dan gliserol",
+            "amilum menjadi maltosa",
+            "maltosa menjadi glukosa"
+          ],
+          "answer": 2,
+          "explanation": "Pencernaan kimiawi karbohidrat dimulai di mulut: ptialin memecah amilum menjadi maltosa. Protein dicerna di lambung, lemak terutama di usus halus, dan maltosa dipecah menjadi glukosa oleh maltase di usus halus."
+        },
+        {
+          "question": "Penyerapan sari-sari makanan pada sistem pencernaan manusia terutama terjadi di ....",
+          "options": [
+            "lambung",
+            "usus besar",
+            "usus halus",
+            "kerongkongan"
+          ],
+          "answer": 2,
+          "explanation": "Dinding usus halus memiliki jonjot (vili) yang memperluas permukaan penyerapan, sehingga glukosa, asam amino, asam lemak, vitamin, dan mineral diserap di sini. Usus besar menyerap sebagian besar air."
+        },
+        {
+          "question": "Fungsi asam klorida (HCl) yang dihasilkan lambung adalah ....",
+          "options": [
+            "mengemulsikan lemak menjadi butiran kecil",
+            "mengubah amilum menjadi glukosa",
+            "menyerap air dari sisa makanan",
+            "mengaktifkan pepsinogen menjadi pepsin dan membunuh mikroorganisme"
+          ],
+          "answer": 3,
+          "explanation": "HCl membuat lambung bersuasana asam, mengaktifkan pepsinogen menjadi pepsin (pemecah protein), dan membunuh sebagian besar kuman yang masuk bersama makanan. Emulsifikasi lemak dilakukan empedu."
+        },
+        {
+          "question": "Organ penghasil empedu dan fungsi empedu dalam pencernaan adalah ....",
+          "options": [
+            "pankreas; memecah protein",
+            "kantung empedu; menghasilkan enzim lipase",
+            "hati; mengemulsikan lemak",
+            "hati; mengubah amilum menjadi maltosa"
+          ],
+          "answer": 2,
+          "explanation": "Empedu dibuat di hati dan disimpan di kantung empedu. Empedu tidak mengandung enzim, tetapi garam empedu memecah gumpalan lemak menjadi butiran kecil (emulsi) agar mudah dicerna lipase."
+        },
+        {
+          "question": "Suatu bahan makanan ditetesi larutan Lugol sehingga berubah menjadi biru kehitaman, tetapi saat ditetesi reagen Biuret warnanya tetap biru. Kesimpulan yang tepat adalah bahan tersebut ....",
+          "options": [
+            "mengandung protein dan tidak mengandung amilum",
+            "mengandung amilum dan protein",
+            "mengandung lemak dan tidak mengandung amilum",
+            "mengandung amilum dan tidak mengandung protein"
+          ],
+          "answer": 3,
+          "explanation": "Lugol (iodin) menjadi biru kehitaman jika ada amilum. Biuret menjadi ungu jika ada protein, sehingga warna yang tetap biru berarti protein tidak ada."
+        },
+        {
+          "question": "Seorang pasien mengalami gangguan sehingga pankreasnya tidak mengeluarkan getah pankreas ke usus halus. Pencernaan zat makanan yang paling terganggu adalah ....",
+          "options": [
+            "amilum di rongga mulut, karena amilase ludah berasal dari pankreas",
+            "protein di lambung, karena pepsin berasal dari pankreas",
+            "penyerapan air di usus besar, karena pankreas mengatur penyerapan air",
+            "lemak, karena lipase utama dihasilkan pankreas"
+          ],
+          "answer": 3,
+          "explanation": "Getah pankreas berisi amilase, tripsin, dan lipase, serta bikarbonat penetral asam. Amilase ludah dan pepsin lambung berasal dari organ lain sehingga pencernaan awal karbohidrat dan protein tetap berjalan. Lipase utama hanya berasal dari pankreas, sehingga lemak paling terganggu. Tips: Telusuri sumber enzim: setiap zat makanan punya enzim dari beberapa organ, tetapi lemak sangat bergantung pada pankreas."
+        },
+        {
+          "question": "Kekurangan vitamin C dalam jangka panjang dapat menyebabkan penyakit ....",
+          "options": [
+            "rakhitis",
+            "skorbut (sariawan)",
+            "beri-beri",
+            "rabun senja"
+          ],
+          "answer": 1,
+          "explanation": "Vitamin C diperlukan untuk pembentukan kolagen. Kekurangannya menyebabkan skorbut dengan gejala sariawan dan gusi berdarah. Rakhitis karena kekurangan vitamin D, beri-beri vitamin B1, rabun senja vitamin A."
+        },
+        {
+          "question": "Jantung manusia terdiri atas ....",
+          "options": [
+            "satu serambi dan satu bilik",
+            "dua serambi dan dua bilik",
+            "dua serambi dan satu bilik",
+            "satu serambi dan dua bilik"
+          ],
+          "answer": 1,
+          "explanation": "Jantung manusia memiliki empat ruang: serambi kanan dan kiri yang menerima darah, serta bilik kanan dan kiri yang memompa darah keluar."
+        },
+        {
+          "question": "Komponen darah yang mengandung hemoglobin dan berfungsi mengangkut oksigen adalah ....",
+          "options": [
+            "eritrosit (sel darah merah)",
+            "leukosit (sel darah putih)",
+            "trombosit (keping darah)",
+            "plasma darah"
+          ],
+          "answer": 0,
+          "explanation": "Hemoglobin terdapat di dalam eritrosit dan mengikat oksigen membentuk oksihemoglobin. Leukosit berperan dalam kekebalan, trombosit dalam pembekuan darah."
+        },
+        {
+          "question": "Darah kaya oksigen dari paru-paru kembali ke jantung melalui ....",
+          "options": [
+            "arteri pulmonalis menuju serambi kiri",
+            "vena kava menuju serambi kanan",
+            "aorta menuju bilik kiri",
+            "vena pulmonalis menuju serambi kiri"
+          ],
+          "answer": 3,
+          "explanation": "Pada peredaran darah kecil: bilik kanan - arteri pulmonalis (darah miskin O₂) - paru-paru - vena pulmonalis (darah kaya O₂) - serambi kiri. Vena pulmonalis adalah satu-satunya vena yang membawa darah kaya oksigen."
+        },
+        {
+          "question": "Seseorang bergolongan darah A memerlukan transfusi. Golongan darah donor yang paling aman adalah ....",
+          "options": [
+            "A atau O",
+            "A atau B",
+            "A atau AB",
+            "hanya A"
+          ],
+          "answer": 0,
+          "explanation": "Orang bergolongan darah A memiliki aglutinin anti-B dalam plasma, sehingga darah donor tidak boleh mengandung aglutinogen B. Darah A (hanya antigen A) dan O (tanpa antigen) aman, sedangkan B dan AB akan menggumpal."
+        },
+        {
+          "question": "Vena pada tungkai memiliki katup. Fungsi katup tersebut adalah ....",
+          "options": [
+            "menambah tekanan darah agar darah naik",
+            "mencegah darah mengalir balik karena tekanan darah di vena rendah",
+            "mempercepat pertukaran gas dengan jaringan",
+            "menyaring sel darah putih dari darah"
+          ],
+          "answer": 1,
+          "explanation": "Darah di vena tungkai harus melawan gravitasi menuju jantung, sementara tekanannya rendah. Katup satu arah mencegah darah mengalir kembali ke bawah, dibantu kontraksi otot rangka di sekitar vena."
+        },
+        {
+          "question": "Saat bilik kiri jantung berkontraksi, keadaan katup yang tepat adalah ....",
+          "options": [
+            "katup bikuspid menutup dan katup semilunar aorta membuka",
+            "katup bikuspid membuka dan katup semilunar aorta menutup",
+            "katup trikuspid membuka dan katup semilunar pulmonalis menutup",
+            "semua katup jantung terbuka"
+          ],
+          "answer": 0,
+          "explanation": "Saat bilik berkontraksi, tekanan di dalam bilik naik. Katup antara serambi dan bilik (bikuspid di kiri, trikuspid di kanan) menutup agar darah tidak kembali ke serambi. Katup semilunar membuka sehingga darah terlempar ke aorta dan arteri pulmonalis. Tips: Ingat prinsipnya: katup selalu membuka searah aliran darah, dan menutup ketika tekanan di ruang berikutnya lebih tinggi."
+        },
+        {
+          "question": "Jalur yang dilalui udara dari luar hingga tempat pertukaran gas adalah ....",
+          "options": [
+            "hidung - laring - faring - trakea - bronkus - bronkiolus - alveolus",
+            "hidung - faring - trakea - laring - bronkus - alveolus - bronkiolus",
+            "hidung - faring - laring - bronkus - trakea - bronkiolus - alveolus",
+            "hidung - faring - laring - trakea - bronkus - bronkiolus - alveolus"
+          ],
+          "answer": 3,
+          "explanation": "Udara masuk melalui hidung ke faring (persimpangan), laring (pangkal tenggorokan), trakea, dua bronkus, bronkiolus yang bercabang-cabang, hingga ke alveolus."
+        },
+        {
+          "question": "Pertukaran oksigen dan karbon dioksida antara udara dan darah terjadi di ....",
+          "options": [
+            "bronkus",
+            "trakea",
+            "laring",
+            "alveolus"
+          ],
+          "answer": 3,
+          "explanation": "Dinding alveolus sangat tipis dan dikelilingi kapiler darah sehingga O₂ dan CO₂ dapat berdifusi dengan cepat."
+        },
+        {
+          "question": "Pada saat inspirasi dalam pernapasan dada terjadi ....",
+          "options": [
+            "tulang rusuk turun, volume rongga dada membesar, dan tekanan udara dalam paru-paru naik",
+            "tulang rusuk terangkat, volume rongga dada mengecil, dan tekanan udara dalam paru-paru naik",
+            "tulang rusuk terangkat, volume rongga dada membesar, dan tekanan udara dalam paru-paru menurun",
+            "tulang rusuk turun, volume rongga dada mengecil, dan tekanan udara dalam paru-paru menurun"
+          ],
+          "answer": 2,
+          "explanation": "Otot antartulang rusuk luar berkontraksi sehingga tulang rusuk terangkat dan rongga dada membesar. Volume besar menurunkan tekanan di paru-paru sehingga udara luar yang bertekanan lebih tinggi mengalir masuk."
+        },
+        {
+          "question": "Gas karbon monoksida (CO) sangat berbahaya bagi manusia karena ....",
+          "options": [
+            "melarutkan hemoglobin di dalam eritrosit",
+            "menutup saluran bronkus secara permanen",
+            "berikatan dengan hemoglobin jauh lebih kuat daripada oksigen sehingga pengangkutan oksigen terhambat",
+            "menghentikan difusi gas pada alveolus dengan merusak dindingnya"
+          ],
+          "answer": 2,
+          "explanation": "Afinitas hemoglobin terhadap CO sekitar 200 kali lebih besar daripada terhadap O₂. CO membentuk karboksihemoglobin yang stabil sehingga jaringan kekurangan oksigen, meskipun paru-paru berfungsi normal."
+        },
+        {
+          "question": "Seorang siswa memiliki volume tidal 500 mL, volume cadangan inspirasi 3.000 mL, volume cadangan ekspirasi 1.100 mL, dan volume residu 1.200 mL. Kapasitas total paru-paru siswa tersebut adalah ....",
+          "options": [
+            "5.800 mL",
+            "4.600 mL",
+            "4.100 mL",
+            "6.300 mL"
+          ],
+          "answer": 0,
+          "explanation": "Kapasitas vital = tidal + cadangan inspirasi + cadangan ekspirasi = 500 + 3.000 + 1.100 = 4.600 mL. Kapasitas total = kapasitas vital + volume residu = 4.600 + 1.200 = 5.800 mL. Angka 4.600 adalah kapasitas vital, dan 6.300 muncul bila volume tidal dihitung dua kali. Tips: Bedakan kapasitas vital (yang bisa dihembuskan maksimal) dan kapasitas total (termasuk udara sisa yang tidak bisa dikeluarkan)."
+        },
+        {
+          "question": "Jumlah ruas tulang leher (servikal) pada manusia adalah ....",
+          "options": [
+            "5 ruas",
+            "7 ruas",
+            "12 ruas",
+            "33 ruas"
+          ],
+          "answer": 1,
+          "explanation": "Tulang belakang terdiri atas 7 ruas leher, 12 ruas punggung, 5 ruas pinggang, 5 ruas tulang kelangkang yang menyatu, dan 4 ruas tulang ekor yang menyatu (total 33 ruas)."
+        },
+        {
+          "question": "Ketika lengan bawah diluruskan (ekstensi), kondisi otot lengan atas yang benar adalah ....",
+          "options": [
+            "bisep berkontraksi dan trisep berelaksasi",
+            "bisep dan trisep sama-sama berkontraksi",
+            "bisep dan trisep sama-sama berelaksasi",
+            "trisep berkontraksi dan bisep berelaksasi"
+          ],
+          "answer": 3,
+          "explanation": "Bisep dan trisep bekerja antagonis. Saat lengan diluruskan, trisep memendek (kontraksi) dan bisep memanjang (relaksasi). Saat lengan ditekuk, keadaannya berkebalikan."
+        },
+        {
+          "question": "Hubungan antartulang (sendi) pada bahu dan panggul yang memungkinkan gerakan ke segala arah adalah ....",
+          "options": [
+            "sendi peluru",
+            "sendi engsel",
+            "sendi putar",
+            "sendi geser"
+          ],
+          "answer": 0,
+          "explanation": "Sendi peluru memiliki kepala tulang berbentuk bola yang masuk ke lekuk sendi sehingga gerakannya bebas. Sendi engsel (siku, lutut) hanya bergerak satu arah, sendi putar (leher) memungkinkan rotasi."
+        },
+        {
+          "question": "Seorang remaja memiliki tulang belakang bagian punggung yang melengkung berlebihan ke belakang sehingga tampak bungkuk. Kelainan ini disebut ....",
+          "options": [
+            "kifosis",
+            "lordosis",
+            "skoliosis",
+            "osteoporosis"
+          ],
+          "answer": 0,
+          "explanation": "Kifosis adalah lengkung berlebih ke belakang. Lordosis: lengkung berlebih ke depan (pinggang). Skoliosis: tulang belakang membengkok ke samping. Osteoporosis: tulang keropos akibat berkurangnya kepadatan mineral."
+        },
+        {
+          "question": "Menurut teori filamen geser, kontraksi otot rangka terjadi karena ....",
+          "options": [
+            "filamen aktin dan miosin memanjang sehingga sarkomer memanjang",
+            "filamen miosin berubah menjadi filamen aktin",
+            "filamen aktin meluncur di antara filamen miosin sehingga sarkomer memendek",
+            "filamen miosin terlepas dari sarkomer dan berdegradasi"
+          ],
+          "answer": 2,
+          "explanation": "Kepala miosin mengikat aktin dan menariknya ke arah tengah sarkomer dengan energi ATP dan bantuan ion kalsium. Panjang filamen tidak berubah, tetapi tumpang tindihnya bertambah sehingga sarkomer, dan akhirnya otot, memendek. Tips: Panjang filamen tetap; yang berubah adalah seberapa banyak filamen saling tumpang tindih."
+        },
+        {
+          "question": "Organ ekskresi yang mengeluarkan karbon dioksida dan uap air adalah ....",
+          "options": [
+            "paru-paru",
+            "ginjal",
+            "kulit",
+            "hati"
+          ],
+          "answer": 0,
+          "explanation": "Paru-paru mengeluarkan CO₂ dan uap air. Ginjal mengeluarkan urin (urea, kelebihan air dan garam), kulit mengeluarkan keringat, hati mengeluarkan empedu."
+        },
+        {
+          "question": "Unit struktural dan fungsional terkecil pada ginjal adalah ....",
+          "options": [
+            "neuron",
+            "alveolus",
+            "vili",
+            "nefron"
+          ],
+          "answer": 3,
+          "explanation": "Setiap ginjal mengandung sekitar satu juta nefron, yang masing-masing terdiri atas badan Malpighi (glomerulus dan kapsul Bowman) serta tubulus."
+        },
+        {
+          "question": "Penyerapan kembali glukosa, asam amino, dan sebagian besar air dari urin primer terjadi pada ....",
+          "options": [
+            "tubulus kontortus proksimal",
+            "glomerulus",
+            "kapsul Bowman",
+            "ureter"
+          ],
+          "answer": 0,
+          "explanation": "Proses pembentukan urin: filtrasi di glomerulus (urin primer), reabsorpsi di tubulus kontortus proksimal (urin sekunder), dan augmentasi di tubulus kontortus distal (urin sesungguhnya). Ureter hanya menyalurkan urin ke kandung kemih."
+        },
+        {
+          "question": "Pada pemeriksaan urin seseorang ditemukan protein (albumin). Hal ini menunjukkan kemungkinan terjadinya gangguan pada ....",
+          "options": [
+            "ureter, yaitu penyaluran urin",
+            "uretra, yaitu pengeluaran urin",
+            "glomerulus, yaitu proses filtrasi",
+            "kandung kemih, yaitu penampungan urin"
+          ],
+          "answer": 2,
+          "explanation": "Molekul protein berukuran besar sehingga normalnya tidak lolos dari glomerulus. Albuminuria menandakan filtrasi yang rusak (misalnya pada nefritis)."
+        },
+        {
+          "question": "Setelah berolahraga lama tanpa minum, kadar hormon antidiuretik (ADH) dalam darah akan ....",
+          "options": [
+            "meningkat sehingga reabsorpsi air bertambah dan urin menjadi sedikit dan pekat",
+            "meningkat sehingga urin menjadi banyak dan encer",
+            "menurun sehingga urin menjadi banyak dan encer",
+            "menurun sehingga urin menjadi sedikit dan pekat"
+          ],
+          "answer": 0,
+          "explanation": "Kehilangan air lewat keringat membuat darah lebih pekat. Hipotalamus merangsang pelepasan ADH, yang meningkatkan permeabilitas tubulus pengumpul terhadap air. Air direabsorpsi lebih banyak, sehingga urin sedikit dan pekat. Tips: Ikuti pola: kurang air - ADH naik - air diserap kembali - urin sedikit dan pekat."
+        },
+        {
+          "question": "Pembuahan (fertilisasi) pada manusia normalnya terjadi di ....",
+          "options": [
+            "tuba falopi (oviduk)",
+            "rahim (uterus)",
+            "vagina",
+            "ovarium"
+          ],
+          "answer": 0,
+          "explanation": "Sel telur yang diovulasikan ditangkap oleh tuba falopi. Pembuahan terjadi di bagian tuba, lalu zigot bergerak ke rahim untuk menempel (implantasi)."
+        },
+        {
+          "question": "Seorang wanita memiliki siklus menstruasi teratur 28 hari. Jika hari pertama menstruasi dihitung sebagai hari ke-1, ovulasi paling mungkin terjadi pada hari ke ....",
+          "options": [
+            "7",
+            "14",
+            "21",
+            "28"
+          ],
+          "answer": 1,
+          "explanation": "Ovulasi terjadi sekitar 14 hari sebelum menstruasi berikutnya. Pada siklus 28 hari, ovulasi jatuh sekitar hari ke-14 setelah hari pertama menstruasi."
+        },
+        {
+          "question": "Fungsi plasenta pada kehamilan adalah ....",
+          "options": [
+            "tempat pertukaran oksigen, zat makanan, dan sisa metabolisme antara ibu dan janin tanpa darah keduanya bercampur langsung",
+            "tempat darah ibu dan darah janin bercampur sempurna",
+            "tempat terjadinya pembuahan sel telur",
+            "tempat pembentukan sel telur yang baru"
+          ],
+          "answer": 0,
+          "explanation": "Plasenta memungkinkan pertukaran zat melalui difusi dan transpor antara darah ibu dan janin yang dipisahkan dinding kapiler. Plasenta juga menghasilkan hormon, misalnya hCG dan progesteron."
+        },
+        {
+          "question": "Jika sel telur tidak dibuahi, menstruasi terjadi karena ....",
+          "options": [
+            "kadar progesteron terus meningkat sehingga dinding rahim meluruh",
+            "ovarium berhenti menghasilkan FSH sehingga folikel baru tidak terbentuk",
+            "korpus luteum berdegenerasi sehingga kadar progesteron dan estrogen turun dan dinding rahim meluruh",
+            "hormon hCG meningkat sehingga dinding rahim menebal"
+          ],
+          "answer": 2,
+          "explanation": "Setelah ovulasi, folikel menjadi korpus luteum yang menghasilkan progesteron untuk mempertahankan endometrium. Bila tidak ada pembuahan, korpus luteum berdegenerasi, progesteron turun, endometrium tidak lagi terpelihara dan luruh sebagai menstruasi. hCG hanya dihasilkan saat kehamilan. Tips: Kuncinya penurunan progesteron, bukan peningkatannya."
+        },
+        {
+          "question": "Sel penyusun utama sistem saraf yang berfungsi menghantarkan impuls disebut ....",
+          "options": [
+            "nefron",
+            "neutrofil",
+            "neuron",
+            "nukleus"
+          ],
+          "answer": 2,
+          "explanation": "Neuron (sel saraf) terdiri atas badan sel, dendrit yang menerima impuls, dan akson yang menghantarkan impuls ke sel berikutnya."
+        },
+        {
+          "question": "Jalur impuls pada gerak refleks, misalnya saat tangan menarik diri dari benda panas, adalah ....",
+          "options": [
+            "reseptor - neuron sensorik - sumsum tulang belakang - neuron motorik - efektor",
+            "reseptor - neuron motorik - otak - neuron sensorik - efektor",
+            "reseptor - neuron sensorik - otak - neuron motorik - efektor",
+            "efektor - neuron sensorik - sumsum tulang belakang - neuron motorik - reseptor"
+          ],
+          "answer": 0,
+          "explanation": "Pada refleks, impuls diolah di sumsum tulang belakang (melalui neuron penghubung), tidak perlu ke otak, sehingga respons sangat cepat. Impuls diterima reseptor, dibawa neuron sensorik, lalu neuron motorik menuju efektor (otot)."
+        },
+        {
+          "question": "Seorang pasien mengalami cedera pada bagian otak kecil (serebelum). Gangguan yang paling mungkin dialami adalah ....",
+          "options": [
+            "kehilangan kemampuan berpikir dan mengingat",
+            "kehilangan keseimbangan dan koordinasi gerakan",
+            "berhentinya denyut jantung dan pernapasan",
+            "hilangnya kemampuan melihat warna"
+          ],
+          "answer": 1,
+          "explanation": "Otak kecil mengatur keseimbangan tubuh dan koordinasi gerakan otot. Berpikir dan mengingat diatur otak besar, sedangkan denyut jantung dan pernapasan diatur sumsum lanjutan (medula oblongata)."
+        },
+        {
+          "question": "Impuls saraf hanya dapat berjalan satu arah pada sinapsis karena ....",
+          "options": [
+            "neurotransmiter dilepaskan dari dendrit neuron pascasinaps",
+            "akson dapat menghantarkan impuls ke dua arah tetapi dendrit tidak",
+            "celah sinapsis hanya dapat dilalui oleh ion natrium",
+            "neurotransmiter hanya dilepaskan dari ujung akson neuron prasinaps dan reseptornya hanya terdapat pada neuron pascasinaps"
+          ],
+          "answer": 3,
+          "explanation": "Pada sinapsis kimia, impuls di ujung akson memicu pelepasan neurotransmiter (misalnya asetilkolin) ke celah sinapsis. Reseptor untuk neurotransmiter hanya terletak pada membran pascasinaps, sehingga arah impuls satu arah: akson - dendrit atau badan sel neuron berikutnya. Tips: Ingat kata kuncinya: pelepas (akson prasinaps) dan penerima (reseptor pascasinaps) berbeda sisi."
+        },
+        {
+          "question": "Bagian mata yang mengatur besar kecilnya pupil sehingga mengatur banyaknya cahaya yang masuk adalah ....",
+          "options": [
+            "retina",
+            "lensa",
+            "iris",
+            "kornea"
+          ],
+          "answer": 2,
+          "explanation": "Iris adalah selaput berwarna di sekitar pupil. Otot iris mengecilkan pupil pada cahaya terang dan membesarkannya pada cahaya redup."
+        },
+        {
+          "question": "Seorang siswa menderita rabun jauh (miopia). Keadaan yang tepat dan cara mengatasinya adalah ....",
+          "options": [
+            "bayangan jatuh di belakang retina; ditolong dengan kacamata lensa cekung",
+            "bayangan jatuh di depan retina; ditolong dengan kacamata lensa cekung",
+            "bayangan jatuh di depan retina; ditolong dengan kacamata lensa cembung",
+            "bayangan jatuh di belakang retina; ditolong dengan kacamata lensa cembung"
+          ],
+          "answer": 1,
+          "explanation": "Pada miopia, bola mata terlalu panjang atau lensa terlalu cembung sehingga bayangan benda jauh jatuh di depan retina. Lensa cekung menyebarkan berkas cahaya agar bayangan bergeser ke retina. Hipermetropi (rabun dekat) memakai lensa cembung."
+        },
+        {
+          "question": "Urutan getaran suara yang merambat di dalam telinga adalah ....",
+          "options": [
+            "membran timpani - landasan - martil - sanggurdi - koklea",
+            "membran timpani - sanggurdi - landasan - martil - koklea",
+            "martil - membran timpani - landasan - sanggurdi - koklea",
+            "membran timpani - martil - landasan - sanggurdi - koklea"
+          ],
+          "answer": 3,
+          "explanation": "Getaran suara menggetarkan membran timpani, diteruskan oleh tiga tulang pendengaran berurutan (martil, landasan, sanggurdi) ke jendela oval, lalu ke koklea yang mengubahnya menjadi impuls untuk saraf pendengaran."
+        },
+        {
+          "question": "Pada malam hari dengan cahaya redup, benda-benda tampak abu-abu dan sulit dibedakan warnanya. Penjelasan yang tepat adalah ....",
+          "options": [
+            "sel batang memerlukan cahaya terang untuk bekerja sehingga tidak aktif di malam hari",
+            "lensa kehilangan daya akomodasi pada malam hari",
+            "sel kerucut memerlukan cahaya terang sehingga pada cahaya redup hanya sel batang yang aktif, dan sel batang tidak membedakan warna",
+            "pupil mengecil sehingga warna tidak dapat diterima"
+          ],
+          "answer": 2,
+          "explanation": "Retina memiliki sel kerucut (penglihatan warna, bekerja pada cahaya terang, terkonsentrasi di bintik kuning) dan sel batang (sangat peka cahaya redup, tetapi hanya hitam-putih). Di malam hari sel batang mendominasi sehingga dunia tampak abu-abu. Tips: Batang = redup dan hitam-putih, kerucut = terang dan warna."
+        }
+      ]
+    },
+    {
+      "title": "G. Struktur dan Fungsi Jaringan Tumbuhan",
+      "questions": [
+        {
+          "question": "Jaringan pada tumbuhan yang mengangkut air dan mineral dari akar ke daun adalah ....",
+          "options": [
+            "floem",
+            "xilem",
+            "epidermis",
+            "parenkim"
+          ],
+          "answer": 1,
+          "explanation": "Xilem (pembuluh kayu) mengangkut air dan mineral ke atas. Floem (pembuluh tapis) mengangkut hasil fotosintesis ke seluruh bagian tumbuhan."
+        },
+        {
+          "question": "Bagian pada daun yang berperan dalam pertukaran gas dan penguapan air (transpirasi) adalah ....",
+          "options": [
+            "kutikula",
+            "xilem",
+            "stomata",
+            "jaringan palisade"
+          ],
+          "answer": 2,
+          "explanation": "Stomata adalah celah pada epidermis daun yang dikelilingi dua sel penjaga. Stomata membuka dan menutup untuk mengatur masuknya CO₂, keluarnya O₂, dan uap air."
+        },
+        {
+          "question": "Jaringan daun yang sel-selnya memanjang, tersusun rapat, dan mengandung banyak kloroplas sehingga menjadi tempat utama fotosintesis adalah ....",
+          "options": [
+            "jaringan spons (bunga karang)",
+            "epidermis bawah",
+            "jaringan pengangkut",
+            "jaringan palisade (tiang)"
+          ],
+          "answer": 3,
+          "explanation": "Jaringan palisade terletak di bawah epidermis atas dan sangat kaya kloroplas. Jaringan spons sel-selnya tersusun longgar dengan banyak ruang udara untuk pertukaran gas."
+        },
+        {
+          "question": "Rambut akar yang berfungsi memperluas permukaan penyerapan air dan mineral merupakan perpanjangan dari sel jaringan ....",
+          "options": [
+            "epidermis",
+            "korteks",
+            "xilem",
+            "endodermis"
+          ],
+          "answer": 0,
+          "explanation": "Rambut akar adalah tonjolan sel-sel epidermis akar. Karena jumlahnya banyak dan sangat halus, luas permukaan penyerapan air dan mineral menjadi sangat besar."
+        },
+        {
+          "question": "Batang pohon mangga dapat membesar (mengalami pertumbuhan sekunder), sedangkan batang jagung tidak. Hal ini terjadi karena ....",
+          "options": [
+            "batang mangga memiliki kambium di antara xilem dan floem, sedangkan batang jagung tidak",
+            "batang jagung memiliki kambium, sedangkan batang mangga tidak",
+            "batang mangga dan batang jagung sama-sama tidak memiliki xilem",
+            "berkas pengangkut pada batang jagung tersusun melingkar"
+          ],
+          "answer": 0,
+          "explanation": "Mangga adalah tumbuhan dikotil: berkas pengangkutnya tersusun melingkar dan di antara xilem dan floem terdapat kambium yang aktif membelah. Jagung (monokotil) berkas pengangkutnya tersebar dan tidak berkambium."
+        },
+        {
+          "question": "Faktor utama yang menarik air naik hingga ke puncak pohon yang sangat tinggi adalah ....",
+          "options": [
+            "tekanan akar yang mendorong air dengan sangat kuat",
+            "kontraksi otot pada batang yang memompa air",
+            "gaya gravitasi yang menarik air ke atas",
+            "transpirasi pada daun yang menimbulkan tarikan, dibantu kohesi antarmolekul air"
+          ],
+          "answer": 3,
+          "explanation": "Menguapnya air dari stomata menimbulkan tarikan (tegangan) di dalam xilem. Karena molekul air saling menarik (kohesi) dan menempel pada dinding xilem (adhesi), kolom air ikut tertarik ke atas. Tekanan akar hanya mampu menaikkan air beberapa meter, dan tumbuhan tidak punya otot."
+        },
+        {
+          "question": "Pembuahan ganda pada tumbuhan berbunga (Angiospermae) menghasilkan ....",
+          "options": [
+            "zigot triploid dan endosperma diploid",
+            "zigot haploid dan endosperma haploid",
+            "zigot diploid dan endosperma triploid",
+            "zigot diploid dan endosperma diploid"
+          ],
+          "answer": 2,
+          "explanation": "Satu sel sperma membuahi sel telur menghasilkan zigot diploid (2n), sedangkan sperma kedua melebur dengan dua inti kutub menghasilkan endosperma triploid (3n) sebagai cadangan makanan biji. Tips: Hitung jumlah set kromosom: 1 (sperma) + 1 (sel telur) = 2n; 1 (sperma) + 2 (inti kutub) = 3n."
+        },
+        {
+          "question": "Bagian bunga yang menghasilkan serbuk sari adalah ....",
+          "options": [
+            "kepala putik",
+            "bakal buah",
+            "kepala sari",
+            "mahkota bunga"
+          ],
+          "answer": 2,
+          "explanation": "Benang sari terdiri atas tangkai sari dan kepala sari (anter); kepala sari menghasilkan serbuk sari. Kepala putik menerima serbuk sari, dan bakal buah berkembang menjadi buah."
+        }
+      ]
+    },
+    {
+      "title": "H. Bioteknologi",
+      "questions": [
+        {
+          "question": "Berikut ini yang merupakan produk bioteknologi konvensional adalah ....",
+          "options": [
+            "tanaman transgenik",
+            "insulin hasil rekayasa genetika",
+            "tempe",
+            "domba hasil kloning"
+          ],
+          "answer": 2,
+          "explanation": "Bioteknologi konvensional memanfaatkan mikroorganisme secara langsung tanpa rekayasa genetika, misalnya tempe (Rhizopus), tape, yoghurt, dan roti. Tiga pilihan lain termasuk bioteknologi modern."
+        },
+        {
+          "question": "Pasangan produk dan mikroorganisme yang berperan dalam pembuatannya yang tepat adalah ....",
+          "options": [
+            "yoghurt - Lactobacillus",
+            "tempe - Saccharomyces",
+            "tape - Rhizopus",
+            "oncom - Lactobacillus"
+          ],
+          "answer": 0,
+          "explanation": "Yoghurt dibuat dari susu oleh bakteri asam laktat (Lactobacillus dan Streptococcus). Tempe menggunakan Rhizopus, tape menggunakan Saccharomyces (dan jamur pemecah pati), dan oncom menggunakan Neurospora."
+        },
+        {
+          "question": "Dalam rekayasa genetika, enzim yang digunakan untuk memotong DNA pada urutan basa tertentu dan enzim yang menyambungkan potongan gen ke plasmid secara berturut-turut adalah ....",
+          "options": [
+            "DNA ligase dan endonuklease restriksi",
+            "DNA polimerase dan helikase",
+            "amilase dan lipase",
+            "endonuklease restriksi dan DNA ligase"
+          ],
+          "answer": 3,
+          "explanation": "Endonuklease restriksi bertindak seperti gunting molekuler, memotong DNA pada situs spesifik. DNA ligase bertindak seperti perekat, menyambung gen yang diinginkan ke plasmid sehingga terbentuk DNA rekombinan, misalnya untuk produksi insulin pada bakteri."
+        },
+        {
+          "question": "Domba Dolly dihasilkan dengan memasukkan inti sel kelenjar susu seekor domba (A) ke dalam sel telur domba lain (B) yang intinya telah dibuang, lalu embrio ditanam di rahim domba ketiga (C). Domba Dolly secara genetik (DNA inti) paling mirip dengan ....",
+          "options": [
+            "domba B, pendonor sel telur",
+            "domba C, induk pengandung",
+            "domba A, pendonor inti sel kelenjar susu",
+            "campuran yang sama dari domba A dan B"
+          ],
+          "answer": 2,
+          "explanation": "Hampir seluruh DNA inti Dolly berasal dari inti sel kelenjar susu domba A sehingga Dolly adalah klon A. Sel telur domba B hanya menyumbang sitoplasma (dan DNA mitokondria), sedangkan domba C hanya menjadi tempat berkembangnya embrio. Tips: Dalam kloning, yang menentukan sifat individu adalah asal inti sel (DNA inti)."
+        }
+      ]
+    },
+    {
+      "title": "I. Pewarisan Sifat",
+      "questions": [
+        {
+          "question": "Bagian dari DNA yang mengatur sifat tertentu pada makhluk hidup disebut ....",
+          "options": [
+            "sentromer",
+            "gen",
+            "kromatid",
+            "ribosom"
+          ],
+          "answer": 1,
+          "explanation": "Gen adalah segmen DNA yang membawa informasi untuk sifat tertentu. Gen terletak pada kromosom, yang tersusun atas DNA dan protein."
+        },
+        {
+          "question": "Pada persilangan Tt x Tt (T dominan sempurna terhadap t), perbandingan fenotipe keturunan dominan : resesif adalah ....",
+          "options": [
+            "1 : 1",
+            "1 : 2 : 1",
+            "9 : 3 : 3 : 1",
+            "3 : 1"
+          ],
+          "answer": 3,
+          "explanation": "Gamet Tt x Tt menghasilkan TT : Tt : tt = 1 : 2 : 1 (genotipe). TT dan Tt sama-sama fenotipe dominan sehingga perbandingan fenotipenya 3 : 1."
+        },
+        {
+          "question": "Warna bunga merah (M) dominan sempurna terhadap putih (m). Persilangan bunga merah heterozigot (Mm) dengan bunga putih (mm) akan menghasilkan keturunan berbunga putih sebanyak ....",
+          "options": [
+            "0%",
+            "50%",
+            "25%",
+            "75%"
+          ],
+          "answer": 1,
+          "explanation": "Mm x mm menghasilkan Mm dan mm dengan perbandingan 1 : 1. Jadi 50% keturunan bergenotipe mm berbunga putih dan 50% Mm berbunga merah."
+        },
+        {
+          "question": "Pada ercis, biji bulat (R) dominan terhadap keriput (r), dan biji kuning (Y) dominan terhadap hijau (y). Dari persilangan RrYy x RrYy dihasilkan 160 keturunan. Perkiraan jumlah keturunan berbiji keriput hijau adalah ....",
+          "options": [
+            "20",
+            "30",
+            "10",
+            "90"
+          ],
+          "answer": 2,
+          "explanation": "Persilangan dihibrid menghasilkan fenotipe 9 bulat kuning : 3 bulat hijau : 3 keriput kuning : 1 keriput hijau. Keriput hijau (rryy) = 1/16 x 160 = 10."
+        },
+        {
+          "question": "Seorang laki-laki bergolongan darah AB menikah dengan perempuan bergolongan darah O. Golongan darah anak-anak mereka yang mungkin adalah ....",
+          "options": [
+            "A, B, dan AB",
+            "AB dan O",
+            "A dan B",
+            "A, B, AB, dan O"
+          ],
+          "answer": 2,
+          "explanation": "Genotipe ayah IᴬIᴮ, ibu ii. Gamet ayah: Iᴬ atau Iᴮ; gamet ibu: i. Keturunan: Iᴬi (golongan A) atau Iᴮi (golongan B). Golongan AB dan O tidak mungkin muncul. Tips: Orang bergolongan darah O hanya mewariskan alel i, sehingga anaknya tidak bisa AB maupun O jika salah satu orang tuanya AB."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <!-- Opening page: pick a question bank -->
+    <section id="menu" class="panel" hidden>
+      <h1 class="menu-title">Choose a question bank</h1>
+      <p id="menu-msg" class="menu-msg">Looking for question banks...</p>
+      <div id="bank-list" class="bank-list"></div>
+      <div id="folder-box" class="folder-box" hidden>
+        <label class="btn file-btn">
+          <span id="folder-label">Select the "Question Bank" folder</span>
+          <input type="file" id="folder-input" webkitdirectory multiple hidden>
+        </label>
+      </div>
+    </section>
+
+    <!-- Quiz view -->
+    <section id="quiz" class="panel" hidden>
+      <header class="quiz-head">
+        <p id="quiz-title" class="quiz-title"></p>
+        <p id="progress" class="progress"></p>
+      </header>
+      <h2 id="question-text" class="question-text"></h2>
+      <div id="options" class="options" role="radiogroup" aria-labelledby="question-text"></div>
+      <nav class="nav">
+        <button id="prev" class="btn">Previous</button>
+        <button id="next" class="btn primary">Next</button>
+      </nav>
+      <div id="navigator" class="navigator" aria-label="Jump to question"></div>
+    </section>
+
+    <!-- Results view -->
+    <section id="results" hidden>
+      <div class="panel summary">
+        <p id="result-bank" class="summary-label"></p>
+        <p class="summary-label">Final score</p>
+        <p id="final-score" class="final-score"></p>
+        <p id="final-max" class="final-max"></p>
+        <dl class="counts">
+          <div class="count correct"><dt>Correct</dt><dd id="c-correct"></dd></div>
+          <div class="count wrong"><dt>Wrong</dt><dd id="c-wrong"></dd></div>
+          <div class="count blank"><dt>Blank</dt><dd id="c-blank"></dd></div>
+        </dl>
+        <ul id="part-scores" class="part-scores"></ul>
+        <div class="actions">
+          <button id="download" class="btn primary">Download report</button>
+          <button id="retry" class="btn">Try again</button>
+          <button id="menu-btn" class="btn">Question banks</button>
+        </div>
+      </div>
+      <div id="review"></div>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
