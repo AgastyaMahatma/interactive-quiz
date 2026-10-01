@@ -42,18 +42,80 @@ function esc(s) {
 }
 
 /* ---------- opening page: find question banks ---------- */
+const MANIFEST = "banks.json"; // optional list of bank files, lives inside the folder
+
+const folderUrl = () => new URL(encodeURIComponent(BANK_FOLDER) + "/", location.href).href;
+
+function makeBanks(files) {
+  const seen = new Set();
+  return files
+    .filter((f) => isJson(f) && f.toLowerCase() !== MANIFEST && !seen.has(f) && seen.add(f))
+    .map((file) => ({
+      name: baseName(file),
+      load: async () => {
+        const r = await fetch(folderUrl() + encodeURIComponent(file));
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      },
+    }));
+}
+
+// 1) banks.json inside the folder: ["Practice 1.json", "Practice 2.json"]. Most reliable on GitHub Pages.
+async function listFromManifest() {
+  const res = await fetch(folderUrl() + MANIFEST, { cache: "no-store" });
+  if (!res.ok) throw new Error("no manifest");
+  const arr = await res.json();
+  if (!Array.isArray(arr)) throw new Error("bad manifest");
+  return makeBanks(arr.map((n) => String(n)).map((n) => (isJson(n) ? n : n + ".json")));
+}
+
+// 2) GitHub Pages without a manifest: ask the GitHub API what is in the folder.
+async function listFromGitHub() {
+  if (!/\.github\.io$/i.test(location.hostname)) throw new Error("not github pages");
+  const owner = location.hostname.split(".")[0];
+  const repo = location.pathname.split("/")[1] || `${owner}.github.io`;
+  const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(BANK_FOLDER)}`);
+  if (!res.ok) throw new Error("api " + res.status);
+  const items = await res.json();
+  return makeBanks(items.filter((i) => i.type === "file").map((i) => i.name)).sort(byName);
+}
+
+// 3) Plain local server (python -m http.server): read the folder's file listing.
+async function listFromDirectory() {
+  const res = await fetch(folderUrl());
+  if (!res.ok) throw new Error("no listing");
+  const doc = new DOMParser().parseFromString(await res.text(), "text/html");
+  const names = [...doc.querySelectorAll("a")]
+    .map((a) => decodeURIComponent((a.getAttribute("href") || "").split("/").pop()));
+  return makeBanks(names).sort(byName);
+}
+
+async function findBanks() {
+  for (const method of [listFromManifest, listFromGitHub, listFromDirectory]) {
+    try {
+      const banks = await method();
+      if (banks.length) return banks;
+    } catch (err) { /* try the next method */ }
+  }
+  return [];
+}
+
 async function init() {
   show("menu");
   $("folder-box").hidden = false;
 
   if (location.protocol !== "file:") {
-    const banks = await scanFolder();
+    const banks = await findBanks();
     if (banks.length) {
       $("menu-msg").textContent = "Pick a question bank to begin.";
       $("folder-box").hidden = true;
       renderBanks(banks);
       return;
     }
+    $("menu-msg").textContent =
+      `No question banks found in the "${BANK_FOLDER}" folder. Check that the folder name matches exactly ` +
+      `(capital letters count online) and that it holds .json files. You can also select the folder manually.`;
+    return;
   }
   $("menu-msg").textContent =
     `The browser cannot look inside folders by itself when this page is opened by double-click. ` +
@@ -61,27 +123,9 @@ async function init() {
     `Files are read on your computer only.`;
 }
 
-async function scanFolder() {
-  try {
-    const res = await fetch(encodeURIComponent(BANK_FOLDER) + "/index.json");
-    if (!res.ok) return [];
-    const files = await res.json();
-    return files.filter(isJson).map((file) => ({
-      name: baseName(file),
-      load: async () => {
-        const r = await fetch(encodeURIComponent(BANK_FOLDER) + "/" + encodeURIComponent(file));
-        if (!r.ok) throw new Error("HTTP " + r.status);
-        return r.json();
-      },
-    })).sort(byName);
-  } catch (err) {
-    return [];
-  }
-}
-
 // Works everywhere: user picks the folder, we list the .json files inside.
 $("folder-input").addEventListener("change", (e) => {
-  const all = [...e.target.files].filter((f) => isJson(f.name));
+  const all = [...e.target.files].filter((f) => isJson(f.name) && f.name.toLowerCase() !== MANIFEST);
   // Prefer files directly inside the chosen folder; fall back to any nested ones.
   const direct = all.filter((f) => (f.webkitRelativePath || "").split("/").length === 2);
   const chosen = direct.length ? direct : all;
