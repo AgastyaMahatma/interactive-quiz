@@ -1,0 +1,520 @@
+{
+  "title": "Latihan PSC Undiksha 2026 - Biologi (30) dan Kimia (10), Level SMP-SMA Medium-Hard",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "Bab 1 (Biologi): Klasifikasi Makhluk Hidup - Sistem Kingdom",
+      "questions": [
+        {
+          "question": "Sebuah organisme uniseluler tidak memiliki membran inti, dinding selnya tidak mengandung peptidoglikan, dan ditemukan hidup di sumber air panas bersuhu tinggi. Organisme tersebut paling tepat dikelompokkan ke dalam kingdom ...",
+          "options": [
+            "Eubacteria",
+            "Protista",
+            "Fungi",
+            "Archaebacteria"
+          ],
+          "answer": 3,
+          "explanation": "Prokariotik dengan dinding sel tanpa peptidoglikan dan habitat ekstrem (air panas) adalah ciri Archaebacteria (Archaea). Eubacteria memiliki peptidoglikan, sedangkan Protista dan Fungi bersifat eukariotik."
+        },
+        {
+          "question": "Euglena viridis bersel satu, memiliki inti sel sejati, kloroplas, dan flagel. Jika dipindahkan ke tempat gelap dalam waktu lama, ia tetap hidup dengan menyerap zat organik dari lingkungannya. Berdasarkan ciri tersebut, Euglena dikelompokkan ke dalam ...",
+          "options": [
+            "Plantae, karena memiliki kloroplas",
+            "Monera, karena bersel satu",
+            "Protista, karena eukariotik uniseluler yang dapat bersifat autotrof maupun heterotrof",
+            "Animalia, karena memiliki flagel untuk bergerak"
+          ],
+          "answer": 2,
+          "explanation": "Euglena berinti sejati dan uniseluler sehingga bukan Monera. Ia tidak memiliki jaringan sehingga bukan Plantae maupun Animalia. Kemampuannya berfotosintesis sekaligus heterotrof (mixotrof) adalah ciri khas Protista mirip tumbuhan/hewan."
+        }
+      ]
+    },
+    {
+      "title": "Bab 2 (Biologi): Interaksi Makhluk Hidup",
+      "questions": [
+        {
+          "question": "Di sebuah kolam terdapat 50 ekor ikan mas, 30 ekor ikan nila, teratai, plankton, serta air, suhu, dan pH tertentu. Pernyataan yang paling tepat adalah ...",
+          "options": [
+            "50 ekor ikan mas dan 30 ekor ikan nila membentuk satu populasi",
+            "Seluruh ikan mas adalah populasi, seluruh makhluk hidup di kolam adalah komunitas, dan komunitas bersama faktor abiotiknya adalah ekosistem",
+            "Seluruh makhluk hidup beserta air, suhu, dan pH di kolam adalah komunitas",
+            "Seluruh ikan mas dan ikan nila di kolam adalah satu ekosistem"
+          ],
+          "answer": 1,
+          "explanation": "Populasi adalah kumpulan individu satu spesies pada tempat dan waktu tertentu. Komunitas adalah semua populasi (biotik) yang berinteraksi. Ekosistem = komunitas + lingkungan abiotik."
+        },
+        {
+          "question": "Perhatikan interaksi berikut: (1) anggrek menempel pada batang pohon mangga tanpa merugikan pohonnya; (2) bakteri Rhizobium pada bintil akar kacang tanah; (3) benalu pada pohon jeruk. Jenis interaksi (1), (2), dan (3) berturut-turut adalah ...",
+          "options": [
+            "Komensalisme, mutualisme, parasitisme",
+            "Mutualisme, komensalisme, parasitisme",
+            "Parasitisme, mutualisme, komensalisme",
+            "Komensalisme, parasitisme, mutualisme"
+          ],
+          "answer": 0,
+          "explanation": "(1) Anggrek untung, pohon tidak dirugikan: komensalisme. (2) Rhizobium mendapat tempat dan nutrisi, kacang mendapat nitrogen terikat: mutualisme. (3) Benalu menyerap nutrisi inang dan merugikannya: parasitisme."
+        },
+        {
+          "question": "Pada rantai makanan padi → tikus → ular → elang, energi yang tersedia pada produsen (padi) adalah 50.000 kJ. Jika efisiensi transfer energi antartingkat trofik 10%, energi yang diterima elang adalah ...",
+          "options": [
+            "5.000 kJ",
+            "500 kJ",
+            "50 kJ",
+            "5 kJ"
+          ],
+          "answer": 2,
+          "explanation": "Padi 50.000 → tikus (konsumen I) 5.000 → ular (konsumen II) 500 → elang (konsumen III) 50 kJ. Tiga kali transfer: 50.000 x 0,1^3 = 50 kJ."
+        },
+        {
+          "question": "Pada rantai makanan padi → tikus → ular → elang, populasi ular menurun drastis akibat perburuan liar. Dampak jangka pendek yang paling mungkin terjadi adalah ...",
+          "options": [
+            "Populasi tikus meningkat sehingga tanaman padi lebih banyak dimakan dan jumlahnya cenderung menurun",
+            "Populasi padi meningkat karena ular tidak lagi bersaing dengan tikus",
+            "Populasi tikus menurun karena kompetisi antar tikus semakin berat sejak ular hilang",
+            "Populasi elang meningkat karena sumber makanannya bertambah banyak"
+          ],
+          "answer": 0,
+          "explanation": "Hilangnya predator (ular) melepaskan tekanan terhadap mangsanya (tikus) sehingga tikus meningkat, dan konsumsi padi meningkat. Elang justru cenderung kehilangan salah satu sumber makanannya."
+        }
+      ]
+    },
+    {
+      "title": "Bab 3 (Biologi): Pemanasan Global - Efek Rumah Kaca",
+      "questions": [
+        {
+          "question": "Gas rumah kaca seperti CO2 dan CH4 menyebabkan atmosfer menghangat terutama karena ...",
+          "options": [
+            "Memantulkan seluruh sinar ultraviolet kembali ke luar angkasa",
+            "Menyerap radiasi inframerah yang dipancarkan permukaan Bumi lalu memancarkan kembali sebagian ke arah permukaan",
+            "Bereaksi dengan ozon sehingga melepaskan panas",
+            "Menghalangi masuknya cahaya tampak dari Matahari ke permukaan Bumi"
+          ],
+          "answer": 1,
+          "explanation": "Gas rumah kaca meloloskan cahaya tampak tetapi menyerap radiasi inframerah (panas) dari Bumi, lalu memancarkannya kembali ke segala arah, termasuk ke permukaan Bumi, sehingga suhu naik."
+        },
+        {
+          "question": "Salah satu dampak pemanasan global adalah naiknya permukaan air laut. Faktor yang paling besar kontribusinya terhadap kenaikan tersebut adalah ...",
+          "options": [
+            "Mencairnya es laut yang mengapung di Kutub Utara",
+            "Meningkatnya penguapan air laut",
+            "Menurunnya salinitas air laut",
+            "Pemuaian volume air laut akibat naiknya suhu dan mencairnya es daratan (glasier dan lapisan es)"
+          ],
+          "answer": 3,
+          "explanation": "Es laut yang sudah mengapung hampir tidak mengubah volume air ketika mencair (prinsip Archimedes). Kenaikan muka laut terutama berasal dari pemuaian termal air laut dan tambahan air dari es daratan (glasier, lapisan es Greenland dan Antartika)."
+        }
+      ]
+    },
+    {
+      "title": "Bab 4 (Biologi): Sistem Organisasi Kehidupan - Sel dan Pembelahan Sel pada Manusia",
+      "questions": [
+        {
+          "question": "Sel asinar pankreas manusia sangat aktif menyintesis dan mensekresikan enzim pencernaan yang berupa protein. Organel yang paling berlimpah pada sel tersebut adalah ...",
+          "options": [
+            "Retikulum endoplasma halus dan lisosom",
+            "Retikulum endoplasma kasar dan badan Golgi",
+            "Kloroplas dan vakuola sentral",
+            "Sentriol dan peroksisom"
+          ],
+          "answer": 1,
+          "explanation": "Protein yang akan disekresikan disintesis pada ribosom di RE kasar, lalu dimodifikasi, dikemas, dan disekresikan melalui badan Golgi."
+        },
+        {
+          "question": "Sel darah merah manusia (sitoplasma setara NaCl 0,9%) direndam dalam larutan NaCl 3%. Yang terjadi pada sel tersebut adalah ...",
+          "options": [
+            "Air masuk ke dalam sel sehingga sel membengkak dan pecah (hemolisis)",
+            "Tidak terjadi perubahan karena membran sel bersifat selektif permeabel",
+            "Air keluar dari sel secara osmosis sehingga sel mengerut (krenasi)",
+            "Ion Na+ masuk secara difusi sederhana sehingga sel membengkak"
+          ],
+          "answer": 2,
+          "explanation": "Larutan 3% bersifat hipertonik terhadap sitoplasma. Air berpindah dari konsentrasi air tinggi (dalam sel) ke rendah (luar sel) sehingga sel mengerut (krenasi)."
+        },
+        {
+          "question": "Sel somatik manusia memiliki 46 kromosom. Sebuah sel yang sedang berada pada tahap metafase II meiosis memiliki ...",
+          "options": [
+            "46 kromosom dan 46 kromatid",
+            "23 kromosom dan 46 kromatid",
+            "23 kromosom dan 23 kromatid",
+            "46 kromosom dan 92 kromatid"
+          ],
+          "answer": 1,
+          "explanation": "Meiosis I memisahkan kromosom homolog sehingga jumlah kromosom menjadi haploid (23), tetapi tiap kromosom masih terdiri atas 2 kromatid. Kromatid baru berpisah pada anafase II. Jadi 23 kromosom x 2 = 46 kromatid."
+        },
+        {
+          "question": "Dari 25 spermatosit primer dan 25 oosit primer yang menjalani gametogenesis sempurna, berturut-turut dihasilkan ...",
+          "options": [
+            "100 spermatozoa dan 25 ovum fungsional",
+            "50 spermatozoa dan 25 ovum fungsional",
+            "100 spermatozoa dan 100 ovum fungsional",
+            "25 spermatozoa dan 25 ovum fungsional"
+          ],
+          "answer": 0,
+          "explanation": "Satu spermatosit primer menghasilkan 4 spermatozoa (25 x 4 = 100). Satu oosit primer menghasilkan hanya 1 ovum fungsional dan 3 badan polar (25 x 1 = 25)."
+        }
+      ]
+    },
+    {
+      "title": "Bab 5 (Biologi): Struktur Bumi",
+      "questions": [
+        {
+          "question": "Lapisan Bumi yang bersifat cair, tersusun terutama atas besi dan nikel, serta diperkirakan menjadi sumber medan magnet Bumi adalah ...",
+          "options": [
+            "Mantel atas",
+            "Kerak samudra",
+            "Inti dalam",
+            "Inti luar"
+          ],
+          "answer": 3,
+          "explanation": "Inti luar berwujud cair (besi dan nikel). Aliran konveksinya menghasilkan medan magnet Bumi. Inti dalam padat karena tekanan sangat tinggi."
+        }
+      ]
+    },
+    {
+      "title": "Bab 6 (Biologi): Sistem Organ pada Manusia",
+      "questions": [
+        {
+          "question": "Garam empedu membantu pencernaan lemak di usus halus dengan cara ...",
+          "options": [
+            "Menguraikan lemak langsung menjadi gliserol dan asam lemak",
+            "Mengemulsikan lemak menjadi butiran kecil sehingga luas permukaan kerja lipase bertambah",
+            "Menetralkan asam klorida dari lambung",
+            "Mengaktifkan tripsinogen menjadi tripsin"
+          ],
+          "answer": 1,
+          "explanation": "Garam empedu bukan enzim. Ia bekerja seperti detergen: memecah gumpalan lemak menjadi butiran halus (emulsi) agar lipase pankreas bekerja lebih efektif."
+        },
+        {
+          "question": "Perhatikan struktur berikut: (1) ventrikel kiri; (2) vena pulmonalis; (3) aorta; (4) atrium kiri. Urutan aliran darah kaya oksigen setelah meninggalkan paru-paru adalah ...",
+          "options": [
+            "2 - 4 - 1 - 3",
+            "4 - 2 - 1 - 3",
+            "2 - 1 - 4 - 3",
+            "1 - 4 - 2 - 3"
+          ],
+          "answer": 0,
+          "explanation": "Paru-paru → vena pulmonalis → atrium kiri → (katup bikuspid) → ventrikel kiri → (katup semilunar) → aorta → seluruh tubuh."
+        },
+        {
+          "question": "Pernyataan yang tepat mengenai peristiwa inspirasi pada manusia adalah ...",
+          "options": [
+            "Diafragma berelaksasi dan melengkung ke atas sehingga tekanan udara dalam paru-paru meningkat",
+            "Otot interkostal internal berkontraksi sehingga tulang rusuk bergerak turun",
+            "Diafragma berkontraksi dan mendatar, volume rongga dada bertambah, dan tekanan udara dalam paru-paru turun di bawah tekanan atmosfer",
+            "Diafragma berkontraksi sehingga tekanan udara dalam paru-paru naik dan udara masuk"
+          ],
+          "answer": 2,
+          "explanation": "Saat inspirasi, diafragma berkontraksi (mendatar) dan otot interkostal eksternal mengangkat rusuk. Volume rongga dada naik, tekanan paru turun di bawah tekanan atmosfer, sehingga udara mengalir masuk."
+        },
+        {
+          "question": "Pasangan jenis sendi dan contohnya yang tepat adalah ...",
+          "options": [
+            "Sendi engsel - pangkal paha dengan gelang panggul",
+            "Sendi putar - lutut",
+            "Sendi geser - gelang bahu dengan lengan atas",
+            "Sendi peluru - bahu dengan tulang lengan atas"
+          ],
+          "answer": 3,
+          "explanation": "Sendi peluru (gerak ke segala arah) terdapat pada bahu dan pangkal paha. Sendi engsel terdapat pada siku dan lutut (gerak satu arah). Sendi putar contohnya antara atlas dan axis."
+        },
+        {
+          "question": "Pada penderita diabetes mellitus yang tidak terkendali, glukosa ditemukan dalam urine karena ...",
+          "options": [
+            "Glukosa tidak dapat disaring di glomerulus",
+            "Kadar glukosa darah sangat tinggi sehingga melebihi kapasitas reabsorpsi tubulus kontortus proksimal",
+            "Tubulus kontortus distal mensekresikan glukosa ke dalam urine",
+            "Lengkung Henle tidak permeabel terhadap glukosa"
+          ],
+          "answer": 1,
+          "explanation": "Glukosa tersaring bebas di glomerulus dan normalnya diserap kembali seluruhnya di tubulus kontortus proksimal. Bila kadarnya melebihi ambang ginjal, pengangkut jenuh dan sisa glukosa ikut ke urine."
+        },
+        {
+          "question": "Pada siklus menstruasi, lonjakan hormon LH pada sekitar pertengahan siklus secara langsung memicu ...",
+          "options": [
+            "Penebalan dinding endometrium",
+            "Peluruhan dinding endometrium",
+            "Ovulasi dan pembentukan korpus luteum",
+            "Pematangan oosit sekunder menjadi oogonium"
+          ],
+          "answer": 2,
+          "explanation": "Lonjakan LH memicu pecahnya folikel de Graaf (ovulasi). Sisa folikel berubah menjadi korpus luteum yang menghasilkan progesteron."
+        },
+        {
+          "question": "Seseorang tidak sengaja menyentuh benda panas dan langsung menarik tangannya. Urutan lintasan impuls pada gerak refleks tersebut adalah ...",
+          "options": [
+            "Reseptor - neuron sensorik - sumsum tulang belakang - neuron motorik - efektor",
+            "Reseptor - neuron motorik - sumsum tulang belakang - neuron sensorik - efektor",
+            "Reseptor - neuron sensorik - otak - neuron motorik - efektor",
+            "Efektor - neuron motorik - sumsum tulang belakang - neuron sensorik - reseptor"
+          ],
+          "answer": 0,
+          "explanation": "Pada refleks, impuls diproses di sumsum tulang belakang tanpa melewati otak terlebih dahulu: reseptor → neuron sensorik → (neuron perantara di) sumsum tulang belakang → neuron motorik → efektor."
+        },
+        {
+          "question": "Seorang siswa tidak dapat melihat jelas benda yang jauh. Hasil pemeriksaan menunjukkan bayangan benda jatuh di depan retina karena bola mata terlalu panjang. Kelainan mata dan lensa kacamata yang sesuai adalah ...",
+          "options": [
+            "Hipermetropi, lensa cembung",
+            "Miopi, lensa cembung",
+            "Presbiopi, lensa bifokal",
+            "Miopi, lensa cekung"
+          ],
+          "answer": 3,
+          "explanation": "Bayangan jatuh di depan retina adalah miopi (rabun jauh). Lensa cekung (negatif) menyebarkan sinar sehingga bayangan bergeser tepat ke retina."
+        }
+      ]
+    },
+    {
+      "title": "Bab 7 (Biologi): Struktur dan Fungsi Jaringan Tumbuhan",
+      "questions": [
+        {
+          "question": "Kulit batang pohon dikotil dikelupas melingkar sampai ke kambium sehingga floem terbuang, tetapi xilem tetap utuh. Pernyataan yang paling tepat adalah ...",
+          "options": [
+            "Daun segera layu karena air tidak dapat naik",
+            "Bagian batang di bawah cincin akan membengkak karena tertumpuknya hasil fotosintesis",
+            "Bagian batang di atas cincin membengkak karena tertumpuknya hasil fotosintesis, dan akar lama-kelamaan kekurangan makanan",
+            "Akar tidak dapat lagi menyerap air sehingga pohon mati dalam beberapa jam"
+          ],
+          "answer": 2,
+          "explanation": "Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh. Bila terputus, fotosintat menumpuk di atas cincin (membengkak) dan akar kekurangan makanan. Xilem masih utuh sehingga air tetap naik."
+        },
+        {
+          "question": "Stomata daun terbuka pada siang hari terutama karena ...",
+          "options": [
+            "Ion K+ terakumulasi dalam sel penjaga sehingga air masuk secara osmosis, turgor naik, dan sel penjaga melengkung",
+            "Sel penjaga kehilangan air sehingga mengalami plasmolisis",
+            "Sel epidermis di sekitar stomata mengembang dan mendorong sel penjaga",
+            "Tekanan akar mendorong sel penjaga terbuka"
+          ],
+          "answer": 0,
+          "explanation": "Akumulasi K+ menurunkan potensial air sel penjaga. Air masuk secara osmosis, turgor meningkat, dan karena dinding dalam lebih tebal, sel melengkung dan stomata terbuka."
+        },
+        {
+          "question": "Pada akar tumbuhan, pita Kaspari pada endodermis berfungsi ...",
+          "options": [
+            "Menyimpan cadangan makanan",
+            "Memaksa air dan mineral melewati membran plasma sel endodermis sehingga masuknya zat terseleksi",
+            "Menambah diameter akar secara sekunder",
+            "Menghasilkan akar lateral"
+          ],
+          "answer": 1,
+          "explanation": "Pita Kaspari (zat gabus/suberin) menutup jalur apoplas sehingga air dan mineral harus melewati membran sel endodermis (jalur simplas), sehingga zat yang masuk ke silinder pusat terseleksi."
+        }
+      ]
+    },
+    {
+      "title": "Bab 8 (Biologi): Bioteknologi",
+      "questions": [
+        {
+          "question": "Pasangan produk dan jenis bioteknologi yang tepat adalah ...",
+          "options": [
+            "Yoghurt - bioteknologi modern",
+            "Tape - bioteknologi modern",
+            "Kecap - bioteknologi modern",
+            "Insulin manusia dari bakteri E. coli rekombinan - bioteknologi modern"
+          ],
+          "answer": 3,
+          "explanation": "Yoghurt, tape, dan kecap memakai mikroorganisme secara tradisional (konvensional). Insulin dari E. coli rekombinan memakai rekayasa genetika sehingga tergolong bioteknologi modern."
+        },
+        {
+          "question": "Urutan yang benar dalam pembuatan insulin manusia menggunakan bakteri adalah: (1) menyambung gen insulin ke plasmid dengan DNA ligase; (2) memotong DNA manusia dan plasmid dengan enzim restriksi; (3) memasukkan plasmid rekombinan ke sel bakteri; (4) menyeleksi dan membiakkan bakteri penghasil insulin.",
+          "options": [
+            "1 - 2 - 3 - 4",
+            "3 - 2 - 1 - 4",
+            "2 - 1 - 3 - 4",
+            "2 - 3 - 1 - 4"
+          ],
+          "answer": 2,
+          "explanation": "Gen dan plasmid dipotong dahulu dengan enzim restriksi (2), disambung dengan ligase (1), plasmid rekombinan dimasukkan ke bakteri (3), lalu bakteri yang berhasil diseleksi dan dibiakkan (4)."
+        },
+        {
+          "question": "Keunggulan utama perbanyakan anggrek dengan kultur jaringan dibandingkan dengan biji adalah ...",
+          "options": [
+            "Menghasilkan banyak tanaman seragam yang sifat genetiknya sama dengan induk dalam waktu singkat",
+            "Menghasilkan keturunan dengan variasi genetik tinggi",
+            "Tidak memerlukan medium dan kondisi steril",
+            "Menghasilkan tanaman hibrida dengan sifat baru"
+          ],
+          "answer": 0,
+          "explanation": "Kultur jaringan adalah perbanyakan vegetatif buatan yang menghasilkan klon. Jadi sifat identik dengan induk, jumlahnya banyak, dan waktunya singkat. Medium steril tetap diperlukan."
+        }
+      ]
+    },
+    {
+      "title": "Bab 9 (Biologi): Pewarisan Sifat",
+      "questions": [
+        {
+          "question": "Pernyataan yang benar tentang materi genetik adalah ...",
+          "options": [
+            "Kromosom adalah bagian dari gen",
+            "DNA tersusun atas gula ribosa dan basa A, U, G, C",
+            "Gen adalah segmen DNA yang menyandikan sifat tertentu dan terletak pada kromosom",
+            "Gen tersusun dari kromosom yang berpilin"
+          ],
+          "answer": 2,
+          "explanation": "Kromosom terdiri atas DNA dan protein; gen adalah segmen DNA pada kromosom yang menyandikan polipeptida/RNA. DNA mengandung deoksiribosa dan basa A, T, G, C (U ada pada RNA)."
+        },
+        {
+          "question": "Ercis bulat kuning (BbKk) disilangkan dengan sesamanya (B = bulat dominan, K = kuning dominan). Dari 320 keturunan, jumlah keturunan berbiji keriput kuning yang diharapkan adalah ...",
+          "options": [
+            "20",
+            "60",
+            "180",
+            "100"
+          ],
+          "answer": 1,
+          "explanation": "Rasio fenotipe dihibrid 9 : 3 : 3 : 1. Keriput kuning (bbK_) = 3/16. 3/16 x 320 = 60."
+        },
+        {
+          "question": "Seorang ibu bergolongan darah A heterozigot (IAIO) menikah dengan ayah bergolongan darah B heterozigot (IBIO). Peluang pasangan tersebut memiliki anak laki-laki bergolongan darah O adalah ...",
+          "options": [
+            "12,5%",
+            "25%",
+            "50%",
+            "6,25%"
+          ],
+          "answer": 0,
+          "explanation": "IAIO x IBIO menghasilkan IAIB, IAIO, IBIO, IOIO, masing-masing 1/4, jadi peluang golongan O = 1/4. Peluang anak laki-laki = 1/2. Peluang gabungan = 1/4 x 1/2 = 1/8 = 12,5%."
+        }
+      ]
+    },
+    {
+      "title": "Bab 10 (Kimia): Zat dan Perubahannya",
+      "questions": [
+        {
+          "question": "Perhatikan peristiwa berikut: (1) lilin meleleh; (2) besi berkarat; (3) kamper menyublim; (4) susu menjadi asam; (5) pembuatan garam dari air laut. Peristiwa yang termasuk perubahan kimia adalah ...",
+          "options": [
+            "1 dan 3",
+            "2 dan 5",
+            "1, 3, dan 5",
+            "2 dan 4"
+          ],
+          "answer": 3,
+          "explanation": "Besi berkarat (terbentuk oksida besi) dan susu menjadi asam (laktosa diubah bakteri menjadi asam laktat) menghasilkan zat baru. Melelehnya lilin, sublimasi kamper, dan kristalisasi garam hanya perubahan wujud/pemisahan (fisika)."
+        },
+        {
+          "question": "Sebuah zat padat putih dipanaskan dan terurai menjadi zat padat putih lain serta gas tak berwarna yang mengeruhkan air kapur. Zat padat semula tergolong ...",
+          "options": [
+            "Unsur, karena berupa zat tunggal",
+            "Senyawa, karena dapat diuraikan secara kimia menjadi zat-zat yang lebih sederhana",
+            "Campuran homogen, karena tampak seragam",
+            "Campuran heterogen, karena menghasilkan lebih dari satu zat"
+          ],
+          "answer": 1,
+          "explanation": "Unsur tidak dapat diuraikan menjadi zat lebih sederhana dengan cara kimia biasa. Zat yang terurai menjadi dua zat berbeda adalah senyawa (misalnya CaCO3 → CaO + CO2)."
+        }
+      ]
+    },
+    {
+      "title": "Bab 11 (Kimia): Asam, Basa, dan Garam",
+      "questions": [
+        {
+          "question": "Sebanyak 50 mL larutan HCl dengan pH 2 dicampurkan dengan 50 mL larutan NaOH dengan pH 12 pada suhu 25 derajat Celsius. pH campuran yang dihasilkan adalah ...",
+          "options": [
+            "2",
+            "12",
+            "7",
+            "10"
+          ],
+          "answer": 2,
+          "explanation": "HCl pH 2 → [H+] = 0,01 M → 0,5 mmol. NaOH pH 12 → pOH 2 → [OH-] = 0,01 M → 0,5 mmol. Jumlah H+ dan OH- sama sehingga tepat habis bereaksi menghasilkan garam NaCl (netral), pH = 7."
+        },
+        {
+          "question": "Larutan X memerahkan kertas lakmus biru dan menghasilkan gas yang mengeruhkan air kapur saat ditambah NaHCO3. Larutan X kemungkinan adalah ...",
+          "options": [
+            "CH3COOH",
+            "NaOH",
+            "NaCl",
+            "NH3"
+          ],
+          "answer": 0,
+          "explanation": "Memerahkan lakmus biru menunjukkan sifat asam. Asam bereaksi dengan NaHCO3 menghasilkan CO2 yang mengeruhkan air kapur. CH3COOH (asam cuka) memenuhi kedua ciri tersebut."
+        }
+      ]
+    },
+    {
+      "title": "Bab 12 (Kimia): Zat Aditif dan Adiktif",
+      "questions": [
+        {
+          "question": "Pasangan zat aditif, golongan, dan contoh penggunaannya yang tepat adalah ...",
+          "options": [
+            "Sakarin - penguat rasa - penyedap masakan",
+            "Tartrazin - pengawet - mengawetkan sosis",
+            "Monosodium glutamat - pewarna - pewarna sirup",
+            "Natrium benzoat - pengawet - minuman ringan dan saus"
+          ],
+          "answer": 3,
+          "explanation": "Natrium benzoat adalah pengawet. Sakarin adalah pemanis buatan, tartrazin adalah pewarna kuning, dan monosodium glutamat (MSG) adalah penguat rasa."
+        }
+      ]
+    },
+    {
+      "title": "Bab 13 (Kimia): Partikel Penyusun Materi dan Tata Nama Senyawa",
+      "questions": [
+        {
+          "question": "Atom unsur X memiliki nomor atom 17 dan nomor massa 35. Jumlah proton, neutron, dan elektron pada ion X- berturut-turut adalah ...",
+          "options": [
+            "17, 18, 17",
+            "17, 18, 18",
+            "17, 17, 18",
+            "18, 17, 18"
+          ],
+          "answer": 1,
+          "explanation": "Proton = nomor atom = 17. Neutron = 35 - 17 = 18. Ion X- menerima 1 elektron sehingga elektronnya 17 + 1 = 18."
+        },
+        {
+          "question": "Unsur dengan konfigurasi elektron 2, 8, 6 pada tabel periodik terletak pada ...",
+          "options": [
+            "Golongan VIA, periode 2",
+            "Golongan VIB, periode 3",
+            "Golongan VIA, periode 3",
+            "Golongan IVA, periode 3"
+          ],
+          "answer": 2,
+          "explanation": "Jumlah kulit = 3 sehingga periode 3. Elektron valensi = 6 sehingga golongan VIA (unsur belerang)."
+        },
+        {
+          "question": "Pasangan rumus dan nama senyawa yang benar adalah ...",
+          "options": [
+            "N2O5 - dinitrogen pentaoksida",
+            "CO - karbon dioksida",
+            "SO3 - belerang dioksida",
+            "PCl3 - fosfor pentaklorida"
+          ],
+          "answer": 0,
+          "explanation": "N2O5 = dinitrogen pentaoksida. CO = karbon monoksida; SO3 = belerang trioksida; PCl3 = fosfor triklorida."
+        }
+      ]
+    },
+    {
+      "title": "Bab 14 (Kimia): Ikatan Kimia",
+      "questions": [
+        {
+          "question": "Zat padat Z tidak menghantarkan listrik, tetapi lelehan dan larutannya dalam air dapat menghantarkan listrik dan titik lelehnya tinggi. Jenis ikatan dalam Z kemungkinan besar adalah ...",
+          "options": [
+            "Kovalen nonpolar",
+            "Kovalen polar",
+            "Logam",
+            "Ionik"
+          ],
+          "answer": 3,
+          "explanation": "Padatan ionik tidak menghantarkan karena ion terikat kuat pada kisi, namun lelehan dan larutannya menghantarkan karena ion bebas bergerak. Titik leleh tinggi juga khas senyawa ionik."
+        },
+        {
+          "question": "Unsur X (nomor atom 12) bereaksi dengan unsur Y (nomor atom 17). Rumus senyawa dan jenis ikatan yang terbentuk adalah ...",
+          "options": [
+            "XY, ionik",
+            "XY2, ionik",
+            "X2Y, kovalen",
+            "XY2, kovalen"
+          ],
+          "answer": 1,
+          "explanation": "X (2, 8, 2) melepas 2 elektron menjadi X2+ (logam). Y (2, 8, 7) menerima 1 elektron menjadi Y-. Perbandingannya 1 : 2 sehingga rumusnya XY2 dengan ikatan ionik."
+        }
+      ]
+    }
+  ]
+}
