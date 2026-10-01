@@ -1,0 +1,495 @@
+{
+  "title": "Practice 2 - Biologi (Fokus Kelemahan)",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "Bab 1: Sistem Organisasi Kehidupan - Sel dan Pembelahan Sel",
+      "questions": [
+        {
+          "question": "Sel somatik suatu hewan memiliki 8 kromosom (2n = 8). Pada tahap anafase I meiosis, jumlah kromosom dan jumlah kromatid dalam satu sel berturut-turut adalah ...",
+          "options": [
+            "4 kromosom dan 8 kromatid",
+            "8 kromosom dan 8 kromatid",
+            "8 kromosom dan 16 kromatid",
+            "16 kromosom dan 16 kromatid"
+          ],
+          "answer": 2,
+          "explanation": "Pada anafase I yang berpisah adalah kromosom homolog, bukan kromatid saudara. Jumlah kromosom dalam sel tetap 8 (dihitung dari sentromer) dan tiap kromosom masih terdiri atas 2 kromatid, sehingga ada 16 kromatid. Jumlah kromosom baru menjadi 4 per sel setelah sitokinesis I. Kromatid saudara baru berpisah pada anafase II."
+        },
+        {
+          "question": "Sebanyak 20 spermatosit primer dan 20 oosit primer menjalani meiosis hingga sempurna. Jumlah spermatozoa dan jumlah badan polar yang terbentuk berturut-turut adalah ...",
+          "options": [
+            "80 spermatozoa dan 60 badan polar",
+            "80 spermatozoa dan 20 badan polar",
+            "40 spermatozoa dan 60 badan polar",
+            "80 spermatozoa dan 80 badan polar"
+          ],
+          "answer": 0,
+          "explanation": "Satu spermatosit primer menghasilkan 4 spermatozoa: 20 x 4 = 80. Satu oosit primer menghasilkan 1 ovum fungsional dan 3 badan polar: 20 x 3 = 60 badan polar (20 ovum)."
+        },
+        {
+          "question": "Potongan kentang dengan massa awal sama direndam selama 1 jam dalam larutan gula 0%, 5%, dan 10%. Perubahan massa potongan kentang berturut-turut: +12%, 0%, dan -9%. Kesimpulan yang paling tepat adalah ...",
+          "options": [
+            "Sitoplasma kentang setara dengan larutan 0% karena massa kentang bertambah",
+            "Larutan gula 10% bersifat hipotonik sehingga air masuk ke dalam sel kentang",
+            "Gula berdifusi masuk ke dalam sel pada larutan 5% sehingga massa tidak berubah",
+            "Larutan gula 5% kira-kira isotonik dengan sitoplasma sel kentang sehingga tidak ada perpindahan air neto"
+          ],
+          "answer": 3,
+          "explanation": "Massa tidak berubah berarti tidak ada perpindahan air neto, yaitu kondisi isotonik (sekitar 5%). Pada 0% (hipotonik) air masuk sehingga massa naik. Pada 10% (hipertonik terhadap sel) air keluar sehingga massa turun."
+        },
+        {
+          "question": "Sel hati berperan menetralkan racun dan obat serta mensintesis lipid. Organel yang paling dominan pada sel hati untuk menjalankan fungsi tersebut adalah ...",
+          "options": [
+            "Retikulum endoplasma kasar",
+            "Retikulum endoplasma halus",
+            "Badan Golgi",
+            "Sentriol"
+          ],
+          "answer": 1,
+          "explanation": "RE halus (tanpa ribosom) berperan dalam sintesis lipid dan detoksifikasi. RE kasar berperan menyintesis protein yang akan disekresikan atau dikirim ke membran."
+        },
+        {
+          "question": "Sebuah sel darah putih (makrofag) menelan bakteri melalui fagositosis sehingga bakteri berada di dalam vesikel. Organel yang bergabung dengan vesikel tersebut untuk menghancurkan bakteri adalah ...",
+          "options": [
+            "Mitokondria",
+            "Lisosom",
+            "Ribosom",
+            "Nukleolus"
+          ],
+          "answer": 1,
+          "explanation": "Lisosom mengandung enzim hidrolitik yang bergabung dengan vakuola fagositik dan mencerna bakteri di dalamnya."
+        },
+        {
+          "question": "Sebuah sel epidermis manusia (46 kromosom) membelah secara mitosis tiga kali berturut-turut tanpa ada sel yang mati. Hasil akhirnya adalah ...",
+          "options": [
+            "8 sel anak, masing-masing 23 kromosom",
+            "6 sel anak, masing-masing 46 kromosom",
+            "4 sel anak, masing-masing 46 kromosom",
+            "8 sel anak, masing-masing 46 kromosom"
+          ],
+          "answer": 3,
+          "explanation": "Mitosis menggandakan jumlah sel secara eksponensial: 2^3 = 8 sel. Setiap sel anak identik dengan induk (diploid, 46 kromosom). Jumlah kromosom separuh (23) hanya terjadi pada meiosis."
+        },
+        {
+          "question": "Pertukaran segmen antara kromatid non-saudara dari kromosom homolog (pindah silang) terjadi pada ... dan berperan ...",
+          "options": [
+            "Profase I meiosis; menambah variasi genetik gamet",
+            "Profase mitosis; menjaga kesamaan genetik sel anak",
+            "Anafase II meiosis; memisahkan kromatid saudara",
+            "Metafase I meiosis; menjaga jumlah kromosom tetap diploid"
+          ],
+          "answer": 0,
+          "explanation": "Pindah silang terjadi saat kromosom homolog berpasangan (sinapsis) pada profase I meiosis. Hasilnya kombinasi alel baru pada gamet sehingga variasi genetik meningkat."
+        },
+        {
+          "question": "Seorang peneliti memberi inhibitor yang menghentikan seluruh produksi ATP pada sebuah sel. Proses transpor yang paling cepat terganggu adalah ...",
+          "options": [
+            "Osmosis air melalui membran plasma",
+            "Difusi oksigen ke dalam sel",
+            "Pompa natrium-kalium yang memindahkan ion melawan gradien konsentrasi",
+            "Difusi terfasilitasi glukosa melalui protein pembawa"
+          ],
+          "answer": 2,
+          "explanation": "Transpor aktif membutuhkan ATP untuk bergerak melawan gradien konsentrasi. Osmosis, difusi sederhana, dan difusi terfasilitasi mengikuti gradien sehingga tidak memerlukan ATP."
+        }
+      ]
+    },
+    {
+      "title": "Bab 2: Sistem Organ pada Manusia",
+      "questions": [
+        {
+          "question": "Perhatikan struktur berikut: (1) atrium kanan; (2) arteri pulmonalis; (3) ventrikel kanan; (4) vena kava. Urutan perjalanan darah miskin oksigen dari seluruh tubuh menuju paru-paru adalah ...",
+          "options": [
+            "1 - 4 - 3 - 2",
+            "4 - 3 - 1 - 2",
+            "4 - 1 - 2 - 3",
+            "4 - 1 - 3 - 2"
+          ],
+          "answer": 3,
+          "explanation": "Vena kava → atrium kanan → (katup trikuspid) → ventrikel kanan → (katup semilunar) → arteri pulmonalis → paru-paru."
+        },
+        {
+          "question": "Dinding ventrikel kiri jauh lebih tebal daripada dinding ventrikel kanan karena ventrikel kiri ...",
+          "options": [
+            "Menerima darah dari seluruh tubuh sehingga harus menampung lebih banyak darah",
+            "Memompa darah ke seluruh tubuh melalui sirkulasi sistemik yang membutuhkan tekanan lebih tinggi",
+            "Memompa darah ke paru-paru yang letaknya lebih jauh dari jantung",
+            "Berisi darah miskin oksigen yang lebih kental"
+          ],
+          "answer": 1,
+          "explanation": "Volume darah yang dipompa kedua ventrikel per denyut sama. Perbedaannya adalah tekanan: sirkulasi sistemik (ventrikel kiri) memerlukan tekanan jauh lebih tinggi daripada sirkulasi paru (ventrikel kanan)."
+        },
+        {
+          "question": "Seorang siswa menarik napas dalam. Pada saat tekanan udara di dalam paru-paru turun menjadi lebih rendah daripada tekanan atmosfer, peristiwa yang terjadi adalah ...",
+          "options": [
+            "Diafragma berelaksasi dan melengkung ke atas sehingga volume rongga dada berkurang",
+            "Otot interkostal internal berkontraksi sehingga rusuk turun dan volume rongga dada berkurang",
+            "Diafragma berkontraksi dan mendatar, otot interkostal eksternal mengangkat rusuk, dan volume rongga dada bertambah",
+            "Diafragma berkontraksi sehingga volume rongga dada berkurang dan tekanan paru naik"
+          ],
+          "answer": 2,
+          "explanation": "Prinsipnya hubungan volume dan tekanan (Boyle): volume rongga dada naik → tekanan paru turun di bawah tekanan atmosfer → udara mengalir masuk. Inspirasi = diafragma berkontraksi (mendatar) + interkostal eksternal mengangkat rusuk."
+        },
+        {
+          "question": "Saat meniup balon sekuat tenaga (ekspirasi paksa), otot yang ikut berkontraksi selain proses ekspirasi biasa adalah ...",
+          "options": [
+            "Otot interkostal internal dan otot dinding perut",
+            "Otot interkostal eksternal dan diafragma",
+            "Otot diafragma dan otot punggung (trapezius)",
+            "Tidak ada, karena ekspirasi selalu berlangsung pasif"
+          ],
+          "answer": 0,
+          "explanation": "Ekspirasi biasa bersifat pasif (diafragma relaksasi). Pada ekspirasi paksa, otot interkostal internal menurunkan rusuk dan otot perut menekan diafragma ke atas sehingga volume rongga dada berkurang lebih besar."
+        },
+        {
+          "question": "Bayangan benda dekat jatuh di belakang retina karena bola mata terlalu pendek. Kelainan mata tersebut dan lensa kacamata yang sesuai adalah ...",
+          "options": [
+            "Hipermetropi, lensa cembung",
+            "Miopi, lensa cekung",
+            "Hipermetropi, lensa cekung",
+            "Miopi, lensa cembung"
+          ],
+          "answer": 0,
+          "explanation": "Bayangan di belakang retina = hipermetropi (rabun dekat). Lensa cembung (positif) mengumpulkan sinar sehingga bayangan maju tepat ke retina. Pegangan: bayangan di depan retina = miopi = lensa cekung."
+        },
+        {
+          "question": "Getaran suara memasuki telinga dan diteruskan hingga menjadi impuls saraf. Urutan struktur yang dilalui getaran adalah: (1) membran timpani; (2) tulang pendengaran; (3) koklea; (4) jendela oval.",
+          "options": [
+            "1 - 2 - 3 - 4",
+            "2 - 1 - 4 - 3",
+            "1 - 2 - 4 - 3",
+            "1 - 4 - 2 - 3"
+          ],
+          "answer": 2,
+          "explanation": "Membran timpani → tulang pendengaran (martil, landasan, sanggurdi) → jendela oval → koklea (sel rambut organ Corti) → saraf pendengaran."
+        },
+        {
+          "question": "Seorang pengendara mengalami benturan di bagian belakang bawah kepala sehingga sulit menjaga keseimbangan dan gerakannya tidak terkoordinasi, tetapi daya pikir dan ingatannya normal. Bagian otak yang paling mungkin terganggu adalah ...",
+          "options": [
+            "Otak besar (serebrum)",
+            "Otak kecil (serebelum)",
+            "Sumsum lanjutan (medula oblongata)",
+            "Hipotalamus"
+          ],
+          "answer": 1,
+          "explanation": "Otak kecil mengatur keseimbangan dan koordinasi gerak. Gangguan serebrum akan memengaruhi pikiran dan ingatan, medula oblongata mengatur napas dan denyut jantung, hipotalamus mengatur suhu dan homeostasis."
+        },
+        {
+          "question": "Dua tabung berisi larutan amilum 1%. Tabung 1 ditambah ludah segar, tabung 2 ditambah ludah yang telah dididihkan, keduanya diinkubasi pada 37 °C selama 15 menit lalu ditetesi larutan iodin. Tabung 1 tetap kuning kecokelatan, tabung 2 menjadi biru kehitaman. Kesimpulan yang tepat adalah ...",
+          "options": [
+            "Iodin pada tabung 1 menguraikan amilum menjadi maltosa",
+            "Pendidihan mengubah amilum pada tabung 2 menjadi glukosa",
+            "Ludah yang dididihkan mengandung amilase lebih banyak",
+            "Amilase pada ludah segar menguraikan amilum, sedangkan enzim pada ludah yang dididihkan telah terdenaturasi"
+          ],
+          "answer": 3,
+          "explanation": "Biru kehitaman menandakan amilum masih ada. Tabung 2 tidak berubah karena amilase terdenaturasi oleh panas. Iodin hanya indikator, bukan enzim."
+        },
+        {
+          "question": "Saat seseorang berdiri berjinjit, tubuh bertumpu pada ujung jari kaki dan tumit terangkat oleh tarikan otot betis melalui tendon Achilles. Jenis pengungkit yang bekerja pada gerakan tersebut adalah ...",
+          "options": [
+            "Pengungkit jenis pertama (tumpuan berada di antara beban dan kuasa)",
+            "Pengungkit jenis kedua (beban berada di antara tumpuan dan kuasa)",
+            "Pengungkit jenis ketiga (kuasa berada di antara tumpuan dan beban)",
+            "Bukan pengungkit karena tidak melibatkan sendi"
+          ],
+          "answer": 1,
+          "explanation": "Tumpuan: ujung jari kaki. Beban: berat tubuh pada pergelangan kaki. Kuasa: otot betis di tumit. Beban berada di antara tumpuan dan kuasa sehingga tergolong pengungkit jenis kedua."
+        },
+        {
+          "question": "Pada pemeriksaan laboratorium, urine seorang pasien mengandung protein albumin dalam jumlah banyak, sedangkan glukosanya tidak ada. Gangguan yang paling mungkin terjadi pada ...",
+          "options": [
+            "Proses filtrasi di glomerulus yang menjadi terlalu permeabel",
+            "Reabsorpsi glukosa di tubulus kontortus proksimal",
+            "Augmentasi di tubulus kontortus distal",
+            "Reabsorpsi air di lengkung Henle"
+          ],
+          "answer": 0,
+          "explanation": "Protein berukuran besar normalnya tidak lolos filtrasi glomerulus. Adanya albumin dalam urine menunjukkan kerusakan filter glomerulus. Glukosa tidak ada dalam urine berarti reabsorpsi di tubulus proksimal masih normal."
+        },
+        {
+          "question": "Jika tidak terjadi pembuahan, menstruasi terjadi karena ...",
+          "options": [
+            "Kadar LH melonjak sehingga endometrium meluruh",
+            "Kadar hCG meningkat sehingga endometrium meluruh",
+            "Korpus luteum menghasilkan progesteron makin banyak sehingga endometrium terlepas",
+            "Korpus luteum berdegenerasi sehingga kadar progesteron dan estrogen turun dan endometrium meluruh"
+          ],
+          "answer": 3,
+          "explanation": "Progesteron dan estrogen dari korpus luteum menjaga endometrium. Tanpa pembuahan, korpus luteum berdegenerasi, kadar hormon turun, dan endometrium meluruh. hCG justru hanya ada saat kehamilan."
+        },
+        {
+          "question": "Perhatikan peristiwa awal kehamilan: (1) pembentukan morula; (2) implantasi blastosis pada endometrium; (3) fertilisasi di tuba falopi; (4) pembentukan zigot. Urutan yang benar adalah ...",
+          "options": [
+            "4 - 3 - 1 - 2",
+            "3 - 4 - 2 - 1",
+            "3 - 4 - 1 - 2",
+            "3 - 1 - 4 - 2"
+          ],
+          "answer": 2,
+          "explanation": "Fertilisasi (di tuba falopi) → zigot → pembelahan menjadi morula → blastosis → implantasi pada endometrium."
+        }
+      ]
+    },
+    {
+      "title": "Bab 3: Struktur Bumi",
+      "questions": [
+        {
+          "question": "Gelombang seismik S tidak dapat merambat melalui inti luar Bumi, sedangkan gelombang P dapat merambat melaluinya. Kesimpulan yang paling tepat adalah ...",
+          "options": [
+            "Inti luar berwujud padat dan sangat rapat",
+            "Inti luar berwujud gas",
+            "Inti luar berwujud cair",
+            "Inti luar berupa rongga kosong"
+          ],
+          "answer": 2,
+          "explanation": "Gelombang S (transversal) tidak dapat merambat dalam zat cair, sedangkan gelombang P (longitudinal) dapat. Karena itu inti luar (besi dan nikel) disimpulkan berwujud cair."
+        },
+        {
+          "question": "Perbedaan yang benar antara kerak benua dan kerak samudra adalah ...",
+          "options": [
+            "Kerak benua lebih tipis dan lebih padat daripada kerak samudra",
+            "Kerak samudra lebih tebal dan tersusun terutama batuan granitik",
+            "Keduanya tersusun atas besi dan nikel dengan ketebalan yang sama",
+            "Kerak benua lebih tebal dan lebih ringan (granitik), kerak samudra lebih tipis dan lebih padat (basaltik)"
+          ],
+          "answer": 3,
+          "explanation": "Kerak benua tebal (sekitar 30-70 km) dan berdensitas lebih rendah. Kerak samudra tipis (sekitar 5-10 km) dan lebih padat sehingga menunjam di bawah kerak benua pada zona subduksi."
+        },
+        {
+          "question": "Suhu inti dalam Bumi diperkirakan lebih dari 5.000 °C, tetapi inti dalam berwujud padat. Penyebab yang paling tepat adalah ...",
+          "options": [
+            "Tekanan yang sangat besar menaikkan titik leleh logam besi-nikel sehingga tetap padat",
+            "Inti dalam jauh dari sumber panas sehingga cepat mendingin",
+            "Inti dalam tersusun atas silikat padat, bukan logam",
+            "Gaya gravitasi di pusat Bumi nol sehingga zat tidak dapat mencair"
+          ],
+          "answer": 0,
+          "explanation": "Titik leleh naik seiring tekanan. Tekanan di pusat Bumi (sekitar 3,6 juta atm) membuat besi-nikel tetap padat walau sangat panas."
+        }
+      ]
+    },
+    {
+      "title": "Bab 4: Struktur dan Fungsi Jaringan Tumbuhan",
+      "questions": [
+        {
+          "question": "Sebuah ranting jeruk dikelupas kulitnya melingkar sampai kambium sehingga floem terputus, tetapi xilem tetap utuh. Daun pada ranting tetap segar selama beberapa minggu dan buah di atas cincin menjadi lebih besar dan manis. Penjelasan yang tepat adalah ...",
+          "options": [
+            "Floem yang terputus membuat air tertahan di ranting sehingga buah membesar",
+            "Xilem utuh sehingga air tetap naik, sedangkan hasil fotosintesis tidak dapat diangkut turun dan tertahan di atas cincin",
+            "Xilem yang terputus membuat mineral menumpuk di buah",
+            "Hasil fotosintesis diangkut ke atas oleh xilem sehingga buah lebih manis"
+          ],
+          "answer": 1,
+          "explanation": "Xilem mengangkut air dan mineral ke atas; floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh. Bila floem terputus, gula menumpuk di bagian atas cincin, sedangkan air tetap naik sehingga daun tidak layu."
+        },
+        {
+          "question": "Pohon setinggi 30 m dapat mengangkut air dari akar sampai daun tertinggi. Gaya penggerak utama pengangkutan air tersebut adalah ...",
+          "options": [
+            "Tekanan akar yang mendorong air dari bawah",
+            "Kapilaritas pembuluh xilem yang sangat sempit saja",
+            "Pemompaan aktif air oleh sel-sel floem",
+            "Tarikan transpirasi pada daun yang diteruskan oleh kohesi dan adhesi molekul air di dalam xilem"
+          ],
+          "answer": 3,
+          "explanation": "Tekanan akar hanya mampu mendorong air beberapa meter dan kapilaritas saja tidak cukup. Penguapan di daun menarik kolom air yang tersambung karena kohesi antarmolekul air dan adhesi dengan dinding xilem."
+        },
+        {
+          "question": "Pada irisan melintang batang suatu tanaman terlihat berkas pengangkut tersusun melingkar, dan di antara xilem dan floem terdapat jaringan yang aktif membelah. Jaringan tersebut dan jenis tumbuhannya adalah ...",
+          "options": [
+            "Kambium; dikotil",
+            "Kambium; monokotil",
+            "Kolenkim; dikotil",
+            "Parenkim; monokotil"
+          ],
+          "answer": 0,
+          "explanation": "Berkas pengangkut melingkar dengan kambium di antara xilem dan floem (tipe kolateral terbuka) adalah ciri batang dikotil. Pada monokotil berkas tersebar dan tidak ada kambium."
+        },
+        {
+          "question": "Pada irisan melintang daun, jaringan yang tersusun rapat tegak seperti tiang tepat di bawah epidermis atas serta paling banyak mengandung kloroplas adalah ...",
+          "options": [
+            "Jaringan bunga karang (spons)",
+            "Jaringan palisade (tiang)",
+            "Kolenkim",
+            "Epidermis atas"
+          ],
+          "answer": 1,
+          "explanation": "Palisade berada di bawah epidermis atas dan padat kloroplas untuk fotosintesis. Bunga karang memiliki ruang antarsel besar untuk pertukaran gas dan kloroplasnya lebih sedikit."
+        }
+      ]
+    },
+    {
+      "title": "Bab 5: Bioteknologi",
+      "questions": [
+        {
+          "question": "Pembuatan tanaman transgenik tahan hama: (1) mengisolasi gen Bt dari Bacillus thuringiensis dengan enzim restriksi; (2) menyisipkan gen Bt ke plasmid Agrobacterium; (3) menginfeksikan Agrobacterium rekombinan ke sel tanaman; (4) menumbuhkan sel tanaman transgenik menjadi tanaman utuh melalui kultur jaringan. Urutan yang benar adalah ...",
+          "options": [
+            "2 - 1 - 3 - 4",
+            "1 - 3 - 2 - 4",
+            "1 - 2 - 3 - 4",
+            "3 - 1 - 2 - 4"
+          ],
+          "answer": 2,
+          "explanation": "Gen target diisolasi lebih dulu, disisipkan ke vektor, vektor dimasukkan ke sel tanaman, lalu sel yang berhasil diregenerasi menjadi tanaman utuh."
+        },
+        {
+          "question": "Pasangan produk dan mikroorganisme yang berperan dalam pembuatannya yang tepat adalah ...",
+          "options": [
+            "Nata de coco - Acetobacter xylinum",
+            "Tempe - Aspergillus wentii",
+            "Yoghurt - Rhizopus oligosporus",
+            "Roti - Lactobacillus bulgaricus"
+          ],
+          "answer": 0,
+          "explanation": "Tempe dibuat oleh Rhizopus oligosporus, yoghurt oleh Lactobacillus bulgaricus (dan Streptococcus thermophilus), roti mengembang oleh Saccharomyces cerevisiae, nata de coco oleh Acetobacter xylinum."
+        },
+        {
+          "question": "Domba Dolly dihasilkan dengan memindahkan inti sel somatik dari kelenjar susu domba A ke sel telur domba B yang intinya telah dibuang, lalu embrio ditanam ke rahim domba C. Secara genetik (DNA inti), Dolly identik dengan ...",
+          "options": [
+            "Domba B, pendonor sel telur",
+            "Domba A, pendonor inti sel somatik",
+            "Domba C, induk pengganti",
+            "Gabungan domba A dan B masing-masing 50%"
+          ],
+          "answer": 1,
+          "explanation": "DNA inti Dolly berasal dari inti sel somatik domba A sehingga ia klon domba A. Sel telur B hanya menyediakan sitoplasma, dan domba C hanya mengandung embrio."
+        }
+      ]
+    },
+    {
+      "title": "Bab 6: Interaksi Makhluk Hidup",
+      "questions": [
+        {
+          "question": "Perhatikan interaksi berikut: (1) tali putri (Cuscuta) pada tanaman inang; (2) ikan remora menempel pada hiu dan memakan sisa makanannya tanpa merugikan hiu; (3) alga dan jamur pada lichen. Jenis interaksi (1), (2), dan (3) berturut-turut adalah ...",
+          "options": [
+            "Komensalisme, parasitisme, mutualisme",
+            "Mutualisme, parasitisme, komensalisme",
+            "Parasitisme, komensalisme, mutualisme",
+            "Parasitisme, mutualisme, komensalisme"
+          ],
+          "answer": 2,
+          "explanation": "(1) Cuscuta menyerap nutrisi inang dan merugikannya: parasitisme. (2) Remora untung, hiu tidak dirugikan: komensalisme. (3) Alga memberi makanan dan jamur memberi perlindungan, keduanya untung: mutualisme."
+        },
+        {
+          "question": "Pada rantai makanan rumput → belalang → katak → ular → elang, energi pada rumput sebesar 80.000 kJ. Jika efisiensi transfer energi antartingkat trofik 10%, energi yang diterima elang adalah ...",
+          "options": [
+            "80 kJ",
+            "800 kJ",
+            "0,8 kJ",
+            "8 kJ"
+          ],
+          "answer": 3,
+          "explanation": "Elang konsumen tingkat IV sehingga ada 4 kali transfer: 80.000 x (0,1)^4 = 8 kJ. Hitung jumlah panah, bukan jumlah organisme."
+        },
+        {
+          "question": "Dua spesies burung, A dan B, hidup di hutan yang sama dan memakan jenis serangga yang sama. Ketika spesies B dipindahkan dari hutan tersebut, populasi spesies A meningkat. Interaksi antara A dan B paling tepat disebut ...",
+          "options": [
+            "Kompetisi intraspesifik",
+            "Kompetisi interspesifik",
+            "Predasi",
+            "Mutualisme"
+          ],
+          "answer": 1,
+          "explanation": "Dua spesies berbeda bersaing memperebutkan sumber daya yang sama: kompetisi interspesifik. Intraspesifik adalah persaingan antar individu satu spesies."
+        },
+        {
+          "question": "Zat pestisida DDT sulit terurai dan masuk ke ekosistem perairan dengan rantai makanan: plankton → ikan kecil → ikan besar → elang pemakan ikan. Konsentrasi DDT paling tinggi akan ditemukan pada ...",
+          "options": [
+            "Elang",
+            "Plankton",
+            "Ikan kecil",
+            "Ikan besar"
+          ],
+          "answer": 0,
+          "explanation": "Racun yang tidak terurai terakumulasi dan makin pekat pada tingkat trofik lebih tinggi (biomagnifikasi), sehingga konsumen puncak memiliki konsentrasi tertinggi."
+        }
+      ]
+    },
+    {
+      "title": "Bab 7: Klasifikasi Makhluk Hidup - Sistem Kingdom",
+      "questions": [
+        {
+          "question": "Ragi (Saccharomyces cerevisiae) bersifat uniseluler, tetapi dimasukkan ke dalam Kingdom Fungi. Alasan yang paling tepat adalah ...",
+          "options": [
+            "Ragi prokariotik dengan dinding sel kitin",
+            "Ragi memiliki jaringan sejati yang tersusun dari hifa",
+            "Ragi berfotosintesis dengan klorofil seperti alga",
+            "Ragi eukariotik, berdinding sel kitin, dan heterotrof dengan cara menyerap nutrisi"
+          ],
+          "answer": 3,
+          "explanation": "Klasifikasi didasarkan pada ciri sel dan cara memperoleh nutrisi, bukan hanya jumlah sel. Ragi eukariotik, dinding sel kitin, dan heterotrof absorptif seperti jamur lainnya."
+        },
+        {
+          "question": "Organisme X bersel satu, berinti sejati, tidak memiliki kloroplas, bergerak dengan rambut getar (silia), dan menelan makanan melalui celah mulut. Organisme X paling tepat dikelompokkan ke dalam ...",
+          "options": [
+            "Animalia, karena heterotrof dan dapat bergerak",
+            "Monera, karena bersel satu",
+            "Protista (protozoa)",
+            "Fungi, karena heterotrof"
+          ],
+          "answer": 2,
+          "explanation": "Organisme eukariotik uniseluler yang tidak memiliki jaringan adalah Protista. Ciri tersebut sesuai Paramecium (protozoa). Animalia harus multiseluler berjaringan."
+        },
+        {
+          "question": "Virus tidak dimasukkan ke dalam salah satu dari lima kingdom makhluk hidup karena ...",
+          "options": [
+            "Virus tidak memiliki struktur sel dan hanya dapat bereplikasi di dalam sel inang",
+            "Virus terlalu kecil untuk diamati sehingga belum diklasifikasikan",
+            "Virus hanya tersusun atas protein tanpa materi genetik",
+            "Virus bersifat prokariotik tanpa dinding sel"
+          ],
+          "answer": 0,
+          "explanation": "Virus bukan sel, tidak bermetabolisme sendiri, dan hanya mereplikasi diri di dalam sel inang. Virus memiliki materi genetik (DNA atau RNA) yang dilindungi selubung protein."
+        }
+      ]
+    },
+    {
+      "title": "Bab 8: Pemanasan Global - Efek Rumah Kaca",
+      "questions": [
+        {
+          "question": "Pernyataan yang paling tepat mengenai efek rumah kaca adalah ...",
+          "options": [
+            "Efek rumah kaca seluruhnya berasal dari aktivitas manusia",
+            "Efek rumah kaca alami diperlukan agar suhu Bumi layak huni, dan peningkatan gas rumah kaca akibat aktivitas manusia memperkuatnya sehingga terjadi pemanasan global",
+            "Lubang pada lapisan ozon adalah penyebab utama efek rumah kaca",
+            "Efek rumah kaca hanya terjadi di daerah kutub"
+          ],
+          "answer": 1,
+          "explanation": "Tanpa efek rumah kaca alami, suhu rata-rata Bumi sekitar -18 °C. Masalahnya adalah penambahan gas rumah kaca (CO2, CH4, N2O) dari pembakaran bahan bakar fosil, deforestasi, dan peternakan. Penipisan ozon adalah masalah yang berbeda."
+        }
+      ]
+    },
+    {
+      "title": "Bab 9: Pewarisan Sifat",
+      "questions": [
+        {
+          "question": "Hemofilia diwariskan secara resesif terpaut kromosom X. Seorang ibu karier (XHXh) menikah dengan ayah normal (XHY). Peluang pasangan ini memiliki anak laki-laki penderita hemofilia adalah ...",
+          "options": [
+            "50%",
+            "12,5%",
+            "0%",
+            "25%"
+          ],
+          "answer": 3,
+          "explanation": "Keturunan: XHXH, XHXh, XHY, XhY dengan peluang masing-masing 1/4. Anak laki-laki hemofilia (XhY) = 1/4 = 25%. Jika sudah diketahui anaknya laki-laki, peluang hemofilia menjadi 50%."
+        },
+        {
+          "question": "Suatu molekul DNA untai ganda mengandung 20% adenin. Persentase guanin pada DNA tersebut adalah ...",
+          "options": [
+            "20%",
+            "40%",
+            "30%",
+            "60%"
+          ],
+          "answer": 2,
+          "explanation": "Aturan Chargaff: A = T = 20% sehingga A + T = 40%. Sisanya G + C = 60%, dan G = C = 30%."
+        }
+      ]
+    }
+  ]
+}
