@@ -1,0 +1,29 @@
+name: Update question bank list
+
+on:
+  push:
+    paths:
+      - "Question Bank/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild banks.json
+        run: |
+          cd "Question Bank"
+          ls -v -- *.json | grep -v '^banks.json$' | jq -R . | jq -s . > banks.json
+          cat banks.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "Question Bank/banks.json"
+          git diff --staged --quiet || (git commit -m "Update banks.json" && git push)
