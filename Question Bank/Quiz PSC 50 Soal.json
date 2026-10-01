@@ -1,0 +1,575 @@
+{
+  "title": "Latihan PSC UNDIKSHA 2026 - Penyisihan IPA (50 Soal, Level Medium-Hard)",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "Fisika",
+      "questions": [
+        {
+          "question": "Skala utama sebuah jangka sorong menunjukkan angka antara 4,2 cm dan 4,3 cm. Garis ke-6 skala nonius berimpit dengan salah satu garis skala utama. Jika ketelitian jangka sorong 0,1 mm, hasil pengukurannya adalah",
+          "options": [
+            "4,62 cm",
+            "4,06 cm",
+            "4,206 cm",
+            "4,26 cm"
+          ],
+          "answer": 3,
+          "explanation": "Hasil = skala utama + (garis nonius x ketelitian) = 4,2 cm + (6 x 0,01 cm) = 4,26 cm. Ketelitian 0,1 mm sama dengan 0,01 cm."
+        },
+        {
+          "question": "Sebuah mikrometer sekrup (ketelitian 0,01 mm) saat rahangnya dikatupkan menunjukkan skala putar angka 3 (kelebihan 0,03 mm). Saat mengukur kawat, skala utama terbaca 5,5 mm dan skala putar 28. Diameter kawat sebenarnya adalah",
+          "options": [
+            "5,75 mm",
+            "5,78 mm",
+            "5,81 mm",
+            "5,53 mm"
+          ],
+          "answer": 0,
+          "explanation": "Bacaan = 5,5 + 0,28 = 5,78 mm. Alat memiliki kesalahan nol positif +0,03 mm, sehingga hasil sebenarnya = 5,78 - 0,03 = 5,75 mm."
+        },
+        {
+          "question": "Batang A dan B memiliki panjang awal sama. Koefisien muai panjang A dua kali koefisien muai panjang B. Suhu A dinaikkan 20 derajat C, sedangkan suhu B dinaikkan 40 derajat C. Perbandingan pertambahan panjang A : B adalah",
+          "options": [
+            "1 : 2",
+            "1 : 1",
+            "2 : 1",
+            "1 : 4"
+          ],
+          "answer": 1,
+          "explanation": "Delta L = L0 x alfa x Delta T. Perbandingan = (2 alfa x 20) : (alfa x 40) = 40 : 40 = 1 : 1."
+        },
+        {
+          "question": "Es bermassa 200 g bersuhu -10 derajat C dipanaskan hingga seluruhnya menjadi air bersuhu 20 derajat C. Kalor jenis es 2.100 J/kg derajat C, kalor lebur es 336.000 J/kg, kalor jenis air 4.200 J/kg derajat C. Kalor yang dibutuhkan adalah",
+          "options": [
+            "67,2 kJ",
+            "84,0 kJ",
+            "92,4 kJ",
+            "88,2 kJ"
+          ],
+          "answer": 3,
+          "explanation": "Q1 (es -10 ke 0) = 0,2 x 2.100 x 10 = 4.200 J. Q2 (melebur) = 0,2 x 336.000 = 67.200 J. Q3 (air 0 ke 20) = 0,2 x 4.200 x 20 = 16.800 J. Total = 88.200 J = 88,2 kJ."
+        },
+        {
+          "question": "Logam bermassa 100 g dipanaskan hingga 100 derajat C lalu dimasukkan ke 200 g air bersuhu 20 derajat C dalam wadah berisolasi (kapasitas wadah diabaikan). Suhu akhir campuran 25 derajat C. Jika kalor jenis air 4.200 J/kg derajat C, kalor jenis logam adalah",
+          "options": [
+            "420 J/kg derajat C",
+            "840 J/kg derajat C",
+            "1.120 J/kg derajat C",
+            "560 J/kg derajat C"
+          ],
+          "answer": 3,
+          "explanation": "Asas Black: Q lepas = Q terima. 0,1 x c x (100-25) = 0,2 x 4.200 x (25-20). 7,5c = 4.200, sehingga c = 560 J/kg derajat C."
+        },
+        {
+          "question": "Mobil A bergerak lurus beraturan 20 m/s. Mobil B berada 500 m di belakang A dan bergerak searah dengan kecepatan 30 m/s. Mobil B menyusul mobil A setelah",
+          "options": [
+            "25 s",
+            "17 s",
+            "50 s",
+            "100 s"
+          ],
+          "answer": 2,
+          "explanation": "Kecepatan relatif = 30 - 20 = 10 m/s. Waktu = jarak / kecepatan relatif = 500 / 10 = 50 s."
+        },
+        {
+          "question": "Mobil melaju 72 km/jam lalu direm dengan perlambatan konstan 4 m/s2 hingga berhenti. Jika mobil yang sama melaju 144 km/jam dengan perlambatan yang sama, jarak pengeremannya menjadi",
+          "options": [
+            "100 m",
+            "150 m",
+            "200 m",
+            "400 m"
+          ],
+          "answer": 2,
+          "explanation": "Jarak henti s = v^2 / 2a. Untuk 72 km/jam (20 m/s): s = 400/8 = 50 m. Untuk 144 km/jam (40 m/s): s = 1.600/8 = 200 m. Kecepatan dua kali lipat menyebabkan jarak henti empat kali lipat."
+        },
+        {
+          "question": "Bola ditendang dengan kecepatan awal 20 m/s dan sudut elevasi 30 derajat terhadap tanah datar (g = 10 m/s2). Tinggi maksimum dan waktu bola di udara sampai kembali ke tanah adalah",
+          "options": [
+            "10 m dan 2 s",
+            "5 m dan 4 s",
+            "10 m dan 4 s",
+            "5 m dan 2 s"
+          ],
+          "answer": 3,
+          "explanation": "v0y = 20 sin 30 = 10 m/s. Hmaks = v0y^2 / 2g = 100/20 = 5 m. Waktu total = 2 v0y / g = 20/10 = 2 s."
+        },
+        {
+          "question": "Dua balok bermassa 2 kg dan 3 kg dihubungkan tali melalui katrol licin bermassa diabaikan (g = 10 m/s2). Tegangan tali ketika sistem dilepaskan adalah",
+          "options": [
+            "20 N",
+            "24 N",
+            "25 N",
+            "30 N"
+          ],
+          "answer": 1,
+          "explanation": "Percepatan a = (3 - 2)(10) / 5 = 2 m/s2. Untuk balok 2 kg yang naik: T - 20 = 2 x 2, sehingga T = 24 N. (Rumus: T = 2 m1 m2 g / (m1 + m2) = 2 x 6 x 10 / 5 = 24 N.)"
+        },
+        {
+          "question": "Gerhana Bulan tidak terjadi setiap bulan purnama. Alasan yang paling tepat adalah",
+          "options": [
+            "Jarak Bulan ke Bumi selalu berubah sehingga bayangan Bumi tidak pernah sampai ke Bulan",
+            "Bidang orbit Bulan miring sekitar 5 derajat terhadap bidang orbit Bumi sehingga Matahari, Bumi, dan Bulan jarang tepat segaris",
+            "Periode revolusi Bulan lebih singkat daripada periode rotasi Bumi",
+            "Bulan purnama terjadi ketika Bulan berada di antara Bumi dan Matahari"
+          ],
+          "answer": 1,
+          "explanation": "Karena orbit Bulan miring sekitar 5 derajat, pada kebanyakan purnama Bulan berada di atas atau di bawah bayangan Bumi. Gerhana terjadi hanya bila purnama bertepatan dengan Bulan berada di dekat titik simpul orbit. Pada purnama, Bumi berada di antara Matahari dan Bulan."
+        },
+        {
+          "question": "Pipa U berisi air (massa jenis 1.000 kg/m3). Pada salah satu kaki dituangkan minyak (800 kg/m3) setinggi 20 cm. Selisih tinggi permukaan atas minyak dengan permukaan air di kaki lainnya adalah",
+          "options": [
+            "16 cm",
+            "20 cm",
+            "4 cm",
+            "2 cm"
+          ],
+          "answer": 2,
+          "explanation": "Pada bidang batas minyak-air tekanan sama: rho air x h = rho minyak x 20. Maka h air = 800 x 20 / 1.000 = 16 cm. Selisih tinggi = 20 - 16 = 4 cm."
+        },
+        {
+          "question": "Sebuah dongkrak hidrolik memiliki penampang kecil berdiameter 4 cm dan penampang besar berdiameter 24 cm. Agar dapat mengangkat mobil bermassa 1,2 ton (g = 10 m/s2), gaya minimum pada penampang kecil sekitar",
+          "options": [
+            "333 N",
+            "2.000 N",
+            "500 N",
+            "1.000 N"
+          ],
+          "answer": 0,
+          "explanation": "Berat mobil = 12.000 N. Hukum Pascal: F1 / A1 = F2 / A2, dan A sebanding dengan d^2. F1 = 12.000 x (4/24)^2 = 12.000 / 36 = 333 N."
+        },
+        {
+          "question": "Balok bermassa 2 kg meluncur pada lantai datar kasar dengan kecepatan awal 10 m/s dan berhenti setelah menempuh 25 m (g = 10 m/s2). Koefisien gesek kinetik antara balok dan lantai adalah",
+          "options": [
+            "0,1",
+            "0,2",
+            "0,25",
+            "0,4"
+          ],
+          "answer": 1,
+          "explanation": "Teorema usaha-energi: usaha gesek = perubahan energi kinetik. f x s = 1/2 m v^2 = 1/2 x 2 x 100 = 100 J, sehingga f = 100/25 = 4 N. Gaya normal = mg = 20 N, maka mu = 4/20 = 0,2."
+        },
+        {
+          "question": "Sebuah balok digantung pada satu pegas dan berosilasi dengan periode 2 s. Jika balok yang sama digantung pada dua pegas identik (sama seperti pegas semula) yang disusun paralel, periode osilasinya menjadi",
+          "options": [
+            "akar 2 s (sekitar 1,41 s)",
+            "2 akar 2 s",
+            "1 s",
+            "4 s"
+          ],
+          "answer": 0,
+          "explanation": "Dua pegas paralel memiliki konstanta efektif k' = 2k. Periode T = 2 pi akar(m/k), sehingga T' = T / akar 2 = 2 / akar 2 = akar 2 s."
+        },
+        {
+          "question": "Pipa organa tertutup panjangnya 0,5 m. Jika cepat rambat bunyi di udara 340 m/s, frekuensi nada atas pertamanya adalah",
+          "options": [
+            "340 Hz",
+            "510 Hz",
+            "680 Hz",
+            "255 Hz"
+          ],
+          "answer": 1,
+          "explanation": "Pipa organa tertutup: f0 = v / 4L = 340 / 2 = 170 Hz. Nada atas pertama = 3 x f0 = 510 Hz (hanya harmonik ganjil)."
+        },
+        {
+          "question": "Sebuah benda diletakkan 15 cm di depan lensa cembung berfokus 10 cm. Letak dan sifat bayangan yang terbentuk adalah",
+          "options": [
+            "30 cm di belakang lensa, nyata, terbalik, diperbesar 2 kali",
+            "6 cm di belakang lensa, nyata, terbalik, diperkecil",
+            "30 cm di depan lensa, maya, tegak, diperbesar 2 kali",
+            "15 cm di belakang lensa, nyata, terbalik, sama besar"
+          ],
+          "answer": 0,
+          "explanation": "1/s' = 1/f - 1/s = 1/10 - 1/15 = 1/30, sehingga s' = 30 cm (positif berarti nyata dan di belakang lensa). M = s'/s = 2 kali, terbalik. Benda berada di antara F dan 2F."
+        },
+        {
+          "question": "Seorang penderita rabun dekat memiliki titik dekat 50 cm. Agar dapat membaca dengan jelas pada jarak baca normal 25 cm, ia memerlukan kacamata berkekuatan",
+          "options": [
+            "-2 dioptri",
+            "+4 dioptri",
+            "+2 dioptri",
+            "+1 dioptri"
+          ],
+          "answer": 2,
+          "explanation": "Bayangan harus terbentuk pada titik dekat mata (maya, s' = -50 cm). P = 1/s + 1/s' = 1/0,25 - 1/0,5 = 4 - 2 = +2 dioptri (lensa cembung)."
+        },
+        {
+          "question": "Mikroskop memiliki lensa objektif berfokus 1 cm dan lensa okuler berfokus 5 cm. Benda diletakkan 1,1 cm di depan objektif dan mata pengamat tidak berakomodasi (titik dekat 25 cm). Panjang tubus dan perbesaran total mikroskop adalah",
+          "options": [
+            "16 cm dan 10 kali",
+            "16 cm dan 50 kali",
+            "11 cm dan 50 kali",
+            "16 cm dan 60 kali"
+          ],
+          "answer": 1,
+          "explanation": "Objektif: s' = (1 x 1,1)/(1,1 - 1) = 11 cm. Mata tak berakomodasi: bayangan objektif jatuh di fokus okuler, sehingga panjang tubus d = 11 + 5 = 16 cm. M = (s'/s) x (25/fok) = (11/1,1) x (25/5) = 10 x 5 = 50 kali."
+        },
+        {
+          "question": "Sebuah sistem katrol terdiri atas satu katrol tetap dan satu katrol bergerak. Beban 800 N dan katrol bergerak seberat 40 N ditopang oleh 4 tali. Gaya minimum yang diperlukan untuk mengangkat beban dengan kelajuan tetap adalah",
+          "options": [
+            "200 N",
+            "280 N",
+            "160 N",
+            "210 N"
+          ],
+          "answer": 3,
+          "explanation": "Gaya total yang ditopang tali = 800 + 40 = 840 N. Dibagi oleh 4 tali penopang, sehingga F = 840/4 = 210 N."
+        },
+        {
+          "question": "Dua muatan titik +q dan +4q terpisah sejauh 30 cm. Titik yang kuat medan listriknya nol terletak pada",
+          "options": [
+            "15 cm dari muatan +q",
+            "20 cm dari muatan +q",
+            "7,5 cm dari muatan +q",
+            "10 cm dari muatan +q"
+          ],
+          "answer": 3,
+          "explanation": "Titik harus berada di antara kedua muatan. Misal x dari +q: kq/x^2 = k4q/(30-x)^2, sehingga (30-x) = 2x dan x = 10 cm dari +q (20 cm dari +4q)."
+        },
+        {
+          "question": "Lampu P (12 V/24 W) dan lampu Q (12 V/6 W) dirangkai seri dan dihubungkan ke sumber tegangan 12 V. Hambatan lampu dianggap tetap. Daya yang diserap lampu Q adalah",
+          "options": [
+            "6 W",
+            "3,84 W",
+            "1,5 W",
+            "0,96 W"
+          ],
+          "answer": 1,
+          "explanation": "R = V^2 / P. Rp = 144/24 = 6 ohm, Rq = 144/6 = 24 ohm. Seri: I = 12/30 = 0,4 A. Pq = I^2 x Rq = 0,16 x 24 = 3,84 W (lampu P hanya 0,96 W)."
+        },
+        {
+          "question": "Dua sumber tegangan dipasang berlawanan polaritas dalam satu loop: E1 = 12 V, E2 = 6 V. Hambatan dalam masing-masing 1 ohm, dan terdapat dua resistor seri R1 = 4 ohm dan R2 = 2 ohm. Kuat arus dalam rangkaian dan beda potensial ujung-ujung R1 adalah",
+          "options": [
+            "1 A dan 4 V",
+            "0,75 A dan 3 V",
+            "2,25 A dan 9 V",
+            "0,75 A dan 4,5 V"
+          ],
+          "answer": 1,
+          "explanation": "Hukum II Kirchhoff: E1 - E2 = I x (R1 + R2 + r1 + r2), sehingga 6 = I x 8 dan I = 0,75 A. V pada R1 = I x R1 = 0,75 x 4 = 3 V."
+        },
+        {
+          "question": "Kawat lurus sepanjang 50 cm dialiri arus 4 A dan membentuk sudut 30 derajat terhadap medan magnet homogen 0,2 T. Besar gaya Lorentz pada kawat adalah",
+          "options": [
+            "0,4 N",
+            "0,1 N",
+            "0,35 N",
+            "0,2 N"
+          ],
+          "answer": 3,
+          "explanation": "F = B I L sin theta = 0,2 x 4 x 0,5 x sin 30 = 0,2 x 4 x 0,5 x 0,5 = 0,2 N."
+        },
+        {
+          "question": "Transformator memiliki 1.000 lilitan primer dan 200 lilitan sekunder, dihubungkan ke sumber 220 V. Pada kumparan sekunder dipasang lampu 44 V/22 W yang menyala normal. Jika efisiensi transformator 80%, kuat arus primer adalah",
+          "options": [
+            "0,1 A",
+            "0,125 A",
+            "0,5 A",
+            "0,625 A"
+          ],
+          "answer": 1,
+          "explanation": "Vs = 220 x 200/1.000 = 44 V (lampu menyala normal). Daya keluar = 22 W. Efisiensi 80% berarti daya masuk = 22/0,8 = 27,5 W. Ip = P/Vp = 27,5/220 = 0,125 A."
+        }
+      ]
+    },
+    {
+      "title": "Kimia",
+      "questions": [
+        {
+          "question": "Kelompok peristiwa yang seluruhnya merupakan perubahan kimia adalah",
+          "options": [
+            "Lilin meleleh, kapur barus menyublim, dan gula larut dalam air",
+            "Pembakaran kertas, pelarutan garam, dan pengembunan uap air",
+            "Besi berkarat, es mencair, dan susu menjadi asam",
+            "Pembusukan buah, pengaratan besi, dan fermentasi singkong menjadi tape"
+          ],
+          "answer": 3,
+          "explanation": "Perubahan kimia menghasilkan zat baru (pembusukan, perkaratan, fermentasi). Melelehnya lilin, menyublim, melarut, mencair, dan mengembun hanyalah perubahan fisik."
+        },
+        {
+          "question": "Kelompok zat yang seluruhnya tergolong unsur adalah",
+          "options": [
+            "Besi, neon, dan belerang",
+            "Air, oksigen, dan karbon",
+            "Perunggu, emas, dan perak",
+            "Garam dapur, helium, dan nitrogen"
+          ],
+          "answer": 0,
+          "explanation": "Air dan garam dapur adalah senyawa, sedangkan perunggu adalah campuran (paduan tembaga dan timah). Besi, neon, dan belerang semuanya unsur."
+        },
+        {
+          "question": "Campuran terdiri dari pasir, garam dapur, dan serbuk besi. Urutan pemisahan yang paling tepat adalah",
+          "options": [
+            "Disaring, magnet, diuapkan",
+            "Diuapkan, disaring, magnet",
+            "Magnet, dilarutkan dalam air lalu disaring, filtrat diuapkan",
+            "Dilarutkan dalam air, diuapkan, magnet"
+          ],
+          "answer": 2,
+          "explanation": "Serbuk besi ditarik magnet lebih dulu. Sisanya dilarutkan: garam larut, pasir tersaring sebagai residu. Filtrat air garam diuapkan hingga didapat garam."
+        },
+        {
+          "question": "Sebanyak 10 mL larutan NaOH dengan pH 12 diencerkan dengan air hingga volume total 1.000 mL. pH larutan setelah pengenceran adalah",
+          "options": [
+            "10",
+            "8",
+            "11",
+            "12"
+          ],
+          "answer": 0,
+          "explanation": "pH 12 berarti [OH-] = 10^-2 M. Volume naik 100 kali, sehingga [OH-] = 10^-4 M, pOH = 4, dan pH = 14 - 4 = 10."
+        },
+        {
+          "question": "Obat maag mengandung Mg(OH)2 untuk menetralkan asam lambung (HCl). Hasil reaksi dan perbandingan mol pereaksinya adalah",
+          "options": [
+            "MgCl2 dan H2O, dengan perbandingan mol Mg(OH)2 : HCl = 1 : 2",
+            "MgCl dan H2O, dengan perbandingan 1 : 1",
+            "MgCl2 dan H2, dengan perbandingan 1 : 2",
+            "MgCl2 dan H2O, dengan perbandingan 2 : 1"
+          ],
+          "answer": 0,
+          "explanation": "Netralisasi basa dan asam menghasilkan garam dan air: Mg(OH)2 + 2 HCl menjadi MgCl2 + 2 H2O. Perbandingan mol Mg(OH)2 : HCl = 1 : 2."
+        },
+        {
+          "question": "Pasangan zat aditif, contoh, dan fungsinya yang tepat adalah",
+          "options": [
+            "Pewarna, tartrazin, memperpanjang masa simpan",
+            "Penyedap, MSG, mencegah oksidasi lemak",
+            "Pemanis, siklamat, memberi warna kuning",
+            "Pengawet, natrium benzoat, menghambat pertumbuhan mikroba"
+          ],
+          "answer": 3,
+          "explanation": "Natrium benzoat adalah pengawet yang menghambat mikroba. Tartrazin adalah pewarna, MSG penguat rasa, dan siklamat pemanis buatan."
+        },
+        {
+          "question": "Pasangan zat adiktif dan golongan efeknya yang benar adalah",
+          "options": [
+            "Alkohol: stimulan; kafein: depresan",
+            "Nikotin: depresan; alkohol: stimulan",
+            "Alkohol: depresan; kafein: stimulan",
+            "Morfin: stimulan; kokain: depresan"
+          ],
+          "answer": 2,
+          "explanation": "Alkohol menekan sistem saraf pusat (depresan), kafein dan nikotin merangsang (stimulan), morfin tergolong depresan/narkotik, dan kokain stimulan."
+        },
+        {
+          "question": "Ion Fe3+ berasal dari atom besi dengan nomor atom 26 dan nomor massa 56. Jumlah proton, neutron, dan elektron ion tersebut berturut-turut adalah",
+          "options": [
+            "26, 30, 29",
+            "23, 30, 26",
+            "26, 56, 23",
+            "26, 30, 23"
+          ],
+          "answer": 3,
+          "explanation": "Proton = nomor atom = 26. Neutron = 56 - 26 = 30. Ion bermuatan 3+ kehilangan 3 elektron, sehingga elektron = 26 - 3 = 23."
+        },
+        {
+          "question": "Ion X2- memiliki konfigurasi elektron yang sama dengan atom argon (nomor atom 18). Nomor atom unsur X dan jumlah elektron valensinya adalah",
+          "options": [
+            "16 dan 6",
+            "18 dan 8",
+            "20 dan 2",
+            "16 dan 2"
+          ],
+          "answer": 0,
+          "explanation": "Ion X2- memiliki 18 elektron, sehingga atom netralnya memiliki 16 elektron (nomor atom 16). Konfigurasi 2, 8, 6 memberi elektron valensi 6."
+        },
+        {
+          "question": "Pasangan rumus dan nama senyawa yang seluruhnya benar adalah",
+          "options": [
+            "FeO: besi(III) oksida; CO: karbon dioksida",
+            "SO3: belerang oksida; Na2S: natrium sulfat",
+            "Al2O3: aluminium oksida; N2O5: dinitrogen pentaoksida",
+            "CuCl2: tembaga(I) klorida; P2O5: fosfor oksida"
+          ],
+          "answer": 2,
+          "explanation": "FeO adalah besi(II) oksida dan CO karbon monoksida. Na2S adalah natrium sulfida. CuCl2 adalah tembaga(II) klorida dan P2O5 difosfor pentaoksida."
+        },
+        {
+          "question": "Unsur X bernomor atom 12 dan unsur Y bernomor atom 17 berikatan. Rumus senyawa dan jenis ikatannya adalah",
+          "options": [
+            "XY2, ikatan ionik",
+            "X2Y, ikatan ionik",
+            "XY2, ikatan kovalen",
+            "XY, ikatan ionik"
+          ],
+          "answer": 0,
+          "explanation": "X (2, 8, 2) melepas 2 elektron menjadi X2+. Y (2, 8, 7) menerima 1 elektron menjadi Y-. Perbandingan X2+ : Y- = 1 : 2, sehingga XY2 dengan ikatan ionik (logam dan nonmetal)."
+        },
+        {
+          "question": "Pada molekul NH3 (nomor atom N = 7 dan H = 1), jumlah pasangan elektron ikatan dan pasangan elektron bebas pada atom pusat berturut-turut adalah",
+          "options": [
+            "4 pasang ikatan dan 0 pasang bebas",
+            "3 pasang ikatan dan 2 pasang bebas",
+            "3 pasang ikatan dan 1 pasang bebas",
+            "2 pasang ikatan dan 2 pasang bebas"
+          ],
+          "answer": 2,
+          "explanation": "N memiliki 5 elektron valensi. Tiga elektron berpasangan dengan 3 atom H (3 PEI), sisa 2 elektron membentuk 1 pasang elektron bebas."
+        }
+      ]
+    },
+    {
+      "title": "Biologi",
+      "questions": [
+        {
+          "question": "Ragi (Saccharomyces) bersel tunggal, tetapi dikelompokkan dalam kingdom Fungi. Alasan yang paling tepat adalah",
+          "options": [
+            "Eukariotik, heterotrof dengan penyerapan, dan dinding selnya tersusun dari kitin",
+            "Bersifat prokariotik dan berdinding sel peptidoglikan",
+            "Bersel satu dan eukariotik sehingga termasuk Protista",
+            "Berdinding sel selulosa dan berfotosintesis"
+          ],
+          "answer": 0,
+          "explanation": "Ciri Fungi: eukariotik, heterotrof absorptif, dinding sel kitin, meskipun ada yang bersel satu seperti ragi. Prokariotik berdinding peptidoglikan adalah ciri Monera."
+        },
+        {
+          "question": "Pasangan hubungan antarorganisme yang benar adalah",
+          "options": [
+            "Anggrek pada pohon: parasitisme; benalu pada pohon: komensalisme",
+            "Burung jalak dan kerbau: komensalisme; lebah dan bunga: parasitisme",
+            "Anggrek yang menempel pada pohon: komensalisme; benalu pada pohon inang: parasitisme",
+            "Ikan remora dan hiu: mutualisme; lichen: komensalisme"
+          ],
+          "answer": 2,
+          "explanation": "Anggrek epifit hanya menumpang (komensalisme), sedangkan benalu menyerap nutrisi inang (parasitisme). Jalak-kerbau dan lebah-bunga adalah mutualisme, remora-hiu komensalisme, dan lichen mutualisme."
+        },
+        {
+          "question": "Pada rantai makanan padi, tikus, ular, elang, energi yang tersimpan pada padi adalah 20.000 kJ. Jika hanya 10% energi yang berpindah ke tingkat trofik berikutnya, energi yang diterima elang adalah",
+          "options": [
+            "200 kJ",
+            "2 kJ",
+            "20 kJ",
+            "2.000 kJ"
+          ],
+          "answer": 2,
+          "explanation": "Padi (produsen) 20.000 kJ, tikus 2.000 kJ, ular 200 kJ, elang (konsumen III) 20 kJ. Setiap perpindahan tingkat trofik hanya 10%."
+        },
+        {
+          "question": "Pernyataan yang benar tentang efek rumah kaca adalah",
+          "options": [
+            "Gas rumah kaca menyerap radiasi inframerah dari permukaan Bumi lalu memancarkannya kembali ke segala arah",
+            "Gas rumah kaca memantulkan seluruh radiasi ultraviolet Matahari ke luar angkasa",
+            "Efek rumah kaca hanya terjadi akibat aktivitas manusia dan tidak terjadi secara alami",
+            "Lubang lapisan ozon adalah penyebab utama efek rumah kaca"
+          ],
+          "answer": 0,
+          "explanation": "Efek rumah kaca terjadi secara alami dan menjaga Bumi tetap hangat. Pemanasan global muncul saat konsentrasi gas rumah kaca meningkat akibat aktivitas manusia. Kerusakan ozon adalah masalah yang berbeda."
+        },
+        {
+          "question": "Sel kelenjar pankreas menghasilkan enzim pencernaan dalam jumlah besar. Organel yang paling berperan dalam sintesis dan pengemasan enzim tersebut adalah",
+          "options": [
+            "Retikulum endoplasma halus dan lisosom",
+            "Retikulum endoplasma kasar dan badan Golgi",
+            "Sentriol dan kloroplas",
+            "Vakuola dan dinding sel"
+          ],
+          "answer": 1,
+          "explanation": "Enzim adalah protein. RE kasar (berribosom) membuat protein, badan Golgi memodifikasi dan mengemasnya dalam vesikel untuk disekresikan."
+        },
+        {
+          "question": "Spermatogonium manusia (2n = 46) mengalami meiosis. Pada akhir meiosis II, jumlah sel anak dan jumlah kromosom tiap sel adalah",
+          "options": [
+            "2 sel dengan 46 kromosom",
+            "4 sel dengan 46 kromosom",
+            "4 sel dengan 23 kromosom",
+            "2 sel dengan 23 kromosom"
+          ],
+          "answer": 2,
+          "explanation": "Meiosis terdiri atas dua pembelahan berurutan, menghasilkan 4 sel anak haploid (n = 23)."
+        },
+        {
+          "question": "Lapisan Bumi yang berupa besi-nikel cair dan diyakini menjadi sumber medan magnet Bumi adalah",
+          "options": [
+            "Mantel, karena batuan padat panas yang memagnetkan Bumi",
+            "Inti dalam, karena berupa besi-nikel cair yang paling panas",
+            "Astenosfer, karena berupa kerak samudra yang bermuatan",
+            "Inti luar, karena logam cair yang berputar menimbulkan medan magnet"
+          ],
+          "answer": 3,
+          "explanation": "Inti luar berwujud cair (besi-nikel), sedangkan inti dalam padat akibat tekanan sangat tinggi. Arus konveksi logam cair inti luar menimbulkan medan magnet Bumi."
+        },
+        {
+          "question": "Tabung I berisi amilum dan air liur dibiarkan 30 menit pada 37 derajat C; setelah ditetesi iodium tidak berwarna biru-hitam. Tabung II berisi amilum dan air liur yang telah dididihkan, diperlakukan sama; setelah ditetesi iodium berwarna biru-hitam. Kesimpulan yang paling tepat adalah",
+          "options": [
+            "Amilase dalam air liur menguraikan amilum, dan enzim ini rusak oleh pemanasan",
+            "Air liur mengandung pepsin yang menguraikan amilum pada 37 derajat C",
+            "Iodium bereaksi dengan maltosa membentuk warna biru-hitam",
+            "Pemanasan mengaktifkan enzim sehingga amilum tidak terurai di tabung II"
+          ],
+          "answer": 0,
+          "explanation": "Warna biru-hitam menandakan adanya amilum. Di tabung I amilum habis diuraikan amilase menjadi maltosa. Di tabung II amilase terdenaturasi akibat pendidihan sehingga amilum tetap ada."
+        },
+        {
+          "question": "Urutan jalur darah dari paru-paru hingga ke seluruh tubuh pada manusia adalah",
+          "options": [
+            "Arteri pulmonalis, serambi kiri, bilik kiri, aorta",
+            "Vena pulmonalis, serambi kanan, bilik kanan, aorta",
+            "Vena kava, serambi kanan, bilik kanan, aorta",
+            "Vena pulmonalis, serambi kiri, bilik kiri, aorta"
+          ],
+          "answer": 3,
+          "explanation": "Darah kaya oksigen dari paru-paru mengalir lewat vena pulmonalis ke serambi kiri, ke bilik kiri, lalu dipompa ke aorta menuju seluruh tubuh."
+        },
+        {
+          "question": "Urin sesungguhnya (urin sekunder) pada orang sehat tidak mengandung glukosa. Hal ini terjadi karena glukosa pada filtrat direabsorpsi di",
+          "options": [
+            "Glomerulus",
+            "Tubulus kontortus proksimal",
+            "Tubulus kontortus distal",
+            "Kapsul Bowman"
+          ],
+          "answer": 1,
+          "explanation": "Glomerulus menyaring darah (filtrasi) menjadi urin primer. Glukosa, asam amino, dan sebagian besar air direabsorpsi di tubulus kontortus proksimal; augmentasi terjadi di tubulus kontortus distal."
+        },
+        {
+          "question": "Kulit kayu sebuah batang pohon dikelupas melingkar sampai mengenai floem. Beberapa minggu kemudian terbentuk pembengkakan di bagian atas cincin, tetapi daun masih segar. Penjelasan yang tepat adalah",
+          "options": [
+            "Floem terputus sehingga hasil fotosintesis menumpuk di atas cincin, sedangkan xilem yang utuh tetap mengangkut air",
+            "Xilem terputus sehingga air menumpuk di atas cincin dan daun segar karena stomata",
+            "Kambium terputus sehingga fotosintesis berhenti di daun",
+            "Floem utuh dan mengangkut air sehingga terbentuk pembengkakan"
+          ],
+          "answer": 0,
+          "explanation": "Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh tumbuhan. Bila terputus, gula menumpuk di atas cincin. Xilem (di bagian dalam) tetap utuh sehingga air tetap naik dan daun tidak layu."
+        },
+        {
+          "question": "Pasangan produk, organisme yang berperan, dan jenis bioteknologi yang tepat adalah",
+          "options": [
+            "Tempe: Rhizopus oligosporus: bioteknologi modern",
+            "Yoghurt: Saccharomyces cerevisiae: bioteknologi konvensional",
+            "Insulin manusia: bakteri Escherichia coli yang disisipi gen insulin: bioteknologi modern",
+            "Tape: Lactobacillus: bioteknologi konvensional"
+          ],
+          "answer": 2,
+          "explanation": "Insulin rekombinan dibuat dengan rekayasa genetika (modern). Tempe memakai Rhizopus tetapi tergolong konvensional. Yoghurt memakai Lactobacillus, sedangkan tape memakai Saccharomyces."
+        },
+        {
+          "question": "Ayah bergolongan darah B heterozigot menikah dengan ibu bergolongan darah A heterozigot. Peluang anak mereka bergolongan darah AB atau O adalah",
+          "options": [
+            "25%",
+            "50%",
+            "75%",
+            "12,5%"
+          ],
+          "answer": 1,
+          "explanation": "Persilangan IBIO x IAIO menghasilkan IAIB (AB), IAIO (A), IBIO (B), IOIO (O), masing-masing 25%. Peluang AB atau O = 25% + 25% = 50%."
+        },
+        {
+          "question": "Ercis bulat kuning heterozigot (BbKk) disilangkan dengan sesamanya dan menghasilkan 160 keturunan. Jumlah keturunan bulat kuning ditambah keriput hijau yang diharapkan adalah",
+          "options": [
+            "60",
+            "100",
+            "40",
+            "120"
+          ],
+          "answer": 1,
+          "explanation": "Rasio fenotipe 9 : 3 : 3 : 1. Bulat kuning = 9/16 x 160 = 90, keriput hijau = 1/16 x 160 = 10. Jumlahnya 100."
+        }
+      ]
+    }
+  ]
+}

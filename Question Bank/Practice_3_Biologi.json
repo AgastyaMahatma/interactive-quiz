@@ -1,0 +1,375 @@
+{
+  "title": "Practice 3 - Biologi (Fokus Kelemahan)",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "Bab 1: Sistem Organisasi Kehidupan - Sel dan Pembelahan Sel",
+      "questions": [
+        {
+          "question": "Sebanyak 30 spermatosit sekunder dan 30 oosit sekunder (hasil meiosis I) menjalani meiosis II hingga sempurna. Jumlah spermatozoa dan jumlah ovum yang terbentuk berturut-turut adalah ...",
+          "options": [
+            "60 spermatozoa dan 30 ovum",
+            "120 spermatozoa dan 30 ovum",
+            "60 spermatozoa dan 90 ovum",
+            "30 spermatozoa dan 30 ovum"
+          ],
+          "answer": 0,
+          "explanation": "Satu spermatosit sekunder membelah menjadi 2 spermatid, lalu 2 spermatozoa: 30 x 2 = 60. Satu oosit sekunder membelah menjadi 1 ootid (menjadi ovum) dan 1 badan polar kedua: 30 x 1 = 30 ovum. Hitung dari tahap mana sel mulai, jangan langsung memakai 4 untuk sperma."
+        },
+        {
+          "question": "Pada oogenesis, pembelahan sitoplasma berlangsung tidak sama besar sehingga terbentuk satu sel besar dan badan polar yang kecil. Makna biologis dari peristiwa tersebut adalah ...",
+          "options": [
+            "Semua sel anak menjadi ovum fungsional agar peluang pembuahan lebih besar",
+            "Satu ovum menyimpan hampir semua cadangan makanan dan sitoplasma yang diperlukan untuk perkembangan zigot",
+            "Badan polar akan berkembang menjadi sel sperma pada tahap berikutnya",
+            "Jumlah kromosom ovum dibuat dua kali lipat dibanding sel somatik"
+          ],
+          "answer": 1,
+          "explanation": "Ovum membutuhkan banyak cadangan makanan dan sitoplasma untuk perkembangan awal zigot. Badan polar hanya membuang kromosom berlebih dan akan berdegenerasi. Jumlah kromosom ovum adalah haploid (n), bukan dua kali lipat."
+        },
+        {
+          "question": "Molekul X masuk ke dalam sel melalui protein pembawa menuruni gradien konsentrasi tanpa memakai ATP. Molekul Y masuk melalui protein pembawa melawan gradien konsentrasi dengan memakai ATP. Jenis transpor X dan Y berturut-turut adalah ...",
+          "options": [
+            "Difusi terfasilitasi dan transpor aktif",
+            "Difusi sederhana dan osmosis",
+            "Transpor aktif dan difusi terfasilitasi",
+            "Osmosis dan transpor aktif"
+          ],
+          "answer": 0,
+          "explanation": "Menuruni gradien dengan bantuan protein, tanpa ATP = difusi terfasilitasi. Melawan gradien dengan ATP = transpor aktif. Pegangan: ATP dan melawan gradien selalu berpasangan, sedangkan osmosis khusus untuk perpindahan air."
+        },
+        {
+          "question": "Tiga potong wortel dengan massa awal sama direndam 1 jam dalam larutan A, B, dan C. Massa wortel pada A bertambah, pada B tetap, dan pada C berkurang. Urutan konsentrasi larutan dari yang paling rendah ke yang paling tinggi adalah ...",
+          "options": [
+            "C, B, A",
+            "B, A, C",
+            "A, B, C",
+            "A, C, B"
+          ],
+          "answer": 2,
+          "explanation": "Massa bertambah berarti air masuk ke wortel, sehingga larutan A lebih encer (hipotonik). Massa tetap berarti isotonik (B). Massa berkurang berarti air keluar, sehingga larutan C lebih pekat (hipertonik). Air selalu bergerak dari larutan encer ke larutan pekat."
+        },
+        {
+          "question": "Seorang pasien tidak boleh diinfus dengan akuades murni. Alasan yang paling tepat adalah ...",
+          "options": [
+            "Akuades bersifat hipotonik terhadap sel darah merah sehingga air masuk ke sel hingga sel membengkak dan pecah",
+            "Akuades bersifat hipertonik sehingga air keluar dari sel darah merah dan sel mengerut",
+            "Akuades tidak mengandung ATP sehingga sel darah merah tidak dapat bernapas",
+            "Akuades bersifat isotonik tetapi tidak mengandung glukosa untuk sel darah merah"
+          ],
+          "answer": 0,
+          "explanation": "Cairan infus harus isotonik (sekitar NaCl 0,9%). Akuades tidak memiliki zat terlarut sehingga hipotonik terhadap sitoplasma. Air masuk secara osmosis, sel membengkak, dan terjadi hemolisis. Sel mengerut (krenasi) terjadi pada larutan hipertonik."
+        },
+        {
+          "question": "Pada sebuah penyakit, lisosom di dalam sel tidak berfungsi sehingga sisa sel dan organel tua menumpuk. Fungsi normal lisosom yang terganggu pada penyakit ini adalah ...",
+          "options": [
+            "Menyintesis protein dari asam amino sesuai urutan kode mRNA",
+            "Menghasilkan ATP melalui rangkaian reaksi respirasi sel",
+            "Mengemas dan menyekresikan protein ke luar sel",
+            "Menguraikan zat sisa, organel rusak, dan partikel asing dengan enzim hidrolitik"
+          ],
+          "answer": 3,
+          "explanation": "Lisosom adalah organel pencernaan intrasel berisi enzim hidrolitik. Sintesis protein dilakukan ribosom, produksi ATP oleh mitokondria, dan pengemasan atau sekresi oleh badan Golgi."
+        },
+        {
+          "question": "Sebuah sel diploid bergenotipe AaBb (gen A dan gen B terletak pada pasangan kromosom homolog yang berbeda) membelah secara mitosis dan secara meiosis. Genotipe sel anak hasil mitosis dan kemungkinan genotipe gamet hasil meiosis (tanpa pindah silang) berturut-turut adalah ...",
+          "options": [
+            "AB, Ab, aB, atau ab; AaBb",
+            "AaBb; AaBb",
+            "Aa atau Bb; AB atau ab saja",
+            "AaBb; AB, Ab, aB, atau ab"
+          ],
+          "answer": 3,
+          "explanation": "Mitosis menghasilkan sel anak identik dengan induk (diploid), yaitu AaBb. Meiosis memisahkan alel sehingga setiap gamet hanya membawa satu alel tiap gen. Karena pasangan kromosom bebas berpasangan (pemisahan bebas), kombinasi gametnya AB, Ab, aB, atau ab."
+        },
+        {
+          "question": "Sebuah sel bergenotipe Aa menjalani meiosis tanpa pindah silang. Pemisahan alel A dan alel a ke kutub yang berbeda terjadi pada tahap ...",
+          "options": [
+            "Anafase mitosis",
+            "Anafase I",
+            "Anafase II",
+            "Profase I"
+          ],
+          "answer": 1,
+          "explanation": "Alel A dan a terletak pada kromosom homolog. Kromosom homolog berpisah pada anafase I. Pada anafase II dan anafase mitosis yang berpisah adalah kromatid saudara, yang membawa alel identik bila tidak ada pindah silang."
+        },
+        {
+          "question": "Sebuah sel hewan dengan 2n = 12 sedang berada pada profase II meiosis. Jumlah kromosom dan jumlah kromatid dalam sel tersebut berturut-turut adalah ...",
+          "options": [
+            "12 kromosom dan 12 kromatid",
+            "6 kromosom dan 6 kromatid",
+            "6 kromosom dan 12 kromatid",
+            "12 kromosom dan 24 kromatid"
+          ],
+          "answer": 2,
+          "explanation": "Setelah meiosis I sel menjadi haploid: n = 6 kromosom. Setiap kromosom masih terdiri atas 2 kromatid sehingga ada 12 kromatid. Kromatid baru terpisah pada anafase II. Hitung kromosom dari jumlah sentromer."
+        }
+      ]
+    },
+    {
+      "title": "Bab 2: Sistem Organ pada Manusia",
+      "questions": [
+        {
+          "question": "Perhatikan peristiwa pada inspirasi: (1) volume rongga dada bertambah; (2) diafragma berkontraksi dan mendatar; (3) udara mengalir masuk ke paru-paru; (4) tekanan udara dalam paru-paru lebih rendah dari tekanan atmosfer. Urutan yang benar adalah ...",
+          "options": [
+            "2 - 1 - 4 - 3",
+            "2 - 4 - 1 - 3",
+            "1 - 2 - 4 - 3",
+            "4 - 2 - 1 - 3"
+          ],
+          "answer": 0,
+          "explanation": "Penyebab dulu, lalu akibat: diafragma berkontraksi (2) → volume rongga dada naik (1) → tekanan paru turun di bawah tekanan atmosfer (4) → udara masuk (3). Tekanan turun karena volume naik (hubungan Boyle), bukan sebaliknya."
+        },
+        {
+          "question": "Pernyataan yang benar tentang ekspirasi pada manusia adalah ...",
+          "options": [
+            "Ekspirasi biasa berlangsung pasif karena otot berelaksasi, sedangkan ekspirasi paksa melibatkan otot interkostal internal dan otot dinding perut",
+            "Ekspirasi biasa berlangsung aktif karena diafragma berkontraksi, sedangkan ekspirasi paksa terjadi secara pasif",
+            "Ekspirasi biasa dan ekspirasi paksa sama-sama pasif karena tekanan paru selalu di bawah tekanan atmosfer",
+            "Ekspirasi biasa dan ekspirasi paksa sama-sama memerlukan kontraksi otot interkostal eksternal"
+          ],
+          "answer": 0,
+          "explanation": "Ekspirasi tenang: diafragma dan interkostal eksternal berelaksasi, volume rongga dada mengecil, tekanan paru naik. Ekspirasi paksa (meniup balon, batuk) memakai otot interkostal internal dan otot perut."
+        },
+        {
+          "question": "Perhatikan perjalanan darah berikut: (1) paru-paru; (2) arteri pulmonalis; (3) atrium kiri; (4) vena pulmonalis. Jika darah baru saja meninggalkan ventrikel kanan, urutan perjalanan darah selanjutnya adalah ...",
+          "options": [
+            "2 - 4 - 1 - 3",
+            "1 - 2 - 4 - 3",
+            "2 - 1 - 3 - 4",
+            "2 - 1 - 4 - 3"
+          ],
+          "answer": 3,
+          "explanation": "Ventrikel kanan → arteri pulmonalis → paru-paru → vena pulmonalis → atrium kiri. Arteri pulmonalis membawa darah miskin oksigen ke paru-paru, sedangkan vena pulmonalis membawa darah kaya oksigen kembali ke jantung."
+        },
+        {
+          "question": "Katup bikuspid (mitral) terletak di antara ... dan berfungsi mencegah ...",
+          "options": [
+            "Atrium kanan dan ventrikel kanan; aliran balik darah dari ventrikel kanan ke atrium kanan",
+            "Atrium kiri dan ventrikel kiri; aliran balik darah dari ventrikel kiri ke atrium kiri",
+            "Ventrikel kiri dan aorta; aliran balik darah dari aorta ke ventrikel kiri",
+            "Ventrikel kanan dan arteri pulmonalis; aliran balik darah dari arteri pulmonalis ke ventrikel kanan"
+          ],
+          "answer": 1,
+          "explanation": "Katup bikuspid (dua daun katup) ada di sisi kiri antara atrium dan ventrikel. Katup trikuspid ada di sisi kanan. Katup semilunar berada di pangkal aorta dan arteri pulmonalis."
+        },
+        {
+          "question": "Perhatikan struktur berikut: (1) saraf pendengaran; (2) koklea; (3) tulang pendengaran; (4) membran timpani; (5) jendela oval. Urutan perambatan getaran suara sampai menjadi impuls saraf adalah ...",
+          "options": [
+            "4 - 5 - 3 - 2 - 1",
+            "3 - 4 - 5 - 2 - 1",
+            "4 - 3 - 2 - 5 - 1",
+            "4 - 3 - 5 - 2 - 1"
+          ],
+          "answer": 3,
+          "explanation": "Gelombang suara menggetarkan membran timpani → tulang pendengaran (martil, landasan, sanggurdi) → jendela oval → cairan koklea (sel rambut mengubah getaran menjadi impuls) → saraf pendengaran → otak."
+        },
+        {
+          "question": "Enzim amilase yang telah dipanaskan pada 90 °C lalu didinginkan kembali ke 37 °C tidak dapat menguraikan amilum lagi. Penjelasan yang paling tepat adalah ...",
+          "options": [
+            "Enzim habis terpakai karena ikut bereaksi dan berubah menjadi produk",
+            "Panas mengubah amilum menjadi gula sehingga tidak ada lagi substrat bagi enzim",
+            "Struktur tiga dimensi enzim berubah secara permanen (denaturasi) sehingga sisi aktif tidak lagi cocok dengan substrat",
+            "Enzim tersusun atas lemak yang mencair saat dipanaskan dan tidak kembali padat"
+          ],
+          "answer": 2,
+          "explanation": "Enzim adalah protein. Suhu tinggi merusak ikatan yang menjaga bentuk 3D-nya, sehingga sisi aktif berubah dan tidak dapat mengikat substrat. Denaturasi akibat panas umumnya tidak dapat pulih saat didinginkan. Enzim tidak ikut habis bereaksi."
+        },
+        {
+          "question": "Pada wanita yang hamil, menstruasi tidak terjadi. Penjelasan yang paling tepat adalah ...",
+          "options": [
+            "Kadar progesteron turun drastis setelah pembuahan sehingga endometrium berhenti menebal",
+            "Lonjakan LH terus berlangsung selama kehamilan sehingga endometrium tetap menempel",
+            "Korpus luteum berdegenerasi setelah ovulasi sehingga estrogen dan progesteron meningkat",
+            "Embrio menghasilkan hormon hCG yang mempertahankan korpus luteum sehingga kadar progesteron tetap tinggi dan endometrium tidak meluruh"
+          ],
+          "answer": 3,
+          "explanation": "Setelah implantasi, sel embrio (kemudian plasenta) menghasilkan hCG. hCG mempertahankan korpus luteum, yang terus menghasilkan progesteron untuk menjaga endometrium. Tes kehamilan mendeteksi hCG. Pada siklus tanpa pembuahan, korpus luteum berdegenerasi dan menstruasi terjadi."
+        },
+        {
+          "question": "Seseorang menekuk lengan bawahnya untuk mengangkat beban yang dipegang di tangan. Siku bertindak sebagai tumpuan dan otot bisep menarik tulang lengan bawah di dekat siku. Jenis pengungkit yang bekerja adalah ...",
+          "options": [
+            "Jenis pertama, karena tumpuan berada di antara kuasa dan beban",
+            "Jenis kedua, karena beban berada di antara tumpuan dan kuasa",
+            "Jenis ketiga, karena kuasa berada di antara tumpuan dan beban",
+            "Bukan pengungkit, karena tulang lengan bawah tidak melewati sendi"
+          ],
+          "answer": 2,
+          "explanation": "Tumpuan: siku. Kuasa: tarikan bisep di dekat siku. Beban: benda di tangan (paling jauh dari siku). Kuasa berada di antara tumpuan dan beban sehingga tergolong pengungkit jenis ketiga."
+        }
+      ]
+    },
+    {
+      "title": "Bab 3: Bioteknologi",
+      "questions": [
+        {
+          "question": "Pembuatan hormon manusia menggunakan bakteri melalui rekayasa genetika: (1) menyambung gen dengan plasmid memakai ligase; (2) mengisolasi gen target dan plasmid; (3) memotong gen dan plasmid dengan enzim restriksi; (4) memasukkan plasmid rekombinan ke dalam bakteri; (5) membiakkan bakteri penghasil hormon. Urutan yang benar adalah ...",
+          "options": [
+            "3 - 2 - 1 - 4 - 5",
+            "2 - 1 - 3 - 4 - 5",
+            "2 - 3 - 4 - 1 - 5",
+            "2 - 3 - 1 - 4 - 5"
+          ],
+          "answer": 3,
+          "explanation": "Isolasi bahan (2) → pemotongan dengan enzim restriksi (3) → penyambungan dengan ligase (1) → transformasi ke bakteri (4) → pembiakan (5). Urutan ini adalah pola umum yang juga berlaku untuk insulin dan tanaman transgenik."
+        },
+        {
+          "question": "Seekor sapi Z dibuat dengan memindahkan inti sel kulit sapi X ke sel telur sapi Y yang intinya telah dibuang. Embrio kemudian ditanam di rahim sapi W. Pernyataan yang paling tepat tentang materi genetik sapi Z adalah ...",
+          "options": [
+            "DNA inti berasal dari sapi X, sedangkan DNA mitokondria berasal dari sapi Y",
+            "Seluruh DNA berasal dari sapi X, termasuk DNA mitokondria",
+            "DNA inti berasal dari sapi Y, sedangkan DNA mitokondria berasal dari sapi X",
+            "DNA inti berasal dari sapi W karena embrio berkembang di rahimnya"
+          ],
+          "answer": 0,
+          "explanation": "DNA inti sapi Z berasal dari inti sel sapi X (donor), sehingga Z adalah klon X. Sitoplasma sel telur sapi Y masih mengandung mitokondria, sehingga sedikit DNA mitokondria berasal dari Y. Sapi W (induk pengganti) tidak menyumbang materi genetik."
+        },
+        {
+          "question": "Dalam rekayasa genetika, fungsi enzim ligase adalah ...",
+          "options": [
+            "Memotong DNA pada urutan basa tertentu",
+            "Membuka untai ganda DNA menjadi dua untai tunggal",
+            "Menyambung potongan DNA, misalnya menyambung gen target ke plasmid",
+            "Menyintesis untai DNA baru dengan menggunakan cetakan"
+          ],
+          "answer": 2,
+          "explanation": "Ligase menyambung ikatan antara nukleotida sehingga gen dapat disatukan dengan plasmid. Enzim restriksi memotong DNA (gunting molekuler). Helikase membuka untai DNA, dan DNA polimerase menyintesis untai baru."
+        }
+      ]
+    },
+    {
+      "title": "Bab 4: Pewarisan Sifat",
+      "questions": [
+        {
+          "question": "Suatu molekul DNA untai ganda terdiri atas 600 nukleotida dan 30% di antaranya adalah guanin. Jumlah adenin pada DNA tersebut adalah ...",
+          "options": [
+            "180",
+            "120",
+            "240",
+            "420"
+          ],
+          "answer": 1,
+          "explanation": "G = 30% x 600 = 180. Pasangan basa: C = G = 180, sehingga G + C = 360. Sisa 600 - 360 = 240 adalah A + T, dan A = T = 120. Dengan persentase: G + C = 60%, A + T = 40%, A = 20% = 120."
+        },
+        {
+          "question": "Pernyataan yang benar tentang perbedaan DNA dan RNA adalah ...",
+          "options": [
+            "DNA memiliki gula ribosa, basa urasil, dan untai tunggal; RNA memiliki gula deoksiribosa, basa timin, dan untai ganda",
+            "DNA memiliki gula deoksiribosa, basa timin, dan umumnya untai ganda; RNA memiliki gula ribosa, basa urasil, dan umumnya untai tunggal",
+            "DNA dan RNA sama-sama memiliki gula ribosa, tetapi hanya RNA yang memiliki basa timin",
+            "DNA memiliki gula deoksiribosa dan basa urasil, sedangkan RNA memiliki gula ribosa dan basa timin"
+          ],
+          "answer": 1,
+          "explanation": "DNA: deoksiribosa, basa A-T-G-C, untai ganda. RNA: ribosa, basa A-U-G-C, untai tunggal. Urasil menggantikan timin pada RNA."
+        },
+        {
+          "question": "Tanaman berbatang tinggi (T_) disilangkan dengan tanaman berbatang pendek (tt). Keturunannya terdiri atas 50% berbatang tinggi dan 50% berbatang pendek. Genotipe tanaman tinggi tersebut adalah ...",
+          "options": [
+            "Tt (heterozigot)",
+            "TT (homozigot dominan)",
+            "tt (homozigot resesif)",
+            "TT atau Tt, tidak dapat ditentukan dari data ini"
+          ],
+          "answer": 0,
+          "explanation": "Jika induk TT, semua keturunan Tt (100% tinggi). Karena muncul keturunan pendek (tt), induk tinggi harus membawa alel t, yaitu Tt. Rasio 1 : 1 adalah ciri uji silang dengan induk heterozigot."
+        },
+        {
+          "question": "Ercis bulat kuning (BbKk) disilangkan dengan ercis keriput hijau (bbkk). B = bulat dominan, K = kuning dominan. Dari 200 keturunan, jumlah keturunan bulat kuning yang diharapkan adalah ...",
+          "options": [
+            "100",
+            "50",
+            "25",
+            "150"
+          ],
+          "answer": 1,
+          "explanation": "BbKk menghasilkan gamet BK, Bk, bK, bk dengan perbandingan sama, sedangkan bbkk hanya menghasilkan gamet bk. Rasio fenotipe 1 : 1 : 1 : 1, sehingga bulat kuning (BbKk) = 1/4 x 200 = 50."
+        }
+      ]
+    },
+    {
+      "title": "Bab 5: Interaksi Makhluk Hidup",
+      "questions": [
+        {
+          "question": "Perhatikan interaksi berikut: (1) harimau memangsa rusa; (2) dua pohon jati dalam satu hutan berebut cahaya matahari; (3) elang dan burung hantu berebut tikus sebagai mangsa. Jenis interaksi (1), (2), dan (3) berturut-turut adalah ...",
+          "options": [
+            "Predasi, kompetisi interspesifik, kompetisi intraspesifik",
+            "Kompetisi interspesifik, predasi, kompetisi intraspesifik",
+            "Predasi, kompetisi intraspesifik, kompetisi interspesifik",
+            "Kompetisi intraspesifik, predasi, kompetisi interspesifik"
+          ],
+          "answer": 2,
+          "explanation": "(1) Satu spesies memangsa spesies lain: predasi. (2) Dua individu dari spesies yang sama bersaing: kompetisi intraspesifik. (3) Dua spesies berbeda bersaing memperebutkan sumber daya yang sama: kompetisi interspesifik."
+        },
+        {
+          "question": "Kadar merkuri (ppm) pada rantai makanan di laut: fitoplankton 0,001; zooplankton 0,01; ikan kecil 0,1; ikan tuna 1,0. Pola ini disebut ... dan terjadi karena ...",
+          "options": [
+            "Eutrofikasi; kelebihan unsur hara menyebabkan pertumbuhan alga yang berlebihan",
+            "Biomagnifikasi; zat tidak terurai dan tidak mudah dikeluarkan sehingga terakumulasi pada tiap tingkat trofik",
+            "Suksesi; komunitas berubah secara bertahap menuju keseimbangan baru",
+            "Biodegradasi; merkuri diuraikan lebih cepat oleh organisme tingkat trofik tinggi"
+          ],
+          "answer": 1,
+          "explanation": "Zat beracun yang sulit terurai dan tersimpan di jaringan makin pekat pada konsumen tingkat lebih tinggi (biomagnifikasi). Konsumen puncak seperti tuna dan manusia paling berisiko."
+        },
+        {
+          "question": "Pada rantai makanan padi → tikus → ular → elang, elang menerima energi 20 kJ. Jika efisiensi transfer energi antartingkat trofik 10%, energi yang tersedia pada padi adalah ...",
+          "options": [
+            "2.000 kJ",
+            "200.000 kJ",
+            "200 kJ",
+            "20.000 kJ"
+          ],
+          "answer": 3,
+          "explanation": "Ada 3 kali transfer (padi→tikus, tikus→ular, ular→elang). Energi padi x (0,1)^3 = 20 kJ, sehingga energi padi = 20 : 0,001 = 20.000 kJ. Soal terbalik: bagi dengan 0,1 sebanyak jumlah panah."
+        }
+      ]
+    },
+    {
+      "title": "Bab 6: Struktur dan Fungsi Jaringan Tumbuhan",
+      "questions": [
+        {
+          "question": "Batang pohon jati terus bertambah diameter dari tahun ke tahun, sedangkan batang jagung tidak. Penyebab yang paling tepat adalah ...",
+          "options": [
+            "Jati monokotil dan memiliki kambium di antara xilem dan floem, sedangkan jagung dikotil dan tidak memiliki kambium",
+            "Jati dikotil dan memiliki kambium di antara xilem dan floem, sedangkan jagung monokotil dan tidak memiliki kambium",
+            "Jati memiliki berkas pengangkut tersebar, sedangkan jagung memiliki berkas pengangkut melingkar",
+            "Jati memiliki lebih banyak xilem sehingga selalu membesar, sedangkan jagung hanya memiliki floem"
+          ],
+          "answer": 1,
+          "explanation": "Kambium adalah jaringan meristem lateral yang menambah diameter (pertumbuhan sekunder). Dikotil memiliki kambium dan berkas pengangkut tersusun melingkar. Monokotil tidak memiliki kambium dan berkas pengangkutnya tersebar."
+        },
+        {
+          "question": "Pada irisan melintang daun, jaringan yang memiliki ruang antarsel besar sehingga memudahkan pertukaran gas, serta kloroplas lebih sedikit dibanding jaringan di atasnya, adalah ...",
+          "options": [
+            "Jaringan palisade (tiang)",
+            "Epidermis atas",
+            "Jaringan bunga karang (spons)",
+            "Berkas pengangkut"
+          ],
+          "answer": 2,
+          "explanation": "Jaringan bunga karang terletak di bawah palisade dan memiliki ruang antarsel besar untuk difusi gas. Palisade tersusun rapat dan kaya kloroplas, tepat di bawah epidermis atas."
+        }
+      ]
+    },
+    {
+      "title": "Bab 7: Struktur Bumi",
+      "questions": [
+        {
+          "question": "Lempeng tektonik yang bergerak di permukaan Bumi merupakan bagian dari litosfer. Litosfer tersusun atas ...",
+          "options": [
+            "Kerak Bumi dan inti luar yang bersifat cair",
+            "Seluruh mantel Bumi dan inti dalam",
+            "Hanya kerak benua yang bersifat granitik",
+            "Kerak Bumi dan bagian paling atas mantel yang bersifat kaku"
+          ],
+          "answer": 3,
+          "explanation": "Litosfer adalah lapisan luar yang kaku: kerak (benua dan samudra) ditambah bagian paling atas mantel. Lapisan ini bergerak di atas astenosfer (mantel atas yang lebih lunak dan liat)."
+        }
+      ]
+    }
+  ]
+}
