@@ -1,0 +1,575 @@
+{
+  "title": "Latihan PSC UNDIKSHA 2026 - Penyisihan IPA (50 Soal, Level Hard SMP-SMA)",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "Fisika",
+      "questions": [
+        {
+          "question": "Sebuah benda bermassa 2 kg terikat pada pegas (k = 200 N/m) dan berosilasi harmonik di bidang datar licin dengan amplitudo 10 cm. Energi kinetik benda saat simpangannya 6 cm adalah",
+          "options": [
+            "0,36 J",
+            "0,64 J",
+            "1,00 J",
+            "0,82 J"
+          ],
+          "answer": 1,
+          "explanation": "Energi total E = 1/2 k A^2 = 1/2 x 200 x (0,1)^2 = 1 J. Energi potensial di x = 6 cm: Ep = 1/2 x 200 x (0,06)^2 = 0,36 J. Ek = E - Ep = 1 - 0,36 = 0,64 J."
+        },
+        {
+          "question": "Peluru ditembakkan dengan kecepatan awal 50 m/s dan sudut elevasi 53 derajat (sin 53 = 0,8; cos 53 = 0,6; g = 10 m/s^2). Jarak mendatar maksimum yang dicapai peluru adalah",
+          "options": [
+            "200 m",
+            "250 m",
+            "120 m",
+            "240 m"
+          ],
+          "answer": 3,
+          "explanation": "R = v0^2 sin(2 theta)/g = v0^2 (2 sin theta cos theta)/g = 2.500 x (2 x 0,8 x 0,6)/10 = 2.500 x 0,96/10 = 240 m."
+        },
+        {
+          "question": "Dua balok bermassa 2 kg dan 3 kg dihubungkan tali ringan melalui katrol licin (mesin Atwood), g = 10 m/s^2. Tegangan tali saat sistem bergerak adalah",
+          "options": [
+            "20 N",
+            "24 N",
+            "25 N",
+            "30 N"
+          ],
+          "answer": 1,
+          "explanation": "Percepatan a = (m2 - m1)g/(m1 + m2) = (1 x 10)/5 = 2 m/s^2. Tegangan tali T = m1(g + a) = 2 x (10 + 2) = 24 N."
+        },
+        {
+          "question": "Balok 5 kg dilepas dari keadaan diam pada bidang miring dengan sudut 37 derajat (sin 37 = 0,6; cos 37 = 0,8) dan koefisien gesek kinetik 0,25. Jika g = 10 m/s^2, kecepatan balok setelah menempuh 2 m sepanjang bidang miring adalah",
+          "options": [
+            "4 m/s",
+            "2 m/s",
+            "5 m/s",
+            "8 m/s"
+          ],
+          "answer": 0,
+          "explanation": "a = g(sin theta - mu cos theta) = 10(0,6 - 0,25 x 0,8) = 10 x 0,4 = 4 m/s^2. v^2 = 2as = 2 x 4 x 2 = 16, sehingga v = 4 m/s."
+        },
+        {
+          "question": "Benda 2 kg dilepas dari ketinggian 5 m pada lintasan lengkung kasar dan tiba di dasar dengan kecepatan 8 m/s (g = 10 m/s^2). Usaha yang dilakukan gaya gesek selama gerakan adalah",
+          "options": [
+            "64 J",
+            "100 J",
+            "36 J",
+            "28 J"
+          ],
+          "answer": 2,
+          "explanation": "Energi potensial awal = mgh = 2 x 10 x 5 = 100 J. Energi kinetik akhir = 1/2 x 2 x 8^2 = 64 J. Usaha gesek = 100 - 64 = 36 J (energi yang hilang)."
+        },
+        {
+          "question": "Balok A (3 kg) bergerak 8 m/s ke kanan menumbuk balok B (5 kg) yang bergerak 2 m/s ke kiri. Setelah tumbukan keduanya menyatu (tidak lenting sama sekali). Energi kinetik yang hilang adalah",
+          "options": [
+            "106 J",
+            "93,75 J",
+            "12,25 J",
+            "81,5 J"
+          ],
+          "answer": 1,
+          "explanation": "Momentum: 3(8) + 5(-2) = 14 kg m/s, sehingga v' = 14/8 = 1,75 m/s. Ek awal = 1/2(3)(64) + 1/2(5)(4) = 96 + 10 = 106 J. Ek akhir = 1/2(8)(1,75)^2 = 12,25 J. Energi hilang = 106 - 12,25 = 93,75 J."
+        },
+        {
+          "question": "Bola 0,5 kg diikat tali sepanjang 1 m dan diayunkan melingkar vertikal. Di titik terendah kecepatan bola 6 m/s (g = 10 m/s^2). Tegangan tali di titik tersebut adalah",
+          "options": [
+            "23 N",
+            "18 N",
+            "13 N",
+            "28 N"
+          ],
+          "answer": 0,
+          "explanation": "Di titik terendah: T - mg = m v^2/R, sehingga T = mg + m v^2/R = 0,5 x 10 + 0,5 x 36/1 = 5 + 18 = 23 N."
+        },
+        {
+          "question": "Sebuah planet memiliki massa 8 kali massa Bumi dan jari-jari 2 kali jari-jari Bumi. Jika kecepatan lepas dari Bumi 11,2 km/s, kecepatan lepas dari permukaan planet tersebut adalah",
+          "options": [
+            "44,8 km/s",
+            "11,2 km/s",
+            "22,4 km/s",
+            "33,6 km/s"
+          ],
+          "answer": 2,
+          "explanation": "v lepas = akar(2GM/R). Perbandingan v_planet/v_bumi = akar((8/2)) = akar(4) = 2. Jadi v_planet = 2 x 11,2 = 22,4 km/s."
+        },
+        {
+          "question": "Sebuah benda di udara beratnya 30 N, di dalam air 20 N, dan di dalam cairan X 22 N. Jika massa jenis air 1.000 kg/m^3 dan g = 10 m/s^2, massa jenis cairan X adalah",
+          "options": [
+            "600 kg/m^3",
+            "1.200 kg/m^3",
+            "800 kg/m^3",
+            "900 kg/m^3"
+          ],
+          "answer": 2,
+          "explanation": "Gaya apung di air = 30 - 20 = 10 N, sehingga V = 10/(1.000 x 10) = 10^-3 m^3. Gaya apung di cairan X = 30 - 22 = 8 N, sehingga rho_X = 8/(10 x 10^-3) = 800 kg/m^3."
+        },
+        {
+          "question": "Air (rho = 1.000 kg/m^3) mengalir pada pipa horizontal yang menyempit dari luas penampang 10 cm^2 menjadi 5 cm^2. Kecepatan di bagian lebar 2 m/s. Selisih tekanan antara bagian lebar dan sempit adalah",
+          "options": [
+            "6.000 Pa",
+            "3.000 Pa",
+            "8.000 Pa",
+            "12.000 Pa"
+          ],
+          "answer": 0,
+          "explanation": "Kontinuitas: A1 v1 = A2 v2, sehingga v2 = 4 m/s. Bernoulli (horizontal): P1 - P2 = 1/2 rho (v2^2 - v1^2) = 1/2 x 1.000 x (16 - 4) = 6.000 Pa."
+        },
+        {
+          "question": "Gas ideal dalam ruang tertutup dipanaskan dari 27 derajat C hingga 327 derajat C. Perbandingan kecepatan rms molekul gas akhir terhadap awal adalah",
+          "options": [
+            "2 : 1",
+            "akar 3 : 1",
+            "4 : 1",
+            "akar 2 : 1"
+          ],
+          "answer": 3,
+          "explanation": "v rms sebanding dengan akar(T). T1 = 300 K dan T2 = 600 K, sehingga v2/v1 = akar(600/300) = akar 2."
+        },
+        {
+          "question": "Mesin Carnot memiliki efisiensi 40% dengan reservoir suhu rendah 300 K. Agar efisiensinya menjadi 60% dengan suhu reservoir rendah tetap, suhu reservoir tinggi harus dinaikkan sebesar",
+          "options": [
+            "150 K",
+            "200 K",
+            "300 K",
+            "250 K"
+          ],
+          "answer": 3,
+          "explanation": "Efisiensi 40%: 0,4 = 1 - 300/Th1 sehingga Th1 = 500 K. Efisiensi 60%: 0,6 = 1 - 300/Th2 sehingga Th2 = 750 K. Kenaikan = 750 - 500 = 250 K."
+        },
+        {
+          "question": "Gelombang berjalan dinyatakan y = 0,04 sin(10 pi t - pi x) dengan x dan y dalam meter dan t dalam sekon. Cepat rambat gelombang tersebut adalah",
+          "options": [
+            "5 m/s",
+            "10 m/s",
+            "2 m/s",
+            "20 m/s"
+          ],
+          "answer": 1,
+          "explanation": "Dari persamaan: omega = 10 pi rad/s dan k = pi rad/m. Cepat rambat v = omega/k = 10 pi/pi = 10 m/s."
+        },
+        {
+          "question": "Sebuah sumber bunyi berfrekuensi 640 Hz mendekati pendengar yang diam dengan kecepatan 20 m/s. Jika cepat rambat bunyi di udara 340 m/s, frekuensi yang didengar pendengar adalah",
+          "options": [
+            "604 Hz",
+            "640 Hz",
+            "680 Hz",
+            "720 Hz"
+          ],
+          "answer": 2,
+          "explanation": "Doppler (sumber mendekat): fp = fs x v/(v - vs) = 640 x 340/(340 - 20) = 640 x 340/320 = 680 Hz."
+        },
+        {
+          "question": "Taraf intensitas bunyi dari satu sumber adalah 60 dB. Jika 100 sumber identik berbunyi bersamaan di tempat yang sama, taraf intensitas totalnya menjadi",
+          "options": [
+            "62 dB",
+            "80 dB",
+            "160 dB",
+            "600 dB"
+          ],
+          "answer": 1,
+          "explanation": "TI = TI1 + 10 log n = 60 + 10 log 100 = 60 + 20 = 80 dB."
+        },
+        {
+          "question": "Dua lensa cembung identik (f = 10 cm) dipasang sejajar sumbu utama dengan jarak antarlensa 50 cm. Benda diletakkan 15 cm di depan lensa pertama. Bayangan akhir terbentuk pada jarak ... dari lensa kedua.",
+          "options": [
+            "10 cm di belakang lensa kedua",
+            "30 cm di belakang lensa kedua",
+            "20 cm di belakang lensa kedua",
+            "20 cm di depan lensa kedua"
+          ],
+          "answer": 2,
+          "explanation": "Lensa 1: 1/s' = 1/10 - 1/15 = 1/30 sehingga s1' = 30 cm di belakang lensa 1. Jarak ke lensa 2 sebagai benda: s2 = 50 - 30 = 20 cm. Lensa 2: 1/s2' = 1/10 - 1/20 = 1/20 sehingga s2' = 20 cm (nyata, di belakang lensa kedua)."
+        },
+        {
+          "question": "Baterai 12 V (hambatan dalam 2 ohm) dihubungkan dengan rangkaian: R1 = 6 ohm dan R2 = 3 ohm disusun paralel, kemudian diseri dengan R3 = 4 ohm. Kuat arus yang melewati R2 adalah",
+          "options": [
+            "1 A",
+            "0,5 A",
+            "1,5 A",
+            "2 A"
+          ],
+          "answer": 0,
+          "explanation": "R paralel = (6 x 3)/(6 + 3) = 2 ohm. Rtotal = 2 + 4 + 2 (hambatan dalam) = 8 ohm. I total = 12/8 = 1,5 A. Tegangan paralel = 1,5 x 2 = 3 V, sehingga I2 = 3/3 = 1 A."
+        },
+        {
+          "question": "Kapasitor 6 mikroF dan 3 mikroF disusun seri lalu dihubungkan ke sumber 12 V. Tegangan pada kapasitor 3 mikroF adalah",
+          "options": [
+            "4 V",
+            "6 V",
+            "8 V",
+            "12 V"
+          ],
+          "answer": 2,
+          "explanation": "C seri = (6 x 3)/(6 + 3) = 2 mikroF. Q = C V = 2 x 12 = 24 mikroC (sama pada kedua kapasitor). V pada 3 mikroF = Q/C = 24/3 = 8 V."
+        },
+        {
+          "question": "Dua kawat lurus panjang sejajar berjarak 20 cm dialiri arus berlawanan arah masing-masing 5 A dan 10 A (mu0 = 4 pi x 10^-7 Wb/Am). Induksi magnetik di titik tengah antara kedua kawat adalah",
+          "options": [
+            "1 x 10^-5 T",
+            "2 x 10^-5 T",
+            "5 x 10^-5 T",
+            "3 x 10^-5 T"
+          ],
+          "answer": 3,
+          "explanation": "Titik tengah berjarak 10 cm dari tiap kawat. B1 = (2 x 10^-7)(5)/0,1 = 10^-5 T dan B2 = (2 x 10^-7)(10)/0,1 = 2 x 10^-5 T. Arus berlawanan arah membuat medan di antara kawat searah, sehingga B = 10^-5 + 2 x 10^-5 = 3 x 10^-5 T."
+        },
+        {
+          "question": "Batang konduktor sepanjang 0,5 m digeser dengan kecepatan konstan 4 m/s tegak lurus medan magnet 0,2 T pada rel konduktor yang membentuk rangkaian tertutup berhambatan 0,4 ohm. Gaya yang diperlukan untuk mempertahankan kecepatan batang adalah",
+          "options": [
+            "0,1 N",
+            "0,2 N",
+            "0,4 N",
+            "0,05 N"
+          ],
+          "answer": 0,
+          "explanation": "GGL = B l v = 0,2 x 0,5 x 4 = 0,4 V. I = 0,4/0,4 = 1 A. Gaya Lorentz F = B I l = 0,2 x 1 x 0,5 = 0,1 N. Agar kecepatan konstan, gaya luar sama dengan gaya Lorentz, yaitu 0,1 N."
+        },
+        {
+          "question": "Rangkaian RLC seri dengan R = 30 ohm, XL = 80 ohm, XC = 40 ohm dihubungkan ke sumber AC bertegangan efektif 100 V. Daya rata-rata yang diserap rangkaian adalah",
+          "options": [
+            "120 W",
+            "200 W",
+            "160 W",
+            "60 W"
+          ],
+          "answer": 0,
+          "explanation": "Z = akar(R^2 + (XL - XC)^2) = akar(900 + 1.600) = 50 ohm. I = 100/50 = 2 A. P = I^2 R = 4 x 30 = 120 W."
+        },
+        {
+          "question": "Cahaya berpanjang gelombang 400 nm disinari pada logam sehingga elektron terlepas dengan energi kinetik maksimum 1,0 eV (hc = 1.240 eV nm). Jika panjang gelombang cahaya diubah menjadi 200 nm, energi kinetik maksimum fotoelektron menjadi",
+          "options": [
+            "4,1 eV",
+            "2,0 eV",
+            "6,2 eV",
+            "3,1 eV"
+          ],
+          "answer": 0,
+          "explanation": "Energi foton 400 nm = 1.240/400 = 3,1 eV, sehingga fungsi kerja W = 3,1 - 1,0 = 2,1 eV. Energi foton 200 nm = 6,2 eV, sehingga Ek maks = 6,2 - 2,1 = 4,1 eV."
+        },
+        {
+          "question": "Sebuah partikel bermassa diam m0 bergerak dengan kecepatan 0,6c. Energi kinetik partikel tersebut adalah",
+          "options": [
+            "0,6 m0 c^2",
+            "0,20 m0 c^2",
+            "0,25 m0 c^2",
+            "1,25 m0 c^2"
+          ],
+          "answer": 2,
+          "explanation": "Faktor Lorentz gamma = 1/akar(1 - 0,36) = 1/0,8 = 1,25. Ek = (gamma - 1) m0 c^2 = 0,25 m0 c^2."
+        },
+        {
+          "question": "Aktivitas awal suatu sampel radioaktif 640 Bq. Setelah 30 hari aktivitasnya menjadi 20 Bq. Waktu paruh unsur tersebut adalah",
+          "options": [
+            "5 hari",
+            "6 hari",
+            "10 hari",
+            "15 hari"
+          ],
+          "answer": 1,
+          "explanation": "Perbandingan A/A0 = 20/640 = 1/32 = (1/2)^5, sehingga terjadi 5 kali waktu paruh. T = 30/5 = 6 hari."
+        }
+      ]
+    },
+    {
+      "title": "Kimia",
+      "questions": [
+        {
+          "question": "Sebanyak 5,4 g logam Al (Ar = 27) direaksikan dengan 0,5 mol HCl menurut reaksi 2Al + 6HCl -> 2AlCl3 + 3H2. Volume gas H2 yang dihasilkan pada keadaan STP adalah",
+          "options": [
+            "6,72 L",
+            "4,48 L",
+            "5,6 L",
+            "11,2 L"
+          ],
+          "answer": 2,
+          "explanation": "mol Al = 5,4/27 = 0,2 mol (butuh 0,6 mol HCl). HCl hanya 0,5 mol sehingga HCl adalah pereaksi pembatas. mol H2 = 3/6 x 0,5 = 0,25 mol. Volume STP = 0,25 x 22,4 = 5,6 L."
+        },
+        {
+          "question": "Sebanyak 100 mL CH3COOH 0,2 M dicampur dengan 50 mL NaOH 0,1 M (Ka CH3COOH = 10^-5; log 3 = 0,48). pH campuran adalah",
+          "options": [
+            "5,48",
+            "4,52",
+            "4,00",
+            "5,00"
+          ],
+          "answer": 1,
+          "explanation": "mol asam = 20 mmol, mol NaOH = 5 mmol. Sisa asam = 15 mmol dan garam CH3COONa = 5 mmol (larutan penyangga). [H+] = Ka x (15/5) = 3 x 10^-5. pH = 5 - log 3 = 4,52."
+        },
+        {
+          "question": "Sebanyak 50 mL NH3 0,2 M dicampur dengan 50 mL HCl 0,2 M (Kb NH3 = 10^-5; Kw = 10^-14). pH larutan yang terbentuk adalah",
+          "options": [
+            "9",
+            "5",
+            "7",
+            "6"
+          ],
+          "answer": 1,
+          "explanation": "Reaksi tepat habis membentuk NH4Cl dengan konsentrasi 10 mmol/100 mL = 0,1 M. Garam bersifat asam: [H+] = akar((Kw/Kb) x [garam]) = akar(10^-9 x 0,1) = 10^-5. pH = 5."
+        },
+        {
+          "question": "Diketahui Ksp Ag2CrO4 = 4 x 10^-12. Kelarutan Ag2CrO4 dalam air murni adalah",
+          "options": [
+            "2 x 10^-6 M",
+            "1 x 10^-6 M",
+            "4 x 10^-4 M",
+            "1 x 10^-4 M"
+          ],
+          "answer": 3,
+          "explanation": "Ag2CrO4 <-> 2Ag+ + CrO4^2-. Ksp = (2s)^2 (s) = 4s^3 = 4 x 10^-12, sehingga s^3 = 10^-12 dan s = 10^-4 M."
+        },
+        {
+          "question": "Diketahui: C + O2 -> CO2, dH = -394 kJ; H2 + 1/2 O2 -> H2O, dH = -286 kJ; pembakaran C3H8: dH = -2.220 kJ/mol. Entalpi pembentukan standar C3H8 adalah",
+          "options": [
+            "+106 kJ/mol",
+            "-2.220 kJ/mol",
+            "-1.326 kJ/mol",
+            "-106 kJ/mol"
+          ],
+          "answer": 3,
+          "explanation": "dHc = [3 dHf CO2 + 4 dHf H2O] - dHf C3H8. -2.220 = [3(-394) + 4(-286)] - dHf C3H8 = -2.326 - dHf C3H8. Maka dHf C3H8 = -2.326 + 2.220 = -106 kJ/mol."
+        },
+        {
+          "question": "Data percobaan laju reaksi A + B -> hasil: (1) [A] = 0,1 M; [B] = 0,1 M; v = 2 M/s. (2) [A] = 0,2 M; [B] = 0,1 M; v = 8 M/s. (3) [A] = 0,2 M; [B] = 0,2 M; v = 16 M/s. Laju reaksi saat [A] = 0,3 M dan [B] = 0,4 M adalah",
+          "options": [
+            "48 M/s",
+            "72 M/s",
+            "36 M/s",
+            "144 M/s"
+          ],
+          "answer": 1,
+          "explanation": "Orde A: [A] 2x membuat v 4x sehingga orde 2. Orde B: [B] 2x membuat v 2x sehingga orde 1. v = k[A]^2[B]. k = 2/(0,01 x 0,1) = 2.000. v = 2.000 x 0,09 x 0,4 = 72 M/s."
+        },
+        {
+          "question": "Pada kesetimbangan N2O4(g) <-> 2NO2(g), sebanyak 1 mol N2O4 terurai 50% (derajat disosiasi 0,5) dan tekanan total sistem 3 atm. Nilai Kp reaksi tersebut adalah",
+          "options": [
+            "2 atm",
+            "4 atm",
+            "1 atm",
+            "8 atm"
+          ],
+          "answer": 1,
+          "explanation": "Mol setimbang: N2O4 = 0,5 mol; NO2 = 1 mol; total = 1,5 mol. P N2O4 = (0,5/1,5) x 3 = 1 atm; P NO2 = (1/1,5) x 3 = 2 atm. Kp = (2)^2/1 = 4 atm."
+        },
+        {
+          "question": "Arus 5 A dialirkan selama 1.930 detik ke dalam larutan CuSO4 dengan elektroda inert (Ar Cu = 63,5; 1 F = 96.500 C). Massa tembaga yang mengendap di katoda adalah",
+          "options": [
+            "6,35 g",
+            "3,175 g",
+            "1,5875 g",
+            "31,75 g"
+          ],
+          "answer": 1,
+          "explanation": "Q = I t = 5 x 1.930 = 9.650 C = 0,1 F. Cu2+ + 2e -> Cu, sehingga mol Cu = 0,1/2 = 0,05 mol. Massa = 0,05 x 63,5 = 3,175 g."
+        },
+        {
+          "question": "Sel Volta Zn | Zn2+ (0,001 M) || Cu2+ (0,1 M) | Cu memiliki E0 Zn2+/Zn = -0,76 V dan E0 Cu2+/Cu = +0,34 V (gunakan 0,059/n untuk Nernst pada 25 derajat C). Potensial sel pada kondisi tersebut adalah",
+          "options": [
+            "1,04 V",
+            "1,16 V",
+            "1,10 V",
+            "1,22 V"
+          ],
+          "answer": 1,
+          "explanation": "E0 sel = 0,34 - (-0,76) = 1,10 V. Q = [Zn2+]/[Cu2+] = 0,001/0,1 = 10^-2. E = E0 - (0,059/2) log Q = 1,10 - 0,0295 x (-2) = 1,10 + 0,059 = 1,159, dibulatkan 1,16 V."
+        },
+        {
+          "question": "Jumlah isomer struktur (termasuk isomer gugus fungsi) dari senyawa dengan rumus molekul C4H10O adalah",
+          "options": [
+            "7",
+            "4",
+            "5",
+            "8"
+          ],
+          "answer": 0,
+          "explanation": "Alkohol C4H9OH ada 4 isomer (1-butanol, 2-butanol, 2-metil-1-propanol, 2-metil-2-propanol). Eter ada 3 isomer (dietil eter, metil propil eter, metil isopropil eter). Total = 4 + 3 = 7."
+        },
+        {
+          "question": "Sebanyak 5,85 g NaCl (Mr = 58,5) dilarutkan dalam 250 g air (Kf air = 1,86 derajat C/m; NaCl terion sempurna). Titik beku larutan tersebut adalah",
+          "options": [
+            "-0,744 derajat C",
+            "-0,372 derajat C",
+            "+1,488 derajat C",
+            "-1,488 derajat C"
+          ],
+          "answer": 3,
+          "explanation": "mol NaCl = 0,1 mol; molalitas = 0,1/0,25 = 0,4 m. Faktor van't Hoff i = 2. dTf = Kf x m x i = 1,86 x 0,4 x 2 = 1,488 derajat C. Tf = 0 - 1,488 = -1,488 derajat C."
+        },
+        {
+          "question": "Jumlah elektron tidak berpasangan pada ion Fe^3+ (nomor atom Fe = 26) adalah",
+          "options": [
+            "5",
+            "4",
+            "3",
+            "6"
+          ],
+          "answer": 0,
+          "explanation": "Konfigurasi Fe: [Ar] 4s2 3d6. Fe^3+ melepas 2 elektron 4s dan 1 elektron 3d sehingga menjadi [Ar] 3d5. Lima orbital 3d masing-masing terisi satu elektron sehingga ada 5 elektron tidak berpasangan."
+        }
+      ]
+    },
+    {
+      "title": "Biologi",
+      "questions": [
+        {
+          "question": "Pada tikus, gen A menentukan pigmen hitam dan gen B mengendalikan pengendapan pigmen, dengan epistasis resesif (aa menutupi ekspresi B). Persilangan AaBb x AaBb menghasilkan 160 keturunan. Jumlah keturunan berwarna putih diperkirakan",
+          "options": [
+            "10 ekor",
+            "30 ekor",
+            "90 ekor",
+            "40 ekor"
+          ],
+          "answer": 3,
+          "explanation": "Epistasis resesif menghasilkan rasio fenotipe 9 : 3 : 4 (hitam : coklat : putih). Individu putih = aaBB + aaBb + aabb = 4/16. Jumlah = 4/16 x 160 = 40 ekor."
+        },
+        {
+          "question": "Pada suatu populasi yang berada dalam kesetimbangan Hardy-Weinberg, frekuensi individu bersifat resesif (aa) adalah 4%. Jika jumlah populasi 500 individu, jumlah individu heterozigot adalah",
+          "options": [
+            "160 individu",
+            "80 individu",
+            "320 individu",
+            "20 individu"
+          ],
+          "answer": 0,
+          "explanation": "q^2 = 0,04 sehingga q = 0,2 dan p = 0,8. Frekuensi heterozigot = 2pq = 2 x 0,8 x 0,2 = 0,32. Jumlah = 0,32 x 500 = 160 individu."
+        },
+        {
+          "question": "Gen A dan B terpaut pada kromosom yang sama dengan nilai pindah silang 20%. Individu AB/ab diuji silang dengan ab/ab. Persentase keturunan dengan genotipe Ab/ab adalah",
+          "options": [
+            "10%",
+            "20%",
+            "40%",
+            "5%"
+          ],
+          "answer": 0,
+          "explanation": "Nilai pindah silang 20% berarti gamet rekombinan (Ab + aB) = 20%, masing-masing 10%. Gamet Ab = 10% sehingga keturunan Ab/ab = 10%."
+        },
+        {
+          "question": "Seorang wanita bergolongan darah A heterozigot (IA IO) menikah dengan pria bergolongan darah B heterozigot (IB IO). Peluang mereka memiliki anak laki-laki bergolongan darah AB adalah",
+          "options": [
+            "1/4",
+            "1/2",
+            "1/8",
+            "1/16"
+          ],
+          "answer": 2,
+          "explanation": "Peluang anak bergolongan AB (IA IB) = 1/4. Peluang anak laki-laki = 1/2. Peluang gabungan = 1/4 x 1/2 = 1/8."
+        },
+        {
+          "question": "Jumlah total NADH dan FADH2 yang dihasilkan dari oksidasi sempurna satu molekul glukosa (glikolisis, dekarboksilasi oksidatif, dan siklus Krebs) adalah",
+          "options": [
+            "6 NADH dan 4 FADH2",
+            "8 NADH dan 4 FADH2",
+            "12 NADH dan 2 FADH2",
+            "10 NADH dan 2 FADH2"
+          ],
+          "answer": 3,
+          "explanation": "Glikolisis: 2 NADH. Dekarboksilasi oksidatif: 2 NADH. Siklus Krebs (2 putaran): 6 NADH dan 2 FADH2. Total = 10 NADH dan 2 FADH2."
+        },
+        {
+          "question": "Pada fotofosforilasi siklik pada reaksi terang fotosintesis, produk yang dihasilkan adalah",
+          "options": [
+            "ATP dan NADPH tanpa O2",
+            "NADPH dan O2 tanpa ATP",
+            "ATP, NADPH, dan O2",
+            "ATP saja, tanpa NADPH dan O2"
+          ],
+          "answer": 3,
+          "explanation": "Pada jalur siklik hanya fotosistem I yang terlibat dan elektron kembali ke P700 melalui rantai transpor elektron. Hanya ATP yang terbentuk; tidak ada fotolisis air (tanpa O2) dan tidak ada NADPH."
+        },
+        {
+          "question": "Seorang penderita diabetes melitus mengeluarkan glukosa dalam urin walaupun glukosa normalnya direabsorpsi di tubulus proksimal. Penyebab utama kondisi tersebut adalah",
+          "options": [
+            "glomerulus tidak dapat menyaring glukosa",
+            "lengkung Henle memproduksi enzim pemecah glukosa",
+            "kapasitas transpor maksimum protein pengangkut glukosa di tubulus proksimal terlampaui",
+            "hormon ADH meningkatkan filtrasi glukosa"
+          ],
+          "answer": 2,
+          "explanation": "Glukosa bebas disaring di glomerulus dan direabsorpsi lewat transporter di tubulus proksimal. Pada hiperglikemia (di atas ambang ginjal sekitar 180 mg/dL), transporter jenuh sehingga sisa glukosa tidak terserap dan keluar bersama urin."
+        },
+        {
+          "question": "Pada potensial aksi neuron, fase repolarisasi terutama disebabkan oleh",
+          "options": [
+            "masuknya ion Na+ melalui kanal Na+",
+            "masuknya ion Cl- ke dalam sel",
+            "keluarnya ion K+ melalui kanal K+ bergerbang tegangan",
+            "pompa Na+/K+ yang langsung membalik muatan membran"
+          ],
+          "answer": 2,
+          "explanation": "Depolarisasi disebabkan masuknya Na+. Setelah puncak, kanal Na+ menutup dan kanal K+ bergerbang tegangan terbuka, sehingga K+ keluar dan potensial membran kembali negatif (repolarisasi)."
+        },
+        {
+          "question": "Dibandingkan respons imun primer, respons imun sekunder terhadap antigen yang sama ditandai dengan",
+          "options": [
+            "fase laten lebih lama dan antibodi dominan IgM",
+            "antibodi dihasilkan lebih sedikit karena antigen sudah dikenali",
+            "fase laten lebih singkat dan antibodi (terutama IgG) lebih banyak oleh sel memori",
+            "hanya melibatkan imunitas bawaan tanpa limfosit"
+          ],
+          "answer": 2,
+          "explanation": "Pada paparan kedua, sel B dan T memori mengenali antigen dengan cepat sehingga respons lebih cepat, lebih kuat, bertahan lebih lama, dan didominasi IgG dengan afinitas lebih tinggi."
+        },
+        {
+          "question": "Dalam rantai makanan padi -> tikus -> ular -> elang, energi yang tersimpan pada padi 50.000 kJ. Jika efisiensi perpindahan energi antartingkat trofik 10%, energi yang diterima elang adalah",
+          "options": [
+            "500 kJ",
+            "50 kJ",
+            "5 kJ",
+            "5.000 kJ"
+          ],
+          "answer": 1,
+          "explanation": "Terjadi 3 kali perpindahan energi: 50.000 x 10% = 5.000 kJ (tikus); x 10% = 500 kJ (ular); x 10% = 50 kJ (elang)."
+        },
+        {
+          "question": "Sebanyak 4 molekul DNA cetakan diamplifikasi dengan PCR selama 5 siklus dengan efisiensi sempurna. Jumlah molekul DNA yang dihasilkan adalah",
+          "options": [
+            "20",
+            "64",
+            "256",
+            "128"
+          ],
+          "answer": 3,
+          "explanation": "Jumlah salinan = N0 x 2^n = 4 x 2^5 = 4 x 32 = 128 molekul."
+        },
+        {
+          "question": "Spesiasi alopatrik terjadi melalui urutan peristiwa berikut, yaitu",
+          "options": [
+            "isolasi geografi, perbedaan tekanan seleksi dan hanyutan genetik, lalu isolasi reproduksi",
+            "isolasi reproduksi, isolasi geografi, lalu perbedaan seleksi",
+            "poliploidi mendadak dalam satu habitat yang sama, lalu isolasi geografi",
+            "migrasi acak tanpa pemisahan populasi, lalu hibridisasi"
+          ],
+          "answer": 0,
+          "explanation": "Populasi terpisah oleh penghalang geografis, aliran gen terhenti, sehingga seleksi alam dan hanyutan genetik yang berbeda mengakumulasi perbedaan genetik hingga muncul isolasi reproduksi dan spesies baru."
+        },
+        {
+          "question": "Untai cetakan DNA 3'-TAC GGA TTC-5' ditranskripsi dan ditranslasi (kodon: AUG = Met, CCU = Pro, AAG = Lys, GGA = Gly, UUC = Phe, UAC = Tyr). Urutan asam amino yang terbentuk adalah",
+          "options": [
+            "Met - Pro - Lys",
+            "Met - Gly - Phe",
+            "Tyr - Pro - Lys",
+            "Met - Pro - Phe"
+          ],
+          "answer": 0,
+          "explanation": "mRNA komplementer terhadap cetakan: 5'-AUG CCU AAG-3'. Translasi menghasilkan Met - Pro - Lys."
+        },
+        {
+          "question": "Anemia sel sabit terjadi akibat perubahan satu basa pada gen globin beta (GAG menjadi GUG pada mRNA) sehingga asam glutamat digantikan valin. Jenis mutasi ini adalah",
+          "options": [
+            "mutasi titik tipe nonsense",
+            "mutasi frameshift akibat delesi",
+            "mutasi kromosom tipe translokasi",
+            "mutasi titik substitusi tipe missense"
+          ],
+          "answer": 3,
+          "explanation": "Penggantian satu basa (substitusi) yang mengubah kodon untuk satu asam amino menjadi kodon asam amino lain disebut missense. Bukan nonsense (menghasilkan kodon stop) dan bukan frameshift (penambahan/pengurangan basa yang menggeser kerangka baca)."
+        }
+      ]
+    }
+  ]
+}
