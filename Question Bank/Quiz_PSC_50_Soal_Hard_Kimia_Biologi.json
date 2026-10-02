@@ -1,0 +1,570 @@
+{
+  "title": "Latihan PSC UNDIKSHA 2026 - Penyisihan IPA (50 Soal, Level Hard SMP-SMA) - Kimia & Biologi",
+  "scoring": {
+    "correct": 2,
+    "wrong": -1,
+    "blank": 0
+  },
+  "parts": [
+    {
+      "title": "Kimia",
+      "questions": [
+        {
+          "question": "Sebanyak 5,4 g logam Al (Ar = 27) direaksikan dengan 0,5 mol HCl menurut reaksi 2Al + 6HCl -> 2AlCl3 + 3H2. Volume gas H2 yang dihasilkan pada keadaan STP adalah",
+          "options": [
+            "6,72 L",
+            "5,6 L",
+            "4,48 L",
+            "11,2 L"
+          ],
+          "answer": 1,
+          "explanation": "mol Al = 5,4/27 = 0,2 mol (butuh 0,6 mol HCl). HCl hanya 0,5 mol sehingga HCl adalah pereaksi pembatas. mol H2 = 3/6 x 0,5 = 0,25 mol. Volume STP = 0,25 x 22,4 = 5,6 L."
+        },
+        {
+          "question": "Sebanyak 100 mL CH3COOH 0,2 M dicampur dengan 50 mL NaOH 0,1 M (Ka CH3COOH = 10^-5; log 3 = 0,48). pH campuran adalah",
+          "options": [
+            "5,48",
+            "4,00",
+            "5,00",
+            "4,52"
+          ],
+          "answer": 3,
+          "explanation": "mol asam = 20 mmol, mol NaOH = 5 mmol. Sisa asam = 15 mmol dan garam CH3COONa = 5 mmol (larutan penyangga). [H+] = Ka x (15/5) = 3 x 10^-5. pH = 5 - log 3 = 4,52."
+        },
+        {
+          "question": "Sebanyak 50 mL NH3 0,2 M dicampur dengan 50 mL HCl 0,2 M (Kb NH3 = 10^-5; Kw = 10^-14). pH larutan yang terbentuk adalah",
+          "options": [
+            "9",
+            "5",
+            "7",
+            "6"
+          ],
+          "answer": 1,
+          "explanation": "Reaksi tepat habis membentuk NH4Cl dengan konsentrasi 10 mmol/100 mL = 0,1 M. Garam bersifat asam: [H+] = akar((Kw/Kb) x [garam]) = akar(10^-9 x 0,1) = 10^-5. pH = 5."
+        },
+        {
+          "question": "Diketahui Ksp Ag2CrO4 = 4 x 10^-12. Kelarutan Ag2CrO4 dalam air murni adalah",
+          "options": [
+            "1 x 10^-4 M",
+            "2 x 10^-6 M",
+            "1 x 10^-6 M",
+            "4 x 10^-4 M"
+          ],
+          "answer": 0,
+          "explanation": "Ag2CrO4 <-> 2Ag+ + CrO4^2-. Ksp = (2s)^2 (s) = 4s^3 = 4 x 10^-12, sehingga s^3 = 10^-12 dan s = 10^-4 M."
+        },
+        {
+          "question": "Diketahui: C + O2 -> CO2, dH = -394 kJ; H2 + 1/2 O2 -> H2O, dH = -286 kJ; pembakaran C3H8: dH = -2.220 kJ/mol. Entalpi pembentukan standar C3H8 adalah",
+          "options": [
+            "+106 kJ/mol",
+            "-2.220 kJ/mol",
+            "-106 kJ/mol",
+            "-1.326 kJ/mol"
+          ],
+          "answer": 2,
+          "explanation": "dHc = [3 dHf CO2 + 4 dHf H2O] - dHf C3H8. -2.220 = [3(-394) + 4(-286)] - dHf C3H8 = -2.326 - dHf C3H8. Maka dHf C3H8 = -2.326 + 2.220 = -106 kJ/mol."
+        },
+        {
+          "question": "Data percobaan laju reaksi A + B -> hasil: (1) [A] = 0,1 M; [B] = 0,1 M; v = 2 M/s. (2) [A] = 0,2 M; [B] = 0,1 M; v = 8 M/s. (3) [A] = 0,2 M; [B] = 0,2 M; v = 16 M/s. Laju reaksi saat [A] = 0,3 M dan [B] = 0,4 M adalah",
+          "options": [
+            "48 M/s",
+            "72 M/s",
+            "36 M/s",
+            "144 M/s"
+          ],
+          "answer": 1,
+          "explanation": "Orde A: [A] 2x membuat v 4x sehingga orde 2. Orde B: [B] 2x membuat v 2x sehingga orde 1. v = k[A]^2[B]. k = 2/(0,01 x 0,1) = 2.000. v = 2.000 x 0,09 x 0,4 = 72 M/s."
+        },
+        {
+          "question": "Pada kesetimbangan N2O4(g) <-> 2NO2(g), sebanyak 1 mol N2O4 terurai 50% (derajat disosiasi 0,5) dan tekanan total sistem 3 atm. Nilai Kp reaksi tersebut adalah",
+          "options": [
+            "4 atm",
+            "2 atm",
+            "1 atm",
+            "8 atm"
+          ],
+          "answer": 0,
+          "explanation": "Mol setimbang: N2O4 = 0,5 mol; NO2 = 1 mol; total = 1,5 mol. P N2O4 = (0,5/1,5) x 3 = 1 atm; P NO2 = (1/1,5) x 3 = 2 atm. Kp = (2)^2/1 = 4 atm."
+        },
+        {
+          "question": "Arus 5 A dialirkan selama 1.930 detik ke dalam larutan CuSO4 dengan elektroda inert (Ar Cu = 63,5; 1 F = 96.500 C). Massa tembaga yang mengendap di katoda adalah",
+          "options": [
+            "6,35 g",
+            "1,5875 g",
+            "3,175 g",
+            "31,75 g"
+          ],
+          "answer": 2,
+          "explanation": "Q = I t = 5 x 1.930 = 9.650 C = 0,1 F. Cu2+ + 2e -> Cu, sehingga mol Cu = 0,1/2 = 0,05 mol. Massa = 0,05 x 63,5 = 3,175 g."
+        },
+        {
+          "question": "Sel Volta Zn | Zn2+ (0,001 M) || Cu2+ (0,1 M) | Cu memiliki E0 Zn2+/Zn = -0,76 V dan E0 Cu2+/Cu = +0,34 V (gunakan 0,059/n untuk Nernst pada 25 derajat C). Potensial sel pada kondisi tersebut adalah",
+          "options": [
+            "1,04 V",
+            "1,10 V",
+            "1,16 V",
+            "1,22 V"
+          ],
+          "answer": 2,
+          "explanation": "E0 sel = 0,34 - (-0,76) = 1,10 V. Q = [Zn2+]/[Cu2+] = 0,001/0,1 = 10^-2. E = E0 - (0,059/2) log Q = 1,10 - 0,0295 x (-2) = 1,10 + 0,059 = 1,159, dibulatkan 1,16 V."
+        },
+        {
+          "question": "Jumlah isomer struktur (termasuk isomer gugus fungsi) dari senyawa dengan rumus molekul C4H10O adalah",
+          "options": [
+            "7",
+            "4",
+            "5",
+            "8"
+          ],
+          "answer": 0,
+          "explanation": "Alkohol C4H9OH ada 4 isomer (1-butanol, 2-butanol, 2-metil-1-propanol, 2-metil-2-propanol). Eter ada 3 isomer (dietil eter, metil propil eter, metil isopropil eter). Total = 4 + 3 = 7."
+        },
+        {
+          "question": "Sebanyak 5,85 g NaCl (Mr = 58,5) dilarutkan dalam 250 g air (Kf air = 1,86 derajat C/m; NaCl terion sempurna). Titik beku larutan tersebut adalah",
+          "options": [
+            "-0,744 derajat C",
+            "-0,372 derajat C",
+            "+1,488 derajat C",
+            "-1,488 derajat C"
+          ],
+          "answer": 3,
+          "explanation": "mol NaCl = 0,1 mol; molalitas = 0,1/0,25 = 0,4 m. Faktor van't Hoff i = 2. dTf = Kf x m x i = 1,86 x 0,4 x 2 = 1,488 derajat C. Tf = 0 - 1,488 = -1,488 derajat C."
+        },
+        {
+          "question": "Jumlah elektron tidak berpasangan pada ion Fe^3+ (nomor atom Fe = 26) adalah",
+          "options": [
+            "4",
+            "3",
+            "6",
+            "5"
+          ],
+          "answer": 3,
+          "explanation": "Konfigurasi Fe: [Ar] 4s2 3d6. Fe^3+ melepas 2 elektron 4s dan 1 elektron 3d sehingga menjadi [Ar] 3d5. Lima orbital 3d masing-masing terisi satu elektron sehingga ada 5 elektron tidak berpasangan."
+        },
+        {
+          "question": "Pembakaran sempurna 11 g gas propana (C3H8, Mr = 44) menurut reaksi C3H8 + 5O2 -> 3CO2 + 4H2O membutuhkan gas O2 sebanyak (diukur pada STP)",
+          "options": [
+            "14 L",
+            "28 L",
+            "22,4 L",
+            "56 L"
+          ],
+          "answer": 1,
+          "explanation": "mol C3H8 = 11/44 = 0,25 mol. Perbandingan koefisien C3H8 : O2 = 1 : 5, sehingga mol O2 = 1,25 mol. Volume STP = 1,25 x 22,4 = 28 L."
+        },
+        {
+          "question": "Bentuk molekul XeF4 (nomor atom Xe = 54; F = 9) berdasarkan teori VSEPR adalah",
+          "options": [
+            "tetrahedral",
+            "jungkat-jungkit (see-saw)",
+            "segi empat planar",
+            "oktahedral"
+          ],
+          "answer": 2,
+          "explanation": "Xe memiliki 8 elektron valensi; 4 digunakan untuk berikatan dengan F sehingga tersisa 2 pasang elektron bebas. Total 6 domain elektron (oktahedral), dengan 2 pasang bebas saling berseberangan, sehingga bentuk molekul segi empat planar."
+        },
+        {
+          "question": "Sebanyak 25 mL larutan H2SO4 dititrasi dengan NaOH 0,1 M dan tepat netral setelah penambahan 30 mL NaOH. Konsentrasi larutan H2SO4 adalah",
+          "options": [
+            "0,12 M",
+            "0,06 M",
+            "0,03 M",
+            "0,10 M"
+          ],
+          "answer": 1,
+          "explanation": "mol NaOH = 30 x 0,1 = 3 mmol. H2SO4 + 2NaOH -> Na2SO4 + 2H2O, sehingga mol H2SO4 = 1,5 mmol. M = 1,5/25 = 0,06 M."
+        },
+        {
+          "question": "Larutan Ba(OH)2 0,001 M memiliki pH sebesar (log 2 = 0,3)",
+          "options": [
+            "11,0",
+            "10,7",
+            "11,3",
+            "12,0"
+          ],
+          "answer": 2,
+          "explanation": "Ba(OH)2 -> Ba2+ + 2OH-, sehingga [OH-] = 2 x 0,001 = 2 x 10^-3 M. pOH = 3 - log 2 = 2,7. pH = 14 - 2,7 = 11,3."
+        },
+        {
+          "question": "Sebanyak 50 mL larutan KMnO4 0,02 M dalam suasana asam tepat bereaksi dengan larutan FeSO4 0,1 M (MnO4^- + 5Fe2+ + 8H+ -> Mn2+ + 5Fe3+ + 4H2O). Volume FeSO4 yang diperlukan adalah",
+          "options": [
+            "50 mL",
+            "10 mL",
+            "25 mL",
+            "100 mL"
+          ],
+          "answer": 0,
+          "explanation": "mol KMnO4 = 50 x 0,02 = 1 mmol. Perbandingan MnO4^- : Fe2+ = 1 : 5, sehingga mol Fe2+ = 5 mmol. V = 5 mmol / 0,1 M = 50 mL."
+        },
+        {
+          "question": "Bilangan oksidasi rata-rata atom S dalam senyawa Na2S2O3 adalah",
+          "options": [
+            "+4",
+            "+6",
+            "+2",
+            "0"
+          ],
+          "answer": 2,
+          "explanation": "Jumlah bilangan oksidasi = 0: 2(+1) + 2(S) + 3(-2) = 0 sehingga 2S = +4 dan S = +2."
+        },
+        {
+          "question": "Pada elektrolisis larutan Na2SO4 dengan elektroda platina (inert), zat yang dihasilkan di katoda dan anoda berturut-turut adalah",
+          "options": [
+            "logam Na dan gas O2",
+            "gas H2 dan gas SO2",
+            "logam Na dan gas H2",
+            "gas H2 dan gas O2"
+          ],
+          "answer": 3,
+          "explanation": "Kation Na+ (golongan IA) tidak tereduksi dalam larutan, sehingga air tereduksi di katoda menghasilkan H2 dan OH-. Anion SO4^2- sukar teroksidasi, sehingga air teroksidasi di anoda menghasilkan O2 dan H+."
+        },
+        {
+          "question": "Urutan energi ionisasi pertama yang benar dari kecil ke besar untuk unsur Na, Mg, Al, dan P (periode 3) adalah",
+          "options": [
+            "Na < Al < Mg < P",
+            "Na < Mg < Al < P",
+            "Na < Mg < P < Al",
+            "Al < Na < Mg < P"
+          ],
+          "answer": 0,
+          "explanation": "Secara umum energi ionisasi naik dari kiri ke kanan dalam satu periode, tetapi Al (3p1) lebih mudah melepas elektron daripada Mg (3s2 penuh). Jadi urutannya Na < Al < Mg < P."
+        },
+        {
+          "question": "Diketahui energi ikatan (kJ/mol): H-H = 436; Cl-Cl = 243; H-Cl = 432. Perubahan entalpi reaksi H2 + Cl2 -> 2HCl adalah",
+          "options": [
+            "-185 kJ",
+            "+185 kJ",
+            "-864 kJ",
+            "-679 kJ"
+          ],
+          "answer": 0,
+          "explanation": "dH = energi ikatan pereaksi - energi ikatan produk = (436 + 243) - (2 x 432) = 679 - 864 = -185 kJ."
+        },
+        {
+          "question": "Laju suatu reaksi menjadi 2 kali lebih cepat setiap kenaikan suhu 10 derajat C. Jika pada 20 derajat C reaksi selesai dalam 64 detik, waktu yang diperlukan pada 60 derajat C adalah",
+          "options": [
+            "4 detik",
+            "8 detik",
+            "16 detik",
+            "2 detik"
+          ],
+          "answer": 0,
+          "explanation": "Kenaikan suhu 40 derajat C berarti 4 kali kelipatan 10 derajat C, sehingga laju naik 2^4 = 16 kali. Waktu = 64/16 = 4 detik."
+        },
+        {
+          "question": "Pada reaksi N2(g) + 3H2(g) <-> 2NH3(g) dengan dH = -92 kJ, hasil NH3 pada kesetimbangan dapat ditingkatkan dengan",
+          "options": [
+            "menurunkan tekanan dan menaikkan suhu",
+            "menaikkan tekanan dan menaikkan suhu",
+            "menaikkan tekanan dan menurunkan suhu",
+            "menambahkan katalis"
+          ],
+          "answer": 2,
+          "explanation": "Jumlah mol gas pereaksi (4) lebih banyak daripada produk (2), sehingga tekanan tinggi menggeser kesetimbangan ke kanan. Reaksi eksoterm, sehingga suhu rendah menggeser ke kanan. Katalis hanya mempercepat tercapainya kesetimbangan."
+        },
+        {
+          "question": "Reaksi adisi propena (CH3-CH=CH2) dengan HBr menghasilkan produk utama",
+          "options": [
+            "1-bromopropana",
+            "2-bromopropana",
+            "1,2-dibromopropana",
+            "propana"
+          ],
+          "answer": 1,
+          "explanation": "Sesuai aturan Markovnikov, atom H menempel pada karbon ikatan rangkap yang sudah memiliki lebih banyak H (CH2), sedangkan Br menempel pada karbon yang memiliki lebih sedikit H (CH). Produk utama CH3-CHBr-CH3 yaitu 2-bromopropana."
+        },
+        {
+          "question": "Oksidasi 2-propanol (alkohol sekunder) dengan oksidator kuat K2Cr2O7 dalam suasana asam menghasilkan",
+          "options": [
+            "propanal (aldehida)",
+            "asam propanoat",
+            "propanon (keton)",
+            "propena"
+          ],
+          "answer": 2,
+          "explanation": "Alkohol sekunder dioksidasi menjadi keton. 2-propanol, CH3CH(OH)CH3, menjadi CH3COCH3 (propanon) dan tidak teroksidasi lebih lanjut karena karbonil tidak memiliki hidrogen untuk dilepas."
+        }
+      ]
+    },
+    {
+      "title": "Biologi",
+      "questions": [
+        {
+          "question": "Pada tikus, gen A menentukan pigmen hitam dan gen B mengendalikan pengendapan pigmen, dengan epistasis resesif (aa menutupi ekspresi B). Persilangan AaBb x AaBb menghasilkan 160 keturunan. Jumlah keturunan berwarna putih diperkirakan",
+          "options": [
+            "10 ekor",
+            "40 ekor",
+            "30 ekor",
+            "90 ekor"
+          ],
+          "answer": 1,
+          "explanation": "Epistasis resesif menghasilkan rasio fenotipe 9 : 3 : 4 (hitam : coklat : putih). Individu putih = aaBB + aaBb + aabb = 4/16. Jumlah = 4/16 x 160 = 40 ekor."
+        },
+        {
+          "question": "Pada suatu populasi yang berada dalam kesetimbangan Hardy-Weinberg, frekuensi individu bersifat resesif (aa) adalah 4%. Jika jumlah populasi 500 individu, jumlah individu heterozigot adalah",
+          "options": [
+            "80 individu",
+            "160 individu",
+            "320 individu",
+            "20 individu"
+          ],
+          "answer": 1,
+          "explanation": "q^2 = 0,04 sehingga q = 0,2 dan p = 0,8. Frekuensi heterozigot = 2pq = 2 x 0,8 x 0,2 = 0,32. Jumlah = 0,32 x 500 = 160 individu."
+        },
+        {
+          "question": "Gen A dan B terpaut pada kromosom yang sama dengan nilai pindah silang 20%. Individu AB/ab diuji silang dengan ab/ab. Persentase keturunan dengan genotipe Ab/ab adalah",
+          "options": [
+            "20%",
+            "40%",
+            "5%",
+            "10%"
+          ],
+          "answer": 3,
+          "explanation": "Nilai pindah silang 20% berarti gamet rekombinan (Ab + aB) = 20%, masing-masing 10%. Gamet Ab = 10% sehingga keturunan Ab/ab = 10%."
+        },
+        {
+          "question": "Seorang wanita bergolongan darah A heterozigot (IA IO) menikah dengan pria bergolongan darah B heterozigot (IB IO). Peluang mereka memiliki anak laki-laki bergolongan darah AB adalah",
+          "options": [
+            "1/4",
+            "1/2",
+            "1/16",
+            "1/8"
+          ],
+          "answer": 3,
+          "explanation": "Peluang anak bergolongan AB (IA IB) = 1/4. Peluang anak laki-laki = 1/2. Peluang gabungan = 1/4 x 1/2 = 1/8."
+        },
+        {
+          "question": "Jumlah total NADH dan FADH2 yang dihasilkan dari oksidasi sempurna satu molekul glukosa (glikolisis, dekarboksilasi oksidatif, dan siklus Krebs) adalah",
+          "options": [
+            "6 NADH dan 4 FADH2",
+            "10 NADH dan 2 FADH2",
+            "8 NADH dan 4 FADH2",
+            "12 NADH dan 2 FADH2"
+          ],
+          "answer": 1,
+          "explanation": "Glikolisis: 2 NADH. Dekarboksilasi oksidatif: 2 NADH. Siklus Krebs (2 putaran): 6 NADH dan 2 FADH2. Total = 10 NADH dan 2 FADH2."
+        },
+        {
+          "question": "Pada fotofosforilasi siklik pada reaksi terang fotosintesis, produk yang dihasilkan adalah",
+          "options": [
+            "ATP dan NADPH tanpa O2",
+            "ATP saja, tanpa NADPH dan O2",
+            "NADPH dan O2 tanpa ATP",
+            "ATP, NADPH, dan O2"
+          ],
+          "answer": 1,
+          "explanation": "Pada jalur siklik hanya fotosistem I yang terlibat dan elektron kembali ke P700 melalui rantai transpor elektron. Hanya ATP yang terbentuk; tidak ada fotolisis air (tanpa O2) dan tidak ada NADPH."
+        },
+        {
+          "question": "Seorang penderita diabetes melitus mengeluarkan glukosa dalam urin walaupun glukosa normalnya direabsorpsi di tubulus proksimal. Penyebab utama kondisi tersebut adalah",
+          "options": [
+            "glomerulus tidak dapat menyaring glukosa",
+            "kapasitas transpor maksimum protein pengangkut glukosa di tubulus proksimal terlampaui",
+            "lengkung Henle memproduksi enzim pemecah glukosa",
+            "hormon ADH meningkatkan filtrasi glukosa"
+          ],
+          "answer": 1,
+          "explanation": "Glukosa bebas disaring di glomerulus dan direabsorpsi lewat transporter di tubulus proksimal. Pada hiperglikemia (di atas ambang ginjal sekitar 180 mg/dL), transporter jenuh sehingga sisa glukosa tidak terserap dan keluar bersama urin."
+        },
+        {
+          "question": "Pada potensial aksi neuron, fase repolarisasi terutama disebabkan oleh",
+          "options": [
+            "masuknya ion Na+ melalui kanal Na+",
+            "keluarnya ion K+ melalui kanal K+ bergerbang tegangan",
+            "masuknya ion Cl- ke dalam sel",
+            "pompa Na+/K+ yang langsung membalik muatan membran"
+          ],
+          "answer": 1,
+          "explanation": "Depolarisasi disebabkan masuknya Na+. Setelah puncak, kanal Na+ menutup dan kanal K+ bergerbang tegangan terbuka, sehingga K+ keluar dan potensial membran kembali negatif (repolarisasi)."
+        },
+        {
+          "question": "Dibandingkan respons imun primer, respons imun sekunder terhadap antigen yang sama ditandai dengan",
+          "options": [
+            "fase laten lebih singkat dan antibodi (terutama IgG) lebih banyak oleh sel memori",
+            "fase laten lebih lama dan antibodi dominan IgM",
+            "antibodi dihasilkan lebih sedikit karena antigen sudah dikenali",
+            "hanya melibatkan imunitas bawaan tanpa limfosit"
+          ],
+          "answer": 0,
+          "explanation": "Pada paparan kedua, sel B dan T memori mengenali antigen dengan cepat sehingga respons lebih cepat, lebih kuat, bertahan lebih lama, dan didominasi IgG dengan afinitas lebih tinggi."
+        },
+        {
+          "question": "Dalam rantai makanan padi -> tikus -> ular -> elang, energi yang tersimpan pada padi 50.000 kJ. Jika efisiensi perpindahan energi antartingkat trofik 10%, energi yang diterima elang adalah",
+          "options": [
+            "500 kJ",
+            "5 kJ",
+            "5.000 kJ",
+            "50 kJ"
+          ],
+          "answer": 3,
+          "explanation": "Terjadi 3 kali perpindahan energi: 50.000 x 10% = 5.000 kJ (tikus); x 10% = 500 kJ (ular); x 10% = 50 kJ (elang)."
+        },
+        {
+          "question": "Sebanyak 4 molekul DNA cetakan diamplifikasi dengan PCR selama 5 siklus dengan efisiensi sempurna. Jumlah molekul DNA yang dihasilkan adalah",
+          "options": [
+            "128",
+            "20",
+            "64",
+            "256"
+          ],
+          "answer": 0,
+          "explanation": "Jumlah salinan = N0 x 2^n = 4 x 2^5 = 4 x 32 = 128 molekul."
+        },
+        {
+          "question": "Spesiasi alopatrik terjadi melalui urutan peristiwa berikut, yaitu",
+          "options": [
+            "isolasi reproduksi, isolasi geografi, lalu perbedaan seleksi",
+            "poliploidi mendadak dalam satu habitat yang sama, lalu isolasi geografi",
+            "migrasi acak tanpa pemisahan populasi, lalu hibridisasi",
+            "isolasi geografi, perbedaan tekanan seleksi dan hanyutan genetik, lalu isolasi reproduksi"
+          ],
+          "answer": 3,
+          "explanation": "Populasi terpisah oleh penghalang geografis, aliran gen terhenti, sehingga seleksi alam dan hanyutan genetik yang berbeda mengakumulasi perbedaan genetik hingga muncul isolasi reproduksi dan spesies baru."
+        },
+        {
+          "question": "Untai cetakan DNA 3'-TAC GGA TTC-5' ditranskripsi dan ditranslasi (kodon: AUG = Met, CCU = Pro, AAG = Lys, GGA = Gly, UUC = Phe, UAC = Tyr). Urutan asam amino yang terbentuk adalah",
+          "options": [
+            "Met - Pro - Lys",
+            "Met - Gly - Phe",
+            "Tyr - Pro - Lys",
+            "Met - Pro - Phe"
+          ],
+          "answer": 0,
+          "explanation": "mRNA komplementer terhadap cetakan: 5'-AUG CCU AAG-3'. Translasi menghasilkan Met - Pro - Lys."
+        },
+        {
+          "question": "Anemia sel sabit terjadi akibat perubahan satu basa pada gen globin beta (GAG menjadi GUG pada mRNA) sehingga asam glutamat digantikan valin. Jenis mutasi ini adalah",
+          "options": [
+            "mutasi titik substitusi tipe missense",
+            "mutasi titik tipe nonsense",
+            "mutasi frameshift akibat delesi",
+            "mutasi kromosom tipe translokasi"
+          ],
+          "answer": 0,
+          "explanation": "Penggantian satu basa (substitusi) yang mengubah kodon untuk satu asam amino menjadi kodon asam amino lain disebut missense. Bukan nonsense (menghasilkan kodon stop) dan bukan frameshift (penambahan/pengurangan basa yang menggeser kerangka baca)."
+        },
+        {
+          "question": "Sel tubuh suatu hewan memiliki 2n = 8 kromosom. Jumlah kromosom pada sel yang berada pada metafase II meiosis adalah",
+          "options": [
+            "8 kromosom (masing-masing 1 kromatid)",
+            "8 kromosom (masing-masing 2 kromatid)",
+            "4 kromosom (masing-masing terdiri atas 2 kromatid)",
+            "2 kromosom (masing-masing 4 kromatid)"
+          ],
+          "answer": 2,
+          "explanation": "Pada akhir meiosis I jumlah kromosom tereduksi dari 8 menjadi 4 (haploid). Pada metafase II, kromosom masih berupa 2 kromatid sehingga ada 4 kromosom, tiap kromosom terdiri atas 2 kromatid."
+        },
+        {
+          "question": "Seorang wanita pembawa buta warna (XC Xc) menikah dengan pria buta warna (Xc Y). Peluang mereka memiliki anak perempuan buta warna adalah",
+          "options": [
+            "1/2",
+            "1/8",
+            "0",
+            "1/4"
+          ],
+          "answer": 3,
+          "explanation": "Gamet ibu: XC dan Xc; gamet ayah: Xc dan Y. Keturunan: XC Xc, Xc Xc, XC Y, Xc Y masing-masing 1/4. Anak perempuan buta warna (Xc Xc) = 1/4."
+        },
+        {
+          "question": "Suatu mRNA matang (tanpa daerah UTR) tersusun atas 903 nukleotida termasuk kodon stop. Jumlah asam amino pada polipeptida yang terbentuk adalah",
+          "options": [
+            "301",
+            "299",
+            "903",
+            "300"
+          ],
+          "answer": 3,
+          "explanation": "Jumlah kodon = 903/3 = 301. Satu kodon adalah kodon stop yang tidak mengkode asam amino. Jumlah asam amino = 301 - 1 = 300."
+        },
+        {
+          "question": "Tumbuhan C4 seperti jagung memiliki laju fotorespirasi yang rendah dibandingkan tumbuhan C3 karena",
+          "options": [
+            "enzim rubisco hanya aktif pada malam hari",
+            "stomata selalu terbuka saat siang hari",
+            "enzim PEP karboksilase tidak mengikat O2 dan CO2 dipekatkan di sel seludang berkas pembuluh",
+            "tidak memiliki siklus Calvin"
+          ],
+          "answer": 2,
+          "explanation": "Pada tumbuhan C4, CO2 mula-mula difiksasi oleh PEP karboksilase (afinitas tinggi terhadap CO2 dan tidak bereaksi dengan O2) di sel mesofil, lalu dilepas di sel seludang berkas pembuluh sehingga rubisco bekerja pada konsentrasi CO2 tinggi dan fotorespirasi menurun."
+        },
+        {
+          "question": "Urutan jalur darah kaya oksigen dari paru-paru hingga keluar menuju seluruh tubuh adalah",
+          "options": [
+            "arteri pulmonalis -> atrium kiri -> ventrikel kiri -> aorta",
+            "vena pulmonalis -> atrium kanan -> ventrikel kanan -> aorta",
+            "vena pulmonalis -> atrium kiri -> ventrikel kiri -> aorta",
+            "vena kava -> atrium kiri -> ventrikel kiri -> aorta"
+          ],
+          "answer": 2,
+          "explanation": "Darah beroksigen dari paru-paru dibawa vena pulmonalis ke atrium kiri, lalu ke ventrikel kiri, kemudian dipompa melalui aorta ke seluruh tubuh."
+        },
+        {
+          "question": "Seorang pasien memiliki kadar TSH tinggi dan kadar tiroksin (T4) rendah dalam darah. Kemungkinan penyebabnya adalah",
+          "options": [
+            "hipofisis anterior tidak menghasilkan TSH",
+            "hipotalamus menghasilkan TRH berlebihan sehingga T4 turun",
+            "kelenjar tiroid tidak mampu memproduksi tiroksin secara memadai",
+            "kelenjar tiroid menghasilkan tiroksin berlebihan"
+          ],
+          "answer": 2,
+          "explanation": "TSH yang tinggi menunjukkan hipofisis berfungsi. T4 yang rendah berarti tiroid gagal merespons TSH. Karena umpan balik negatif T4 berkurang, hipofisis terus meningkatkan TSH. Ini disebut hipotiroid primer."
+        },
+        {
+          "question": "Dalam suatu percobaan enzim, ditambahkan inhibitor kompetitif. Dampak yang terjadi pada kinetika enzim adalah",
+          "options": [
+            "Vmax menurun dan Km tetap",
+            "Vmax tetap dan Km meningkat",
+            "Vmax menurun dan Km menurun",
+            "Vmax meningkat dan Km tetap"
+          ],
+          "answer": 1,
+          "explanation": "Inhibitor kompetitif bersaing dengan substrat di sisi aktif. Dengan substrat yang sangat banyak, inhibitor dapat tersaingi sehingga Vmax tetap tercapai, tetapi diperlukan konsentrasi substrat lebih tinggi untuk mencapai 1/2 Vmax sehingga Km tampak meningkat."
+        },
+        {
+          "question": "Sel tumbuhan memiliki potensial osmotik -0,8 MPa dan potensial tekanan +0,5 MPa, lalu dimasukkan ke larutan dengan potensial air -0,5 MPa. Yang terjadi adalah",
+          "options": [
+            "air masuk ke sel karena potensial air sel lebih rendah dari larutan",
+            "tidak ada pergerakan air karena kedua potensial sama",
+            "air masuk ke sel karena potensial osmotik sel lebih negatif",
+            "air keluar dari sel karena potensial air sel (-0,3 MPa) lebih tinggi daripada larutan"
+          ],
+          "answer": 3,
+          "explanation": "Potensial air sel = potensial osmotik + potensial tekanan = -0,8 + 0,5 = -0,3 MPa. Air bergerak dari potensial air lebih tinggi (-0,3) ke lebih rendah (-0,5), sehingga air keluar dari sel dan sel dapat mengalami plasmolisis."
+        },
+        {
+          "question": "Suatu populasi tumbuh mengikuti model pertumbuhan logistik dengan daya dukung lingkungan (K) = 1.000 individu. Laju pertambahan populasi paling tinggi terjadi saat ukuran populasi mendekati",
+          "options": [
+            "500 individu",
+            "1.000 individu",
+            "250 individu",
+            "750 individu"
+          ],
+          "answer": 0,
+          "explanation": "Pada model logistik dN/dt = rN(K - N)/K. Nilai ini maksimum saat N = K/2 = 500 individu."
+        },
+        {
+          "question": "Sayap kelelawar dan sayap belalang (serangga) merupakan contoh",
+          "options": [
+            "organ analog sebagai hasil evolusi konvergen",
+            "organ homolog sebagai hasil evolusi divergen",
+            "organ homolog sebagai hasil evolusi konvergen",
+            "organ vestigial sebagai hasil evolusi divergen"
+          ],
+          "answer": 0,
+          "explanation": "Kedua sayap memiliki fungsi sama (terbang) tetapi struktur dasar dan asal embrionalnya berbeda, sehingga merupakan organ analog yang muncul karena tekanan seleksi serupa (evolusi konvergen)."
+        },
+        {
+          "question": "Salah satu ciri daur lisogenik pada bakteriofag adalah",
+          "options": [
+            "sel bakteri segera lisis setelah DNA virus masuk",
+            "DNA bakteri dihancurkan seluruhnya oleh virus",
+            "virus langsung merakit partikel baru dan keluar dari sel",
+            "DNA virus menyatu dengan kromosom bakteri sebagai profag dan ikut direplikasi saat sel bakteri membelah"
+          ],
+          "answer": 3,
+          "explanation": "Pada daur lisogenik, DNA virus terintegrasi ke kromosom inang sebagai profag dan diwariskan ke sel anak tanpa menghancurkan sel inang. Ketika terinduksi, virus dapat beralih ke daur litik."
+        }
+      ]
+    }
+  ]
+}
